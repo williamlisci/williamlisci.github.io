@@ -9,3 +9,9 @@
 ## Links
 1. [My Blog](https://williamlisci.github.io/blog). [coming soon]
 2. Reach out to me at X@Y, where X=williamli.sci and Y=gmail.com.
+
+## Thinking
+1. “A machine will never play chess.” (IBM DeepBlue beat Garry Kasparov in 1997).
+2. “A machine will never be able to translate.” (Google Translate supports 109 languages and can translate between them with high accuracy).
+3. “A machine will never be able to drive a car.” (Although we are still not there yet in terms of fully-autonomous vehicles, AI can arguably drive better than humans in usual road scenarios).
+4. Most important question: Will Machines Ever Become Conscious?
