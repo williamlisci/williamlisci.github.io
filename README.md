@@ -11,10 +11,11 @@
 2. Reach out to me at X@Y, where X=williamli.sci and Y=gmail.com.
 
 ## Thinking
-1. A machine will never play chess. (IBM DeepBlue beat Garry Kasparov in 1997).
-2. A machine will never be able to translate. (google translate supports over 100 languages and can translate between them with high accuracy).
-3. A machine will never be able to drive a car. (Although we are still not there yet in terms of fully-autonomous vehicles, AI can arguably drive better than humans in usual road scenarios).
-4. Most important question: <mark>Can artificial intelligence become self-aware?</mark>
+1. A computers will never play chess. (IBM DeepBlue beat Garry Kasparov in 1997).
+2. A computers will never be able to translate. (google translate supports over 100 languages and can translate between them with high accuracy).
+3. A  will never be able to drive a car. (Although we are still not there yet in terms of fully-autonomous vehicles, AI can arguably drive better than humans in usual road scenarios).
+4. Most important question: <mark>Can computers think?</mark> - British Mathematician Alan Turing
 
 ## Quotes
-1. Every great move forward in your life begins with a leap of faith, a step into the unknown. – Brian Tracy
+1. "Every great move forward in your life begins with a leap of faith, a step into the unknown." – Brian Tracy
+2. "You’ve got to think about big things while you’re doing small things so that all the small things go in the right direction." - Alvin Toffler
