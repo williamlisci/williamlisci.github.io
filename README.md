@@ -17,6 +17,4 @@
 4. Most important question: <mark>Can computers think?</mark> - Alan Turing
 
 ## Quotes
-1. "Every great move forward in your life begins with a leap of faith, a step into the unknown." – Brian Tracy
-2. "You’ve got to think about big things while you’re doing small things so that all the small things go in the right direction." - Alvin Toffler
-3. "Everything is energy. And that's all there is to it. Match the frequency of the reality you want and you cannot help but get that reality." - Albert Einstein. 
+1. "Everything is energy. And that's all there is to it. Match the frequency of the reality you want and you cannot help but get that reality." - Albert Einstein. 
