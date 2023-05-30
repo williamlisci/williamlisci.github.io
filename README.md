@@ -7,7 +7,7 @@
 4. Fields: <mark>Quantum AI</mark>
 
 ## Links
-1. [My Blog](https://williamlisci.github.io/blog). [coming soon]
+1. [My Blog](https://williamlisci.blogspot.com/).
 2. Reach out to me at X@Y, where X=williamli.sci and Y=gmail.com.
 
 ## Thinking
