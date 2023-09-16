@@ -14,7 +14,6 @@
 1. A computer will never be better at chess than a human. (IBM DeepBlue beat Garry Kasparov in 1997).
 2. A computer will never be able to translate. (Google translate supports over 100 languages and can translate between them with high accuracy).
 3. A computer will never be able to drive a car. (Although we are still not there yet in terms of fully-autonomous vehicles, AI can arguably drive better than humans in usual road scenarios).
-4. Most important question: <mark>Can computers think?</mark> - Alan Turing
+4. Next important question: <mark>Can computers think?</mark> - Alan Turing
 
-## Quotes
-1. "Everything is energy. And that's all there is to it. Match the frequency of the reality you want and you cannot help but get that reality." - Albert Einstein. 
+&copy; 2022-2023 | Enjoy the game.
