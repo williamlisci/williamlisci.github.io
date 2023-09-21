@@ -17,6 +17,6 @@
 4. Next important question: <mark>Can computers think?</mark> - Alan Turing
 
 ## Videos
-1. [Bí ẩn của sự hỗn loan](https://www.youtube.com/watch?v=anWRa7TiXvw)
+1. [Bí ẩn của sự hỗn loạn](https://www.youtube.com/watch?v=anWRa7TiXvw)
 
 &copy; 2022-2023 | Enjoy the game.
