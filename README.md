@@ -16,7 +16,7 @@
 3. A computer will never be able to drive a car. (Although we are still not there yet in terms of fully-autonomous vehicles, AI can arguably drive better than humans in usual road scenarios).
 4. Next important question: <mark>Can computers think?</mark> - Alan Turing
 
-## Videos
-1. [Bí ẩn của sự hỗn loạn](https://www.youtube.com/watch?v=anWRa7TiXvw)
+## Blessed are those who have not seen and yet believe.
+1. [Tìm trật tự trong sự hỗn loạn](https://www.youtube.com/watch?v=anWRa7TiXvw)
 
-&copy; 2022-2023 | Enjoy the game.
+&copy; 2022-2023 | Enjoy.
