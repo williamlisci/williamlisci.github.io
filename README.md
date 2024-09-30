@@ -11,7 +11,7 @@
 2. Reach out to me at X@Y, where X=williamli.sci and Y=gmail.com.
 
 ## Thinking
-1. A computer will never be better at chess than a human. (IBM DeepBlue beat Garry Kasparov in 1997).
+1. A computer will never be better at chess than a human. (AlphaGo defeated a human Go world champion in 2016).
 2. A computer will never be able to translate. (Google translate supports over 100 languages and can translate between them with high accuracy).
 3. A computer will never be able to drive a car. (Although we are still not there yet in terms of fully-autonomous vehicles, AI can arguably drive better than humans in usual road scenarios).
 4. Next important question: <mark>Can computers think?</mark> - Alan Turing
