@@ -20,4 +20,4 @@
 1. [Tìm trật tự trong sự hỗn loạn](https://www.youtube.com/watch?v=anWRa7TiXvw)
 2. [Does Love Exist?](https://www.youtube.com/watch?v=5EXvBGxAPx0)
 
-&copy; 2022-2023 | Enjoy.
+&copy; 2022 | Enjoy.
