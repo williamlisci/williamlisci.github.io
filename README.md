@@ -18,6 +18,6 @@
 
 ## Blessed are those who have not seen and yet believe.
 1. [Tìm trật tự trong sự hỗn loạn](https://www.youtube.com/watch?v=anWRa7TiXvw)
-2. [Does Love Exist?](https://open.spotify.com/playlist/5p8VgoTlOgxmTXTjbGCAoE?si=TZFWTGb4RuWdGtRCneEvKA)
+2. [Does Love Exist?](https://youtu.be/faaJcXPs-Rc?si=JPxBHxS0kWdGP_Ln)
 
 &copy; 2022 | Enjoy.
