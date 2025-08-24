@@ -1,68 +1,179 @@
-:root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
-  font-weight: 400;
-
-  color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
-
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-a {
-  font-weight: 500;
-  color: #646cff;
-  text-decoration: inherit;
-}
-a:hover {
-  color: #535bf2;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 body {
-  margin: 0;
-  display: flex;
-  place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
+    font-family: 'Arial', sans-serif;
+    color: #fff;
+    overflow-x: hidden;
+    background: #000000; /* Đổi màu nền dự phòng thành đen */
 }
 
-h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
+html {
+    scroll-behavior: smooth;
 }
 
-button {
-  border-radius: 8px;
-  border: 1px solid transparent;
-  padding: 0.6em 1.2em;
-  font-size: 1em;
-  font-weight: 500;
-  font-family: inherit;
-  background-color: #1a1a1a;
-  cursor: pointer;
-  transition: border-color 0.25s;
+/* --- KÍCH HOẠT LẠI BACKGROUND 3D --- */
+.scene-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 0; /* Đặt canvas 3D ở lớp dưới */
+    pointer-events: auto; /* Canvas vẫn nhận sự kiện */
 }
-button:hover {
-  border-color: #646cff;
+/* ------------------------------------- */
+
+/* Phần tiêu đề */
+header {
+    height: 100vh; /* Chiếm toàn bộ chiều cao màn hình */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px; /* Thêm padding để nội dung không bị sát viền */
+    z-index: 1; /* Đặt header ở lớp trên cùng */
+    position: relative; /* Thêm position: relative để z-index hoạt động */
+    pointer-events: none; /* Header không chặn thao tác chuột */
 }
-button:focus,
-button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
+header * {
+    pointer-events: auto; /* Cho phép nút/link trong header vẫn click được */
+}
+header h1 {
+    font-size: clamp(2rem, 4vw, 3.5rem); /* Font co giãn linh hoạt */
+    line-height: 1.2;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    letter-spacing: 2px;
 }
 
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
+header h3 {
+    margin-top: 10px;
+    font-size: clamp(1rem, 2vw, 1.25rem);
+    font-weight: normal;
+    color: #ccc;
+}
+
+header .hi-color {
+    color: #ff4d4d; /* Đổi màu đỏ cho nổi bật hơn */
+    font-weight: bold;
+}
+
+/* Thêm style cho caption dưới header */
+.header-caption {
+    position: absolute;
+    bottom: 20px;
+    font-size: 0.9rem;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+
+/* Phần nội dung chính (blog-content) */
+.blog-content {
+    padding: 50px;
+    background: #f4f4f4;
+    color: #333;
+    position: relative; /* Đảm bảo z-index hoạt động */
+    z-index: 1; /* Nằm trên lớp background */
+}
+
+.blog-content section {
+    max-width: 800px;
+    margin: 0 auto 40px auto; /* Tự động căn giữa và thêm khoảng cách */
+    text-align: left;
+}
+
+.blog-content h3 {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+}
+
+.blog-content ul {
+    list-style-position: inside;
+    padding-left: 0;
+    line-height: 1.6;
+}
+/* Nút "WHO AM I? ↓" - Kéo xuống */
+.pull-down {
+
+    background: none;
+    /*padding: 0;*/
+    margin-top: 30px;
+    border: none;
+    text-decoration: none;
+
+    /* Style mới */
+    display: inline-block;
+    padding: 12px 28px;
+    font-weight: bold;
+    font-size: 1rem;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 50px; /* Bo tròn nút để trông hiện đại hơn */
+
+    /* Gradient màu rực rỡ */
+    background: linear-gradient(45deg, #ff6b6b, #ffa500);
+
+    /* Hiệu ứng chuyển đổi mượt mà */
+    transition: all 0.4s ease;
+
+    /* Đổ bóng nhẹ */
+    box-shadow: 0 4px 15px rgba(255, 107, 107, 0.4);
+}
+
+/* Hiệu ứng khi di chuột vào */
+.pull-down:hover {
+    transform: translateY(-5px); /* Nâng nút lên trên */
+    box-shadow: 0 8px 25px rgba(255, 107, 107, 0.6); /* Đổ bóng mạnh hơn */
+    filter: brightness(1.1); /* Sáng hơn một chút */
+}
+
+/* Hiệu ứng khi nhấp vào */
+.pull-down:active {
+    transform: translateY(-2px); /* Lún xuống nhẹ */
+    box-shadow: 0 2px 10px rgba(255, 107, 107, 0.3);
+}
+
+    /* Nút "Pull Up" - Kéo lên */
+.pull-up {
+    /* Giữ lại các style cơ bản từ file gốc */
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 40px; /* Đặt xa lề hơn để trông cân đối */
+    padding: 12px 28px;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 50px;
+    border: none;
+    text-decoration: none;
+
+    /* Gradient màu rực rỡ khác */
+    background: linear-gradient(45deg, #00d2ff, #3a7bd5);
+
+    /* Hiệu ứng chuyển đổi */
+    transition: all 0.4s ease;
+
+    /* Đổ bóng nhẹ */
+    box-shadow: 0 4px 15px rgba(0, 210, 255, 0.4);
+}
+
+/* Hiệu ứng khi di chuột vào */
+.pull-up:hover {
+    transform: translateX(-50%) translateY(-5px); /* Nâng nút lên trên */
+    box-shadow: 0 8px 25px rgba(0, 210, 255, 0.6); /* Đổ bóng mạnh hơn */
+    filter: brightness(1.1);
+}
+
+/* Hiệu ứng khi nhấp vào */
+.pull-up:active {
+    transform: translateX(-50%) translateY(-2px); /* Lún xuống nhẹ */
+    box-shadow: 0 2px 10px rgba(0, 210, 255, 0.3);
 }
