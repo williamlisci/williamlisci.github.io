@@ -1,0 +1,169 @@
+.homePage {
+    background: #000000;
+    color: #ffffff;
+}
+
+/* --- KÍCH HOẠT LẠI BACKGROUND 3D --- */
+.sceneBackground {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 0; /* Đặt canvas 3D ở lớp dưới */
+    pointer-events: auto; /* Canvas vẫn nhận sự kiện */
+}
+
+/* Phần tiêu đề */
+.homeHeader {
+    height: 100vh; /* Chiếm toàn bộ chiều cao màn hình */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /*text-align: center;*/
+    padding: 20px; /* Thêm padding để nội dung không bị sát viền */
+    z-index: 1; /* Đặt header ở lớp trên cùng */
+    position: relative; /* Thêm position: relative để z-index hoạt động */
+    pointer-events: none; /* Header không chặn thao tác chuột */
+}
+
+.homeHeader * {
+    pointer-events: auto; /* Cho phép nút/link trong header vẫn click được */
+}
+
+.homeHeader h1 {
+    font-size: clamp(2rem, 4vw, 3.5rem); /* Font co giãn linh hoạt */
+    line-height: 1.2;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    letter-spacing: 5px;
+    color:#cccccc;
+}
+
+.homeHeader h3 {
+    margin-top: 10px;
+    font-size: clamp(1rem, 2vw, 1.25rem);
+    font-weight: normal;
+    color: #ffffff;
+}
+
+.homeHeader .hiColor {
+    color: #ff4d4d; /* Đổi màu đỏ cho nổi bật hơn */
+    font-weight: bold;
+}
+
+/* Thêm style cho caption dưới header */
+.headerCaption {
+    position: absolute;
+    bottom: 20px;
+    font-size: 0.9rem;
+    color: #ffa500;
+}
+
+
+/* Phần nội dung chính (blog-content) */
+.blogContent {
+    padding: 50px;
+    background: #f4f4f4;
+    color: #333333;
+    position: relative; /* Đảm bảo z-index hoạt động */
+    z-index: 1; /* Nằm trên lớp background */
+}
+
+.blogContent section {
+    max-width: 800px;
+    margin: 0 auto 40px auto; /* Tự động căn giữa và thêm khoảng cách */
+    text-align: left;
+}
+
+.blogContent h3 {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+}
+
+.blogContent ul {
+    list-style-position: inside;
+    padding-left: 0;
+    line-height: 1.6;
+}
+
+/* Nút "WHO AM I? ↓" - Kéo xuống */
+.pullDown {
+    background: none;
+    /*padding: 0;*/
+    margin-top: 30px;
+    border: none;
+    text-decoration: none;
+
+    /* Style mới */
+    display: inline-block;
+    padding: 12px 28px;
+    font-weight: bold;
+    font-size: 1rem;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 50px; /* Bo tròn nút để trông hiện đại hơn */
+
+    /* Gradient màu rực rỡ */
+    background: linear-gradient(45deg, #ff6b6b, #ffa500);
+
+    /* Hiệu ứng chuyển đổi mượt mà */
+    transition: all 0.4s ease;
+
+    /* Đổ bóng nhẹ */
+    box-shadow: 0 4px 15px rgba(255, 107, 107, 0.4);
+}
+
+/* Hiệu ứng khi di chuột vào */
+.pullDown:hover {
+    transform: translateY(-5px); /* Nâng nút lên trên */
+    box-shadow: 0 8px 25px rgba(255, 107, 107, 0.6); /* Đổ bóng mạnh hơn */
+    filter: brightness(1.1); /* Sáng hơn một chút */
+}
+
+/* Hiệu ứng khi nhấp vào */
+.pullDown:active {
+    transform: translateY(-2px); /* Lún xuống nhẹ */
+    box-shadow: 0 2px 10px rgba(255, 107, 107, 0.3);
+}
+
+/* Nút "Pull Up" - Kéo lên */
+.pullUp {
+    /* Giữ lại các style cơ bản từ file gốc */
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 40px; /* Đặt xa lề hơn để trông cân đối */
+    padding: 12px 28px;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 50px;
+    border: none;
+    text-decoration: none;
+
+    /* Gradient màu rực rỡ khác */
+    background: linear-gradient(45deg, #00d2ff, #3a7bd5);
+
+    /* Hiệu ứng chuyển đổi */
+    transition: all 0.4s ease;
+
+    /* Đổ bóng nhẹ */
+    box-shadow: 0 4px 15px rgba(0, 210, 255, 0.4);
+}
+
+/* Hiệu ứng khi di chuột vào */
+.pullUp:hover {
+    transform: translateX(-50%) translateY(-5px); /* Nâng nút lên trên */
+    box-shadow: 0 8px 25px rgba(0, 210, 255, 0.6); /* Đổ bóng mạnh hơn */
+    filter: brightness(1.1);
+}
+
+/* Hiệu ứng khi nhấp vào */
+.pullUp:active {
+    transform: translateX(-50%) translateY(-2px); /* Lún xuống nhẹ */
+    box-shadow: 0 2px 10px rgba(0, 210, 255, 0.3);
+}

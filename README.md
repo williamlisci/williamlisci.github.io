@@ -1,0 +1,1 @@
+- blog đơn giản, không cần cơ sở dữ liệu, sử dụng tệp Markdown để lưu trữ nội dung.

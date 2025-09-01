@@ -1,0 +1,189 @@
+/* src/assets/css/blog.css (style tổng quát) */
+
+/* Font chữ và màu sắc cơ bản */
+body {
+    background-color: #f5f5f5;
+    color: #333;
+    line-height: 1.1;
+    margin: 0;
+    padding: 0;
+    font-size: medium;
+}
+
+/* Container chính của trang */
+.blog-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+/* Tiêu đề bài viết */
+h1 {
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #2c3e50;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 0.5rem;
+}
+
+/* Tiêu đề phụ */
+h2, h3, h4 {
+    color: #2c3e50;
+    margin-top: 1.5rem;
+    margin-bottom: 0.8rem;
+}
+
+/* Nội dung bài viết (đoạn văn) */
+p {
+    margin-bottom: 1.5rem;
+}
+
+/* Danh sách */
+ul, ol {
+    margin-bottom: 1.5rem;
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 0.5rem;
+}
+
+/* Liên kết trong bài viết */
+a {
+    color: #3498db;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #2980b9;
+    text-decoration: underline;
+}
+
+/* Đoạn trích (blockquote) */
+blockquote {
+    border-left: 4px solid #3498db;
+    background-color: #ecf0f1;
+    padding: 1rem 1.5rem;
+    margin: 1.5rem 0;
+    font-style: italic;
+    color: #555;
+    border-radius: 4px;
+}
+
+/* Code inline */
+code {
+    background-color: #f0f0f0;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-family: 'Consolas', monospace;
+    color: #c0392b;
+}
+
+/* Khối code block */
+pre {
+    background-color: #2d2d2d;
+    color: #f1f1f1;
+    padding: 1rem;
+    border-radius: 6px;
+    overflow-x: auto;
+    font-family: 'Consolas', monospace;
+    line-height: 1.4;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+/*module css*/
+.introText {
+
+    max-width: 74rem;
+    margin: 0 auto;
+    padding-top: 1.4rem;
+    padding-bottom: 1rem;
+    padding-bottom: 0.5rem; /* Giảm padding để gần với input hơn */
+}
+
+.introText p {
+    font-size: 1rem;
+    color: #333333;
+    line-height: 2rem;
+}
+
+.postList {
+    max-width: 74rem;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+    background: #f8f5f2;
+    color: #333333;
+    min-height: 100vh;
+}
+
+.postListItems {
+    list-style: disc;
+    padding-left: 40px;
+}
+
+.postListItems li {
+    margin-bottom: 0.5rem;
+}
+
+.postListItems a {
+    font-size: 1rem;
+    font-weight: normal;
+    color: #333;
+    text-decoration: underline;
+    transition: color 0.3s ease;
+}
+
+.postListItems a:hover {
+    color: #000;
+}
+
+/* Style cho container tìm kiếm */
+.searchContainer {
+    display: flex;
+    margin-top: 1rem;
+    gap: 0.5rem;
+}
+
+/* Style cho ô input tìm kiếm */
+.searchInput {
+    flex-grow: 1; /* Cho phép ô input mở rộng */
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    transition: border-color 0.3s ease;
+}
+
+.searchInput:focus {
+    border-color: #007bff; /* Đổi màu viền khi được focus */
+}
+
+.postDetails {
+    position: relative;
+    box-sizing: border-box;
+    display: block !important;
+    visibility: visible !important;
+    unicode-bidi: isolate;
+    color: #000000 !important;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #ffffff !important;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.postDetails img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    display: block;
+    margin: 1rem auto;
+}
