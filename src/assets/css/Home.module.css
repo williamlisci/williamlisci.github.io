@@ -48,7 +48,7 @@
 }
 
 .homeHeader .hiColor {
-    color: #ff4d4d; /* Đổi màu đỏ cho nổi bật hơn */
+    color: #007bff; /* Đổi màu đỏ cho nổi bật hơn */
     font-weight: bold;
 }
 
@@ -113,20 +113,23 @@
     transition: all 0.4s ease;
 
     /* Đổ bóng nhẹ */
-    box-shadow: 0 4px 15px rgba(255, 107, 107, 0.4);
+    box-shadow: 0 5px 15px rgba(255, 107, 107, 0.4);
 }
 
 /* Hiệu ứng khi di chuột vào */
 .pullDown:hover {
     transform: translateY(-5px); /* Nâng nút lên trên */
-    box-shadow: 0 8px 25px rgba(255, 107, 107, 0.6); /* Đổ bóng mạnh hơn */
+    box-shadow: 0 10px 30px rgba(255, 107, 107, 0.6);
     filter: brightness(1.1); /* Sáng hơn một chút */
+    text-decoration: none;
+    color: #cccccc;
 }
 
 /* Hiệu ứng khi nhấp vào */
 .pullDown:active {
     transform: translateY(-2px); /* Lún xuống nhẹ */
-    box-shadow: 0 2px 10px rgba(255, 107, 107, 0.3);
+    box-shadow: 0 3px 10px rgba(255, 107, 107, 0.3);
+    text-decoration: none;
 }
 
 /* Nút "Pull Up" - Kéo lên */
@@ -146,24 +149,27 @@
     text-decoration: none;
 
     /* Gradient màu rực rỡ khác */
-    background: linear-gradient(45deg, #00d2ff, #3a7bd5);
+    background: linear-gradient(45deg, #ff6b6b, #ffa500);
 
     /* Hiệu ứng chuyển đổi */
     transition: all 0.4s ease;
 
     /* Đổ bóng nhẹ */
-    box-shadow: 0 4px 15px rgba(0, 210, 255, 0.4);
+    box-shadow: 0 4px 15px rgba(100, 210, 255, 0.4);
 }
 
 /* Hiệu ứng khi di chuột vào */
 .pullUp:hover {
     transform: translateX(-50%) translateY(-5px); /* Nâng nút lên trên */
-    box-shadow: 0 8px 25px rgba(0, 210, 255, 0.6); /* Đổ bóng mạnh hơn */
+    box-shadow: 0 8px 25px rgba(255, 107, 107, 0.6);
     filter: brightness(1.1);
+    text-decoration: none;
+    color: #cccccc;
 }
 
 /* Hiệu ứng khi nhấp vào */
 .pullUp:active {
     transform: translateX(-50%) translateY(-2px); /* Lún xuống nhẹ */
-    box-shadow: 0 2px 10px rgba(0, 210, 255, 0.3);
+    box-shadow: 0 2px 10px rgba(255, 107, 107, 0.3);
+    text-decoration: none;
 }

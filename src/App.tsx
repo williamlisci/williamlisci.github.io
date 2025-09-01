@@ -71,7 +71,7 @@ function App() {
                                         </ul>
                                     </section>
                                     <ScrollLink to="header" smooth={true} duration={500} className={styles.pullUp}>
-                                        Pull Up
+                                        Pull Up ↑
                                     </ScrollLink>
                                 </main>
                             </Element>
