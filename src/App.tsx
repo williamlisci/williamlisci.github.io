@@ -25,7 +25,7 @@ function App() {
                                     <ScrollLink to="blog-content" smooth={true} duration={500} className={styles.pullDown}>
                                         WHO AM I ↓
                                     </ScrollLink>
-                                    <p className={styles.headerCaption}></p>
+                                    <p className={styles.headerCaption}>凤凰涅槃 浴火重生</p>
                                 </header>
                             </Element>
                             <Element name="blog-content">
@@ -52,8 +52,7 @@ function App() {
                                         <ul>
                                             <li>Human language: <mark>Vietnamese</mark>, <mark>English</mark></li>
                                             <li>Programming language: <mark>Typescript</mark></li>
-                                            <li>Frontend: <mark>HTML, CSS, JavaScript, React</mark></li>
-                                            <li>Backend: <mark>Next.js, Node.js, Express.js, MongoDB</mark></li>
+                                            <li>Tech Stack: <mark>Tailwind CSS, React, Next.js, Prisma, Docker, shadcn-ui, zustand, Zod, Jest</mark></li>
                                         </ul>
                                     </section>
                                     <section>
