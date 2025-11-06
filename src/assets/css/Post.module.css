@@ -103,7 +103,6 @@ pre {
     max-width: 74rem;
     margin: 0 auto;
     padding-top: 1.4rem;
-    padding-bottom: 1rem;
     padding-bottom: 0.5rem; /* Giảm padding để gần với input hơn */
 }
 
@@ -116,7 +115,7 @@ pre {
 .postList {
     max-width: 74rem;
     margin: 0 auto;
-    padding: 2rem 1rem;
+    padding: 0 1rem;
     background: #f8f5f2;
     color: #333333;
     min-height: 100vh;
