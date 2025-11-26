@@ -14,7 +14,6 @@ const postFiles: Record<string, string> = import.meta.glob('/src/posts/*.md', { 
 const PostList: React.FC = () => {
     const [posts, setPosts] = useState<Post[]>([]);
     const [searchQuery, setSearchQuery] = useState<string>('');
-    const [lastUpdated, setLastUpdated] = useState<string>('');
 
     useEffect(() => {
         const loadedPosts: Post[] = Object.keys(postFiles).map(key => {
@@ -26,7 +25,6 @@ const PostList: React.FC = () => {
             };
         });
         setPosts(loadedPosts);
-        setLastUpdated(new Date().toISOString().split('T')[0]);
     }, []);
 
     // Lọc bài viết dựa trên từ khóa tìm kiếm
@@ -34,12 +32,10 @@ const PostList: React.FC = () => {
         post.title.toLowerCase().includes(searchQuery.toLowerCase())
     );
 
-    const totalPosts = posts.length;
-
     return (
         <div className={styles.postList}>
             <header className={styles.introText}>
-                <p>Tôi là William. Đây là nơi chia sẻ kiến thức và cuộc sống cá nhân của tôi. Nếu có bất kỳ vấn đề nào, xin vui lòng trao đổi riêng qua gmail. Tôi đã viết tổng cộng {totalPosts} bài viết cho đến nay. Cập nhật lần cuối: {lastUpdated}.</p>
+                <p>Tôi là William. Đây là nơi tôi chia sẻ kiến thức và cuộc sống cá nhân. Cập nhật lần cuối: Nov 2025.</p>
                 {/* Thêm input và button tìm kiếm ở đây */}
                 <div className={styles.searchContainer}>
                     <input
