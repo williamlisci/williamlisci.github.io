@@ -1,3 +1,0 @@
-- Bộ não bình thường nặng khoảng 1,3kg, có khoảng 86 tỷ neuron và hơn 100 nghìn tỷ kết nối thần kinh. 
-- Việc mô phỏng toàn bộ não với độ chi tiết cao có thể cần sức mạnh tính toán vượt xa công nghệ hiện tại—lúc này máy tính lượng tử có thể bổ trợ.
-- Máy tính lượng tử ngày nay chỉ có vài nghìn qubit, không đủ để xử lý bài toán quy mô não bộ. Cần hàng triệu qubit ổn định để đạt được điều này.
