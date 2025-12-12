@@ -38,7 +38,8 @@ function App() {
                                             <li>Who Am I: William Li (Vietnamese: Lê Thanh Nghĩa)</li>
                                             <li>
                                                 Born: May 14, 1997, Ngô Gia Tự Street,
-                                                <a href="https://vi.wikipedia.org/wiki/B%C3%ACnh_%C4%90%E1%BB%8Bnh_(ph%C6%B0%E1%BB%9Dng)"> Bình Định Ward</a>,
+                                                <a href="https://vi.wikipedia.org/wiki/B%C3%ACnh_%C4%90%E1%BB%8Bnh_(ph%C6%B0%E1%BB%9Dng)"> Bình
+                                                    Định Ward</a>,
                                                 <a href="https://vi.wikipedia.org/wiki/Gia_Lai"> Gia Lai Province</a>,
                                                 <a href="https://en.wikipedia.org/wiki/Vietnam"> Việt Nam</a>
                                             </li>

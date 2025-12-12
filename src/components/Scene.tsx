@@ -45,7 +45,6 @@ const Plankton: React.FC = () => {
     );
 };
 
-// Simplified Fog Background
 const FogBackground: React.FC = () => {
     return (
         <mesh scale={[50, 50, 50]}>
@@ -91,6 +90,7 @@ const FogBackground: React.FC = () => {
     );
 };
 
+
 // Optimized Scene
 const Scene: React.FC = () => {
     return (
@@ -101,6 +101,7 @@ const Scene: React.FC = () => {
             <Jellyfish />
             <Plankton />
             <FogBackground />
+
             <OrbitControls
                 enablePan={false}
                 enableZoom={true}
