@@ -54,8 +54,7 @@ function App() {
                                         <ul>
                                             <li>Human language: <mark>Vietnamese</mark>, <mark>English</mark></li>
                                             <li>Programming language: <mark>Typescript</mark></li>
-                                            <li>Web Tech Stack: <mark>React, Next.js, Nestjs, Tailwind CSS,
-                                                shadcn/ui</mark></li>
+                                            <li>Web Tech Stack: <mark>React, Next.js, Tailwind CSS</mark></li>
                                             <li>Non-pro work: Quantum Science</li>
                                         </ul>
                                     </section>
