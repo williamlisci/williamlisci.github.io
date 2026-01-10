@@ -35,7 +35,7 @@ const PostList: React.FC = () => {
     return (
         <div className={styles.postList}>
             <header className={styles.introText}>
-                <p>Tôi là William. Đây là nơi tôi chia sẻ kiến thức và trải nghiệm cuộc sống cá nhân. Cập nhật lần cuối: Dec 2025.</p>
+                <p>Hi, Tôi là William. Đây là không gian nơi tôi lưu giữ và chia sẻ trải nghiệm cuộc sống cá nhân. Các bài viết của tôi sẽ ưu tiên tập trung vào nội hàm tầng sâu, không phải ngôn từ tầng mặt. Cập nhật lần cuối: Jan 2026.</p>
                 {/* Thêm input và button tìm kiếm ở đây */}
                 <div className={styles.searchContainer}>
                     <input

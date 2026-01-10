@@ -27,7 +27,7 @@ function App() {
                                                 className={styles.pullDown}>
                                         WHO AM I ↓
                                     </ScrollLink>
-                                    <p className={styles.headerCaption}><ChineseTranslate/></p>
+                                    <div className={styles.headerCaption}><ChineseTranslate/></div>
                                 </header>
                             </Element>
                             <Element name="blog-content">

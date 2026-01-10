@@ -12,12 +12,12 @@ const ChineseTranslate: React.FC = () => {
     const currentText = isOriginalText ? ORIGINAL_TEXT : TRANSLATED_TEXT;
     return (
         <div>
-            <p
+            <div
                 onClick={handleClick}
                 style={{cursor: 'pointer'}}
             >
                 {currentText}
-            </p>
+            </div>
         </div>
     );
 };
