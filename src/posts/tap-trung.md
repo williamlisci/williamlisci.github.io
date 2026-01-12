@@ -1,6 +1,6 @@
-Có người từng hỏi Tăng Quốc Phiên: "Mỗi ngày, ngài đều xử lý trăm công ngàn việc, việc binh, việc nước bận rộn, nhưng ngài vẫn cực kỳ xuất sắc về học vấn, ngày đã làm như thế nào?"
+- Có người từng hỏi Tăng Quốc Phiên: "Mỗi ngày, ngài đều xử lý trăm công ngàn việc, việc binh, việc nước bận rộn, nhưng ngài vẫn cực kỳ xuất sắc về học vấn, ngày đã làm như thế nào?"
 
-Tăng Quốc Phiên trả lời:
+- Tăng Quốc Phiên trả lời:
 
 > "Khi cần đọc sách, chuyên tâm đọc sách, trong lòng không tơ tưởng việc tiếp khách;
 > Khi cần tiếp khách, tập trung tiếp khách, trong lòng không nghĩ về chuyện đọc sách.
