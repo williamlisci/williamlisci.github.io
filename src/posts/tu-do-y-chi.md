@@ -1,0 +1,2 @@
+- Tự do ý chí là sống theo ý chí của mình, không phải ý chí của bất kỳ ai. 
+- Tự do tài chính là điều kiện tiên quyết để đạt được điều này.

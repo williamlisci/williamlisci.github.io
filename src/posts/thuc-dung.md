@@ -1,4 +1,4 @@
-- Nếu thất bại là mẹ thành công thì chủ nghĩa thực dụng là cha của thành công.
+- Nếu thất bại là mẹ thành công thì theo tôi chủ nghĩa thực dụng là cha thành công.
 - Chỉ có thực dụng, ta mới có thể chuyển nguy thành cơ.
 - Chỉ có thực dụng, ta mới có sức mạnh.
 - Chỉ có thực dụng, ta mới có tất cả.
