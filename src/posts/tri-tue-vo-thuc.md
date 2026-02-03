@@ -1,3 +1,4 @@
-- vô thức có khả năng đảo ngược entropy. Nó tổ chức lại các dữ liệu hỗn loạn thành những cấu trúc thông tin có trật tự cao.
+- vô thức có khả năng đảo ngược entropy. Nó tổ chức lại các dữ liệu hỗn loạn thành những cấu trúc thông tin có trật tự
+  cao.
 - vô thức có khả năng xử lý thông tin với tốc độ và độ sâu mà ý thức không thể theo kịp.
-- Sự hiểu biết sâu sắc xuất hiện khi con người biết giảm sự kiểm soát của ý thức và cho phép vô thức làm việc.
+- sự hiểu biết sâu sắc xuất hiện khi con người biết giảm sự kiểm soát của ý thức và cho phép vô thức làm việc.

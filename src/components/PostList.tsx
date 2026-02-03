@@ -50,7 +50,8 @@ const PostList: React.FC = () => {
           quan trọng mà tôi đã đốn ngộ được.
           <br />
           Ngôn ngữ trong các bài viết của tôi là tiếng Việt vì tôi thích nhịp
-          điệu trầm bổng, giàu cảm xúc của ngôn ngữ này.
+          điệu trầm bổng, giàu cảm xúc của ngôn ngữ này. Đặc biệt là giọng nói
+          nũng nịu của con gái:)
           <br />
           Cập nhật lần cuối: Jan 2026.
         </p>
