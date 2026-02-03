@@ -1,1 +1,1 @@
-- Bản chất của cái tôi cá nhân vừa rất là cái gì vừa không là gì cả.
+- Bản chất của cái tôi là vừa rất là cái gì và vừa rất không là cái gì cả.
