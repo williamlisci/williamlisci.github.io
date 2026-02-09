@@ -1,5 +1,3 @@
-- khi chúng ta ở trạng thái "tần số cao" (lo âu, căng thẳng, sợ hãi), não bộ thường hoạt động theo cơ chế sinh tồn
-  (chống trả hoặc bỏ chạy). Ở trạng thái này, chúng ta chỉ phản ứng (react) chứ không phản hồi (respond). Hạ tần số
-  xuống là việc đưa tâm trí về trạng thái thư giãn, nhịp nhàng. Giống như một mặt hồ, khi sóng đánh liên tục (tần số
+- Hạ tần số
+  xuống là việc đưa tâm trí về trạng thái thư giãn. Giống như một mặt hồ, khi sóng đánh liên tục (tần số
   cao), ta không thể thấy đáy. Chỉ khi mặt nước phẳng lặng, mọi thứ mới trở nên thông suốt.
-- hạ tần số xuống, nâng tầm nghĩ lên, vạn sự ắt thành.

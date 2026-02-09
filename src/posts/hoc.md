@@ -1,2 +1,1 @@
 - học chưa tới là 1 tội ác.
-- kiến thức là công cụ để kiểm soát và biến đổi thực tại.

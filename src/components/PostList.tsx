@@ -44,10 +44,13 @@ const PostList: React.FC = () => {
     <div className={styles.postList}>
       <header className={styles.introText}>
         <p>
-          Xin chào, tôi là Nghĩa. `Nghĩa` trong trọng tình, trọng nghĩa :).
+          Xin chào, tôi là Nghĩa. `Nghĩa` trong trọng tình, trọng nghĩa :)
           <br />
           Đây là không gian kỹ thuật số nơi tôi lưu giữ và chia sẻ những điều
           quan trọng mà tôi đã đốn ngộ được.
+          <br />
+          Mọi thứ chúng ta tiếp nhận bằng giác quan chỉ là phần nổi của tảng
+          băng chìm. Không nắm được nội hàm tầng sâu, mọi hiểu biết là vô nghĩa.
           <br />
           Ngôn ngữ trong các bài viết của tôi là tiếng Việt vì tôi thích nhịp
           điệu trầm bổng, giàu cảm xúc của ngôn ngữ này. Đặc biệt là giọng nói
