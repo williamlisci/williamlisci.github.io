@@ -1,1 +1,0 @@
-- Tư duy tồn tại độc lập với ngôn ngữ.
