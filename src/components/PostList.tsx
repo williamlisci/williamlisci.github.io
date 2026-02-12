@@ -50,11 +50,8 @@ const PostList: React.FC = () => {
           quan trọng mà tôi đã đốn ngộ được.
           <br />
           Mọi thứ chúng ta tiếp nhận bằng giác quan chỉ là phần nổi của tảng
-          băng chìm. Không nắm được nội hàm tầng sâu, mọi hiểu biết là vô nghĩa.
-          <br />
-          Ngôn ngữ trong các bài viết của tôi là tiếng Việt vì tôi thích nhịp
-          điệu trầm bổng, giàu cảm xúc của ngôn ngữ này. Đặc biệt là giọng nói
-          nũng nịu của con gái:)
+          băng chìm. Không đốn ngộ được nội hàm tầng sâu, mọi hiểu biết là vô
+          nghĩa.
           <br />
           Cập nhật lần cuối: Jan 2026.
         </p>

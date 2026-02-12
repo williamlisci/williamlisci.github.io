@@ -1,1 +1,0 @@
-- bản chất của cái tôi là nó vừa rất là cái gì và vừa rất không là cái gì.
