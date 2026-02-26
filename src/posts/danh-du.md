@@ -1,1 +1,0 @@
-- Thất bại trong danh dự còn hơn là thành công nhờ thủ đoạn.

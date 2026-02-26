@@ -1,1 +1,0 @@
-- học chưa tới là 1 tội ác.

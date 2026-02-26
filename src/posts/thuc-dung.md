@@ -1,1 +1,0 @@
-- thực dụng là cha thành công.

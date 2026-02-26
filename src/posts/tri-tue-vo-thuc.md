@@ -1,1 +1,3 @@
-- sự hiểu biết sâu sắc xuất hiện khi con người biết giảm sự kiểm soát của ý thức và cho phép vô thức làm việc.
+- Sức mạnh của tâm trí vô thức là vô biên; chỉ cần chúng ta dám đối diện và sử dụng nó, chúng ta có thể tạo ra những
+  phép
+  màu của riêng mình.
