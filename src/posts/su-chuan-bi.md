@@ -1,0 +1,1 @@
+- người không lo xa ắt có họa gần. vì không gì là mãi mãi. hãy chuẩn bị càng sớm càng tốt.

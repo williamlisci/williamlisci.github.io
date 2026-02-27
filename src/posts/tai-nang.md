@@ -1,0 +1,1 @@
+- thiên ngoại hữu thiên.

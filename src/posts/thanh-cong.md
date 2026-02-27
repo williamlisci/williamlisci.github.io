@@ -1,0 +1,1 @@
+- thành công luôn cần sự bí mật và im lặng.
