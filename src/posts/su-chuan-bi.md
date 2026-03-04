@@ -1,1 +1,0 @@
-- người không lo xa ắt có họa gần. không gì là mãi mãi.
