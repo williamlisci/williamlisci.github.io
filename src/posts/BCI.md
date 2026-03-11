@@ -1,0 +1,2 @@
+- công nghệ giao diện não-máy tính (BCI) hiện nay đã chứng minh được rằng việc đọc và giải mã tín hiệu não là khả thi.
+- 2025, NeuroXess, một công ty khởi nghiệp của Trung Quốc, đã đạt được hai bước đột phá lớn trong công nghệ giao diện não-máy tính (BCI), hỗ trợ một bệnh nhân bị tổn thương não. Bước đột phá đầu tiên là khả năng giải mã suy nghĩ thành lời nói trong thời gian thực, và bước đột phá thứ hai là điều khiển từ xa cánh tay robot chỉ bằng suy nghĩ.

@@ -89,7 +89,9 @@ function App() {
                         Web Tech Stack:{" "}
                         <mark>React, Next.js, Tailwind CSS</mark>
                       </li>
-                      <li>Non-pro work: Quantum Science</li>
+                      <li>
+                        Non-pro work: Quantum AI, Brain-Computer Interface
+                      </li>
                     </ul>
                   </section>
                   <section>

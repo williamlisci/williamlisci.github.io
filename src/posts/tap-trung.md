@@ -1,1 +1,0 @@
-- không sợ niệm khởi, chỉ sợ giác chậm.

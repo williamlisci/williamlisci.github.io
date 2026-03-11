@@ -1,1 +1,0 @@
-- thiên ngoại hữu thiên.
