@@ -1,0 +1,1 @@
+- Chỉ số yêu thương (LQ - Love Quotient) là "trí tuệ của trái tim".
