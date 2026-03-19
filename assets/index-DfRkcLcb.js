@@ -4439,8 +4439,7 @@ Please change the parent <Route path="${T}"> to <Route path="${T==="/"?"*":`${T}
   xuống là việc đưa tâm trí về trạng thái thư giãn. Giống như một mặt hồ, khi sóng đánh liên tục (tần số\r
   cao), ta không thể thấy đáy. Chỉ khi mặt nước phẳng lặng, mọi thứ mới trở nên thông suốt.`,DD=`- bộ não người bình thường nặng khoảng 1,3 kg, khoảng 10^26\r
   đến 10^27 nguyên tử.\r
-- nếu muốn mô phỏng não bộ đến cấp độ nguyên tử, số lượng qubit cần thiết sẽ là một con số khổng lồ, ước tính lên tới\r
-  10^86 qubit (nhiều hơn cả số nguyên tử trong vũ trụ quan sát được khoảng 10^80). Việc mô phỏng đến "cấp độ nguyên tử" \r
+- nếu muốn mô phỏng toàn bộ não bộ (Whole Brain Emulation) đến cấp độ nguyên tử cần số lượng qubit rất lớn. Việc mô phỏng đến "cấp độ nguyên tử" \r
   ở đây\r
   không chỉ là lập bản đồ vị trí, mà là mô phỏng mọi tương tác điện từ, liên kết hóa học và sự chồng chập lượng tử giữa\r
   các hạt.\r
