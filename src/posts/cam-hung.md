@@ -1,4 +1,4 @@
-- Cảm hứng là một sự bùng nổ sáng tạo bất ngờ trong suy nghĩ. Cảm hứng cần được chuyển hóa thông qua tư duy sâu sắc.
+- Cảm hứng là một sự bùng nổ sáng tạo bất ngờ trong suy nghĩ.
 - Friedrich August Von Kekule (1829-1896), người Đức, một trong những nhà hóa học nổi tiếng nhất châu Âu thế kỷ XIX. Một
   ngày mùa đông năm 1865, Friedrich August Kekulé (1829-1896), nhà hóa học người Đức ngồi ngủ gật cạnh bếp lò trong sự
   mệt mỏi của công việc nghiên cứu. Trong giấc mơ, cùng với ảo giác những nguyên tử, phân tử carbon và hydro nối nhau và
