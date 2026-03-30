@@ -1,0 +1,1 @@
+- Lý thuyết hỗn loạn (Chaos Theory): Những sai số cực nhỏ trong dữ liệu ban đầu có thể dẫn đến kết quả sai lệch hoàn toàn, khiến việc dự báo dài hạn là bất khả thi.
