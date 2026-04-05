@@ -87,7 +87,7 @@ function App() {
                       </li>
                       <li>
                         Web Tech Stack:{" "}
-                        <mark>React, Next.js, Tailwind CSS</mark>
+                        <mark>React, Next.js, Tailwind CSS, Figma</mark>
                       </li>
                       <li>
                         Non-pro work: Quantum AI, Brain-Computer Interface
@@ -117,6 +117,11 @@ function App() {
                       <li>
                         <a href="https://youtu.be/2gL0LE6xiyo?si=pw4sJ0p1SPExkWOz">
                           Tìm biên giới của vũ trụ?
+                        </a>
+                      </li>
+                      <li>
+                        <a href="https://youtu.be/hx3nm8jN3v4?si=PaMKm-NoSb13kI6v">
+                          Việt Nam là thiên đường.
                         </a>
                       </li>
                       <li>
