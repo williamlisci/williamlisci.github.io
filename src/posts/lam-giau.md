@@ -1,0 +1,1 @@
+- đào vàng trong não.
