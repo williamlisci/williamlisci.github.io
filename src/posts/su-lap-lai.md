@@ -1,0 +1,1 @@
+- không có thiên phú, chỉ cần lặp lại.
