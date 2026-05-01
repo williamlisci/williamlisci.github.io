@@ -53,7 +53,7 @@ const PostList: React.FC = () => {
           băng chìm. Không đốn ngộ được nội hàm tầng sâu, mọi hiểu biết là vô
           nghĩa.
           <br />
-          Cập nhật lần cuối: Jan 2026.
+          Cập nhật lần cuối: May 2026.
         </p>
         {/* Thêm input và button tìm kiếm ở đây */}
         <div className={styles.searchContainer}>

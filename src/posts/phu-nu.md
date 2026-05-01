@@ -1,0 +1,1 @@
+- Không thể dùng não đàn ông để hiểu phụ nữ.
