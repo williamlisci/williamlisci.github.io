@@ -1,1 +1,0 @@
-- kiên trì xây từng viên gạch mỗi ngày.

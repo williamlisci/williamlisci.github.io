@@ -1,2 +1,1 @@
-- Vô thức, không phải ý thức, là chìa khóa để mở ra cánh cửa của trí tuệ vô biên.
 - không có chánh niệm, không thể khai mở trí tuệ vô thức.
