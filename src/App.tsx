@@ -1,3 +1,4 @@
+import React, { Suspense } from "react";
 import Scene from "./components/Scene";
 import { Element, Link as ScrollLink } from "react-scroll";
 import {
@@ -7,157 +8,222 @@ import {
   Route,
   Routes,
 } from "react-router-dom";
-import PostList from "./components/PostList";
-import PostDetails from "./components/PostDetails";
-import styles from "./assets/css/Home.module.css";
 import ChineseTranslate from "./components/ChineseTranslate";
+
+const PostList = React.lazy(() => import("./components/PostList"));
+const PostDetails = React.lazy(() => import("./components/PostDetails"));
 
 function App() {
   return (
     <Router>
       <Routes>
-        {/* Route cho trang chủ */}
         <Route
           path="/"
           element={
-            <div className={styles.homePage}>
+            <div className="min-h-screen bg-black text-white relative overflow-hidden">
               <Element name="header">
-                <div className={styles.sceneBackground}>
+                <div className="absolute inset-0 z-0">
                   <Scene />
                 </div>
-                <header className={styles.homeHeader}>
-                  <span className={styles.hiColor}>
+
+                <header className="relative z-10 flex flex-col items-center justify-center h-screen text-center px-6 pointer-events-none">
+                  <span className="text-cyan-400 text-xl tracking-widest">
                     Hi, Welcome To My Digital Space
                   </span>
-                  <h1>My name William Li</h1>
-                  <h3>a programmer specializing in web technology</h3>
+                  <h1 className="text-5xl md:text-6xl font-bold mt-4">
+                    My name William Li
+                  </h1>
+                  <h3 className="text-xl md:text-2xl mt-3 text-gray-300">
+                    a programmer specializing in web technology
+                  </h3>
+
                   <ScrollLink
                     to="blog-content"
-                    smooth={true}
+                    smooth
                     duration={500}
-                    className={styles.pullDown}
+                    className="pointer-events-auto mt-12 text-cyan-400 hover:text-white text-lg cursor-pointer transition-colors"
                   >
                     WHO AM I ↓
                   </ScrollLink>
-                  <div className={styles.headerCaption}>
+
+                  <div className="absolute bottom-1 left-1/2 -translate-x-1/2 pointer-events-auto">
                     <ChineseTranslate />
                   </div>
                 </header>
               </Element>
+
               <Element name="blog-content">
-                <main id="blog-content" className={styles.blogContent}>
-                  <section>
-                    <h3>Short Bio</h3>
-                    <ul>
-                      <li>Who Am I: William Li (Vietnamese: Lê Thanh Nghĩa)</li>
-                      <li>
-                        Born: May 14, 1997, Ngô Gia Tự Street,
-                        <a href="https://vi.wikipedia.org/wiki/B%C3%ACnh_%C4%90%E1%BB%8Bnh_(ph%C6%B0%E1%BB%9Dng)">
-                          {" "}
-                          Bình Định Ward
-                        </a>
-                        ,
-                        <a href="https://vi.wikipedia.org/wiki/Gia_Lai">
-                          {" "}
-                          Gia Lai Province
-                        </a>
-                        ,
-                        <a href="https://en.wikipedia.org/wiki/Vietnam">
-                          {" "}
-                          Việt Nam
-                        </a>
-                      </li>
-                      <li>
-                        Nationality:{" "}
-                        <a href="https://en.wikipedia.org/wiki/Vietnamese_people">
-                          Vietnamese
-                        </a>
-                      </li>
-                    </ul>
-                  </section>
-                  <section>
-                    <h3>Technical Skills</h3>
-                    <ul>
-                      <li>
-                        Human language: <mark>Vietnamese</mark>,{" "}
-                        <mark>English</mark>
-                      </li>
-                      <li>
-                        Programming language: <mark>Typescript</mark>
-                      </li>
-                      <li>
-                        Web Tech Stack:{" "}
-                        <mark>React, Next.js, Tailwind CSS, Figma</mark>
-                      </li>
-                      <li>
-                        Non-pro work: Quantum AI, Brain-Computer Interface
-                      </li>
-                    </ul>
-                  </section>
-                  <section>
-                    <h3>Contact</h3>
-                    <ul>
-                      <li>
-                        Links: Reach out to me at X@Y, where X=williamli.sci and
-                        Y=gmail.com.
-                      </li>
-                      <li>
-                        <Link to="/blog">My Blog</Link>
-                      </li>
-                    </ul>
-                  </section>
-                  <section>
-                    <h3>Blessed are those who have not seen and yet believe</h3>
-                    <ul>
-                      <li>
-                        <a href="https://www.youtube.com/watch?v=anWRa7TiXvw">
-                          Tìm trật tự trong sự hỗn loạn?
-                        </a>
-                      </li>
-                      <li>
-                        <a href="https://youtu.be/2gL0LE6xiyo?si=pw4sJ0p1SPExkWOz">
-                          Tìm biên giới của vũ trụ?
-                        </a>
-                      </li>
-                      <li>
-                        <a href="https://youtu.be/hx3nm8jN3v4?si=PaMKm-NoSb13kI6v">
-                          Việt Nam là thiên đường.
-                        </a>
-                      </li>
-                      <li>
-                        <a href="https://youtu.be/Kfhw0QGby5c?si=PWqHpKkmGPfKU3R9">
-                          Does Love Exist?
-                        </a>
-                      </li>
-                    </ul>
-                  </section>
-                  <ScrollLink
-                    to="header"
-                    smooth={true}
-                    duration={500}
-                    className={styles.pullUp}
-                  >
-                    Pull Up ↑
-                  </ScrollLink>
+                <main
+                  id="blog-content"
+                  className="relative z-10 h-screen overflow-y-auto snap-y snap-mandatory overscroll-y-contain"
+                >
+                  <div className="min-h-screen py-20 px-6 max-w-4xl mx-auto">
+                    <section className="mb-16">
+                      <h3 className="text-2xl font-semibold mb-6">Short Bio</h3>
+                      <ul className="space-y-3 text-gray-300">
+                        <li>
+                          Who Am I: William Li (Vietnamese: Lê Thanh Nghĩa)
+                        </li>
+                        <li>
+                          Born: May 14, 1997, Ngô Gia Tự Street,{" "}
+                          <a
+                            href="https://vi.wikipedia.org/wiki/B%C3%ACnh_%C4%90%E1%BB%8Bnh_(ph%C6%B0%E1%BB%9Dng)"
+                            className="text-cyan-400 hover:underline"
+                          >
+                            Bình Định Ward
+                          </a>
+                          ,{" "}
+                          <a
+                            href="https://vi.wikipedia.org/wiki/Gia_Lai"
+                            className="text-cyan-400 hover:underline"
+                          >
+                            Gia Lai Province
+                          </a>
+                          ,{" "}
+                          <a
+                            href="https://en.wikipedia.org/wiki/Vietnam"
+                            className="text-cyan-400 hover:underline"
+                          >
+                            Việt Nam
+                          </a>
+                        </li>
+                        <li>
+                          Nationality:{" "}
+                          <a
+                            href="https://en.wikipedia.org/wiki/Vietnamese_people"
+                            className="text-cyan-400 hover:underline"
+                          >
+                            Vietnamese
+                          </a>
+                        </li>
+                      </ul>
+                    </section>
+
+                    <section className="mb-16">
+                      <h3 className="text-2xl font-semibold mb-6">
+                        Technical Skills
+                      </h3>
+                      <ul className="space-y-3 text-gray-300">
+                        <li>
+                          Human language:{" "}
+                          <mark className="bg-cyan-900 text-cyan-300 px-1">
+                            Vietnamese
+                          </mark>
+                          ,{" "}
+                          <mark className="bg-cyan-900 text-cyan-300 px-1">
+                            English
+                          </mark>
+                        </li>
+                        <li>
+                          Programming language:{" "}
+                          <mark className="bg-cyan-900 text-cyan-300 px-1">
+                            Typescript
+                          </mark>
+                        </li>
+                        <li>
+                          Web Tech Stack:{" "}
+                          <mark className="bg-cyan-900 text-cyan-300 px-1">
+                            React, Next.js, Tailwind CSS, Figma
+                          </mark>
+                        </li>
+                        <li>
+                          Non-pro work: Quantum AI, Brain-Computer Interface
+                        </li>
+                      </ul>
+                    </section>
+
+                    <section className="mb-16">
+                      <h3 className="text-2xl font-semibold mb-6">Contact</h3>
+                      <ul className="space-y-3 text-gray-300">
+                        <li>
+                          Links: Reach out to me at X@Y, where X=williamli.sci
+                          and Y=gmail.com.
+                        </li>
+                        <li>
+                          <Link
+                            to="/blog"
+                            className="text-cyan-400 hover:underline"
+                          >
+                            My Blog
+                          </Link>
+                        </li>
+                      </ul>
+                    </section>
+
+                    <section>
+                      <h3 className="text-2xl font-semibold mb-6">
+                        Blessed are those who have not seen and yet believe
+                      </h3>
+                      <ul className="space-y-3 text-gray-300">
+                        <li>
+                          <a
+                            href="https://www.youtube.com/watch?v=anWRa7TiXvw"
+                            className="text-cyan-400 hover:underline"
+                          >
+                            Tìm trật tự trong sự hỗn loạn?
+                          </a>
+                        </li>
+                        <li>
+                          <a
+                            href="https://youtu.be/2gL0LE6xiyo?si=pw4sJ0p1SPExkWOz"
+                            className="text-cyan-400 hover:underline"
+                          >
+                            Tìm biên giới của vũ trụ?
+                          </a>
+                        </li>
+                        <li>
+                          <a
+                            href="https://youtu.be/hx3nm8jN3v4?si=PaMKm-NoSb13kI6v"
+                            className="text-cyan-400 hover:underline"
+                          >
+                            Việt Nam là thiên đường.
+                          </a>
+                        </li>
+                        <li>
+                          <a
+                            href="https://youtu.be/Kfhw0QGby5c?si=PWqHpKkmGPfKU3R9"
+                            className="text-cyan-400 hover:underline"
+                          >
+                            Does Love Exist?
+                          </a>
+                        </li>
+                      </ul>
+                    </section>
+
+                    <ScrollLink
+                      to="header"
+                      smooth
+                      duration={500}
+                      className="block mt-auto mb-0 text-center text-cyan-400 hover:text-white cursor-pointer transition-colors text-lg"
+                    >
+                      Pull Up ↑
+                    </ScrollLink>
+                  </div>
+                  <small className="block text-center text-gray-500 py-6 border-t border-zinc-900">
+                    ©2026. This website was created by me and AI LLM.
+                  </small>
                 </main>
               </Element>
             </div>
           }
         />
-        {/* Route cho blog, sẽ hiển thị khi đường dẫn là /blog */}
+
         <Route
           path="/blog/*"
           element={
-            <main id="blog-content">
+            <Suspense
+              fallback={
+                <div className="min-h-screen bg-black text-white flex items-center justify-center">
+                  Loading…
+                </div>
+              }
+            >
               <Routes>
-                {/* Route cho danh sách bài viết blog */}
                 <Route path="/" element={<PostList />} />
-                {/* Route cho từng bài viết blog */}
                 <Route path="posts/:slug" element={<PostDetails />} />
-                {/* Route điều hướng nếu truy cập sai đường dẫn */}
                 <Route path="*" element={<Navigate to="/blog" />} />
               </Routes>
-            </main>
+            </Suspense>
           }
         />
       </Routes>

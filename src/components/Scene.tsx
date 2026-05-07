@@ -12,21 +12,16 @@ const Plankton: React.FC = () => {
   const positions = useMemo(() => {
     const arr = new Float32Array(count * 3);
     for (let i = 0; i < count; i++) {
-      arr[i * 3] = (Math.random() - 0.5) * 20;
+      arr[i * 3]     = (Math.random() - 0.5) * 20;
       arr[i * 3 + 1] = (Math.random() - 0.5) * 12;
       arr[i * 3 + 2] = (Math.random() - 0.5) * 20;
     }
     return arr;
   }, []);
 
-  const timeRef = useRef(0);
-
-  useFrame((_, delta) => {
-    if (ref.current) {
-      timeRef.current += delta;
-      // Optional: use a smooth rotation or simple linear rotation
-      ref.current.rotation.y = timeRef.current * 0.02;
-    }
+  // FIX #10: dùng clock.elapsedTime thay vì tự cộng dồn ref
+  useFrame(({ clock }) => {
+    if (ref.current) ref.current.rotation.y = clock.elapsedTime * 0.02;
   });
 
   return (
@@ -50,72 +45,39 @@ const Plankton: React.FC = () => {
   );
 };
 
-const FogBackground: React.FC = () => {
-  return (
-    <mesh scale={[50, 50, 50]}>
-      <sphereGeometry args={[1, 16, 16]} />
-      <shaderMaterial
-        side={THREE.BackSide}
-        uniforms={{ uTime: { value: 0 } }}
-        vertexShader={`
-                    varying vec3 vPos;
-                    void main() {
-                        vPos = position;
-                        gl_Position = projectionMatrix * modelViewMatrix * vec4(position, 1.0);
-                    }
-                `}
-        fragmentShader={`
-                    varying vec3 vPos;
-                    uniform float uTime;
-                    float hash(vec3 p) {
-                        return fract(sin(dot(p, vec3(127.1, 311.7, 74.7))) * 43758.5453);
-                    }
-                    float noise(vec3 p) {
-                        vec3 i = floor(p);
-                        vec3 f = fract(p);
-                        return mix(
-                            mix(
-                                mix(hash(i), hash(i + vec3(1,0,0)), f.x),
-                                mix(hash(i + vec3(0,1,0)), hash(i + vec3(1,1,0)), f.x), f.y
-                            ),
-                            mix(
-                                mix(hash(i + vec3(0,0,1)), hash(i + vec3(1,0,1)), f.x),
-                                mix(hash(i + vec3(0,1,1)), hash(i + vec3(1,1,1)), f.x), f.y
-                            ), f.z
-                        );
-                    }
-                    void main() {
-                        float n = noise(normalize(vPos) * 2.0 + uTime * 0.05);
-                        gl_FragColor = vec4(mix(vec3(0.0), vec3(0.0), n), 1.0);
-                    }
-                `}
-      />
-    </mesh>
-  );
-};
+// FIX #1: Xóa FogBackground – component này chỉ vẽ khối cầu đen không hiệu ứng
+// Fragment shader có bug: mix(black, black, n) = black, uTime cũng không được update.
 
-// Optimized Scene
 const Scene: React.FC = () => {
   return (
-    <Canvas camera={{ position: [0, 0, 6], fov: 60 }}>
+    // FIX #2, #3, #4: dpr giới hạn + gl settings + camera khớp minDistance
+    <Canvas
+      className="w-full h-full pointer-events-auto"
+      style={{ touchAction: "none" }}
+      camera={{ position: [0, 0, 9], fov: 60 }}
+      dpr={[1, 1.5]}
+      gl={{ antialias: false, powerPreference: "high-performance" }}
+    >
       <color attach="background" args={["#000000"]} />
       <ambientLight intensity={0.2} />
       <Jellyfish />
       <Plankton />
-      <FogBackground />
 
       <OrbitControls
         enablePan={false}
         enableZoom={true}
         minDistance={7}
         maxDistance={13}
+        enableDamping
+        dampingFactor={0.05}
         autoRotate
         autoRotateSpeed={0.3}
       />
       <EffectComposer>
+        {/* FIX #8: tăng intensity lên để hiệu ứng rõ hơn xứng với chi phí render pass */}
         <Bloom
-          intensity={0.2}
-          luminanceThreshold={0.5}
+          intensity={0.8}
+          luminanceThreshold={0.4}
           luminanceSmoothing={0.5}
           blendFunction={BlendFunction.ADD}
         />
