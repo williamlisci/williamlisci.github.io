@@ -44,7 +44,7 @@ const PostList: React.FC = () => {
             quan trọng mà tôi đã đốn ngộ được.
             <br />
             Mọi thứ chúng ta tiếp nhận bằng giác quan chỉ là phần nổi của tảng
-            băng chìm.
+            băng chìm. Nếu không đốn ngộ được nội hàm tầng sâu, mọi hiểu biết là vô nghĩa.
             <br />
             Cập nhật lần cuối: May 2026.
           </p>
@@ -53,7 +53,7 @@ const PostList: React.FC = () => {
         <div className="mb-8">
           <input
             type="text"
-            placeholder="Tìm kiếm nhanh..."
+            placeholder="nhập để tìm kiếm nhanh"
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
             className="w-full bg-zinc-900 border border-zinc-700 rounded-xl px-6 py-4 text-lg focus:outline-none focus:border-cyan-500 transition-colors"

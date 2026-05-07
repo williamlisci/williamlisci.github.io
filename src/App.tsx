@@ -200,7 +200,7 @@ function App() {
                     </ScrollLink>
                   </div>
                   <small className="block text-center text-gray-500 py-6 border-t border-zinc-900">
-                    ©2026. This website was created by William's idea and AI LLM.
+                    ©2026. This website was created by William and AI LLM.
                   </small>
                 </main>
               </Element>
