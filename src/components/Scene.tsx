@@ -5,10 +5,13 @@ import { EffectComposer, Bloom } from "@react-three/postprocessing";
 import { BlendFunction } from "postprocessing";
 import Jellyfish from "./Jellyfish";
 import * as THREE from "three";
+import { Timer } from "three";
+
 
 const Plankton: React.FC = () => {
   const ref = useRef<THREE.Points>(null);
   const count = 200;
+  const timer = useMemo(() => new Timer(), []);
   const positions = useMemo(() => {
     const arr = new Float32Array(count * 3);
     for (let i = 0; i < count; i++) {
@@ -19,9 +22,14 @@ const Plankton: React.FC = () => {
     return arr;
   }, []);
 
-  // FIX #10: dùng clock.elapsedTime thay vì tự cộng dồn ref
-  useFrame(({ clock }) => {
-    if (ref.current) ref.current.rotation.y = clock.elapsedTime * 0.02;
+  useFrame(() => {
+    // Cập nhật timer theo từng frame
+    timer.update();
+    const elapsedTime = timer.getElapsed();
+
+    if (ref.current) {
+      ref.current.rotation.y = elapsedTime * 0.02;
+    }
   });
 
   return (
@@ -53,7 +61,7 @@ const Scene: React.FC = () => {
     // FIX #2, #3, #4: dpr giới hạn + gl settings + camera khớp minDistance
     <Canvas
       className="w-full h-full pointer-events-auto"
-      style={{ touchAction: "none" }}
+      style={{ touchAction: "auto" }}
       camera={{ position: [0, 0, 9], fov: 60 }}
       dpr={[1, 1.5]}
       gl={{ antialias: false, powerPreference: "high-performance" }}
