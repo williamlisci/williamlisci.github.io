@@ -40,13 +40,26 @@ const PostDetails: React.FC = () => {
     );
   }
 
+  // Hàm định dạng lại slug thành tiêu đề đẹp hơn (Ví dụ: "hoc-react" -> "Học react")
+  const formatTitle = (slugString: string | undefined) => {
+    if (!slugString) return "Không có tiêu đề";
+    const text = slugString.replace(/-/g, " ");
+    return text.charAt(0).toUpperCase() + text.slice(1);
+  };
+
   return (
     <div className="min-h-screen bg-black text-white py-12 px-6">
-      <div className="max-w-3xl mx-auto prose prose-invert prose-headings:text-white prose-a:text-cyan-400 prose-strong:text-white max-w-none">
+      <div className="max-w-3xl mx-auto">
         <h1 className="text-4xl font-bold mb-10 border-b border-zinc-800 pb-8">
-          {slug ? slug.replace(/-/g, " ").toUpperCase() : "Không có tiêu đề"}
+          {formatTitle(slug)}
         </h1>
-        <ReactMarkdown remarkPlugins={[remarkGfm]}>{markdown}</ReactMarkdown>
+
+        {/* Chỉ cần prose prose-invert và max-w-none là đủ.
+        Tailwind v4 Typography sẽ lo toàn bộ phần gạch đầu dòng và màu chữ.
+      */}
+        <div className="prose prose-invert max-w-none pl-2">
+          <ReactMarkdown remarkPlugins={[remarkGfm]}>{markdown}</ReactMarkdown>
+        </div>
       </div>
     </div>
   );
