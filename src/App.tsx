@@ -171,14 +171,7 @@ function App() {
                             Tìm biên giới của vũ trụ?
                           </a>
                         </li>
-                        <li>
-                          <a
-                            href="https://youtu.be/hx3nm8jN3v4?si=PaMKm-NoSb13kI6v"
-                            className="text-cyan-400 hover:underline"
-                          >
-                            Việt Nam là thiên đường.
-                          </a>
-                        </li>
+
                         <li>
                           <a
                             href="https://www.youtube.com/watch?v=1Y0jeAPH_Pc"
@@ -216,7 +209,7 @@ function App() {
                     </ScrollLink>
                   </div>
                   <small className="block text-center text-gray-500 py-6 border-t border-zinc-900">
-                    ©2026. This website was created by William and AI LLM.
+                    ©2023-2026. This website was created by William and AI LLM.
                   </small>
                 </main>
               </Element>
