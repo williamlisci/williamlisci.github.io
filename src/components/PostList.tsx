@@ -36,15 +36,18 @@ const PostList: React.FC = () => {
   return (
     <div className="min-h-screen bg-black text-white py-12 px-6">
       <div className="max-w-3xl mx-auto">
-        <div className="prose prose-invert mb-12">
-          <p className="text-lg text-gray-300">
+        {/* Thêm max-w-none để loại bỏ giới hạn chiều rộng mặc định của prose */}
+        <div className="prose prose-invert max-w-none mb-12">
+          {/* Thêm text-justify để chữ căn đều hai bên lề trái/phải khít với ô tìm kiếm */}
+          <p className="text-lg text-gray-300 text-justify leading-relaxed">
             Xin chào, tôi là Nghĩa. `Nghĩa` trong trọng tình, trọng nghĩa :)
             <br />
             Đây là không gian kỹ thuật số nơi tôi lưu giữ và chia sẻ những điều
             quan trọng mà tôi đã đốn ngộ được.
             <br />
             Mọi thứ chúng ta tiếp nhận bằng giác quan chỉ là phần nổi của tảng
-            băng chìm. Nếu không đốn ngộ được nội hàm tầng sâu, mọi hiểu biết là vô nghĩa.
+            băng chìm. Nếu không đốn ngộ được nội hàm tầng sâu, mọi hiểu biết là
+            vô nghĩa.
             <br />
             Cập nhật lần cuối: May 2026.
           </p>
