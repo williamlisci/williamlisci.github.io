@@ -1,15 +1,17 @@
-- Sức mạnh của AI trong việc sàng lọc cấu trúc phân tử, tăng tốc quá trình nghiên cứu kháng sinh mới.
+- Dưới đây là các bằng chứng cho thấy sức mạnh của AI trong việc sàng lọc hàng triệu hợp chất để tìm ra 
+  kháng 
+  sinh 
+  mới.
 - 2020, Halicin là một hợp chất được phát hiện bởi Trí tuệ nhân tạo (AI) của MIT, nổi bật nhờ khả năng tiêu diệt các 
   loại vi khuẩn đa kháng thuốc. 
   - Tại sao vi khuẩn khó 
   kháng lại Halicin? 
-    - Vi khuẩn thường kháng thuốc bằng cách đột biến gen để thay đổi cấu trúc của protein đích (ví 
-    dụ: thay đổi vị trí gắn của kháng sinh). Tuy nhiên, Halicin không gắn vào một protein duy nhất; nó tấn công trực tiếp vào định luật vật lý (sự chênh lệch gradient nồng độ). Vi khuẩn không thể "đột biến" để thay đổi các định luật vật lý về hóa thẩm. 
-    - Nhiều vi khuẩn kháng thuốc bằng cách dùng bơm efflux để đẩy kháng sinh ra ngoài. Tuy nhiên, các máy bơm này chính là các hệ thống vận chuyển phụ thuộc vào chính cái gradient điện hóa mà Halicin đang phá hủy. Khi Halicin đã làm mất gradient, vi khuẩn cũng mất luôn năng lượng để vận hành các máy bơm kháng thuốc đó. 
-    - Việc duy trì gradient màng là một quá trình tiến hóa cốt lõi. Nếu vi khuẩn cố gắng thay đổi màng tế bào để ngăn cản Halicin, khả năng cao là nó cũng sẽ vô tình làm hỏng luôn khả năng tự tạo năng lượng của chính mình, khiến nó không thể tồn tại.
+    - Halicin can thiệp vào cách vi khuẩn duy trì sự cân bằng độ pH và phá vỡ lực đẩy proton qua màng tế bào, từ đó làm cạn kiệt nguồn năng lượng ATP khiến vi khuẩn chết đi.
+    - Vì gradient điện hóa là một hệ thống mang tính bảo tồn cao (không dễ thay đổi), vi khuẩn không thể tiến hóa hay đột biến các gen đơn lẻ để vượt qua sự tấn công này.
+    -  Rất nhiều siêu vi khuẩn kháng thuốc sở hữu các máy bơm đẩy (efflux pump) giúp tống khứ kháng sinh ra ngoài trước khi chúng kịp gây hại. Cấu trúc hóa học khác biệt của Halicin giúp nó tránh được cơ chế phòng vệ này của vi khuẩn.
 
 - 2023, được khám phá bởi máy học (ML) tại MIT, Abaucin là loại kháng sinh phổ hẹp chuyên tiêu diệt vi khuẩn Acinetobacter baumannii - một loại siêu vi khuẩn kháng thuốc cực kỳ nguy hiểm.
   - Tại sao Vi khuẩn Gram âm như A. baumannii khó kháng lại Abaucin?
-    - Abaucin không tấn công vào các vị trí dễ thay đổi cấu trúc như các thụ thể bên ngoài tế bào hay các enzyme có 
-      thể bị vô hiệu hóa bởi đột biến thông thường. Nó nhắm vào LolE, một phần của hệ thống vận chuyển lipoprotein (Lol system). Hệ thống vận chuyển lipoprotein là một "cỗ máy" cực kỳ quan trọng đối với sự tồn tại của vi khuẩn Gram âm. Nếu vi khuẩn cố gắng đột biến gen để thay đổi cấu trúc của protein LolE nhằm tránh sự gắn kết của Abaucin, nhiều khả năng nó sẽ làm hỏng luôn chức năng vận chuyển lipoprotein của chính mình.
-    - Abaucin can thiệp vào hệ thống Lol nằm ở màng trong (hoặc không gian chu chất), nơi ít bị ảnh hưởng bởi các bơm tống thuốc thường xuyên nhắm vào các hợp chất hóa học nằm trong bào tương.
+    - Abaucin can thiệp và ức chế protein LolE, một phần của phức hợp protein Lol, chịu trách nhiệm vận chuyển lipoprotein từ màng trong ra màng ngoài của vi khuẩn.
+    - Việc chặn đứng dòng chảy của lipoprotein khiến các phân tử này tích tụ bên trong và không thể định hình lớp màng ngoài của vi khuẩn. Điều này làm vi khuẩn ngừng phát triển hoặc bị tiêu diệt.
+    -  Mặc dù tất cả các vi khuẩn Gram âm đều có hệ thống Lol tương tự, các nhà nghiên cứu cho rằng cấu trúc hệ thống vận chuyển của A. baumannii có sự khác biệt nhỏ. Điều này khiến Abaucin chỉ nhắm trúng A. baumannii mà không gây hại cho các lợi khuẩn khác, qua đó hạn chế tối đa việc vi khuẩn nhanh chóng lây lan gen kháng thuốc.
