@@ -1,0 +1,5 @@
+- 2026, một mô hình trí tuệ nhân tạo của OpenAI vừa tìm ra lời giải mới cho bài toán hình học nổi tiếng do Paul 
+  Erdős đặt ra từ năm 1946. Bài toán "planar unit distance problem" (tạm dịch: khoảng cách đơn vị trong mặt phẳng) 
+  đặt ra một câu hỏi tưởng đơn giản: nếu đặt nhiều điểm trên một mặt phẳng, có thể tạo tối đa bao nhiêu cặp điểm 
+  cách nhau đúng 1 đơn vị? kết quả này đã được các nhà toán học độc lập kiểm tra lại. Một nhóm chuyên gia gồm Noga 
+  Alon, Tim Gowers, Thomas Bloom và nhiều nhà nghiên cứu khác đã xác minh lời giải cũng như công bố thêm tài liệu phân tích đi kèm. đây có thể là lần đầu tiên một chứng minh do AI tạo ra đủ chất lượng để được xem xét tại những tạp chí toán học hàng đầu nếu con người là tác giả chính. Theo các nhà nghiên cứu, ý nghĩa lớn nhất không nằm ở riêng bài toán hình học, mà ở việc AI bắt đầu có thể tạo ra tri thức mới, thay vì chỉ tổng hợp thông tin có sẵn.
