@@ -24,12 +24,12 @@ const Scene: React.FC = () => (
 
     <directionalLight color="#88aaff" intensity={1.4} position={[10, 10, 5]} />
 
-    {/* Optimized starfield */}
+    {/* Optimized starfield - Adjusted factor for pinhole stars */}
     <Stars
       radius={100}
       depth={50}
       count={1500}
-      factor={3}
+      factor={7}
       saturation={0}
       fade
       speed={0.3}
