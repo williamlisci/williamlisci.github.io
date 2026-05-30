@@ -1,97 +1,90 @@
-import React, { useMemo, useRef } from "react";
-import { Canvas, useFrame } from "@react-three/fiber";
-import { OrbitControls } from "@react-three/drei";
-import { EffectComposer, Bloom } from "@react-three/postprocessing";
+import React from "react";
+import { Canvas } from "@react-three/fiber";
+import { OrbitControls, Stars } from "@react-three/drei";
+import { EffectComposer, Bloom, Vignette } from "@react-three/postprocessing";
 import { BlendFunction } from "postprocessing";
-import Jellyfish from "./Jellyfish";
-import * as THREE from "three";
-import { Timer } from "three";
 
+import UFO from "./UFO";
 
-const Plankton: React.FC = () => {
-  const ref = useRef<THREE.Points>(null);
-  const count = 200;
-  const timer = useMemo(() => new Timer(), []);
-  const positions = useMemo(() => {
-    const arr = new Float32Array(count * 3);
-    for (let i = 0; i < count; i++) {
-      arr[i * 3]     = (Math.random() - 0.5) * 20;
-      arr[i * 3 + 1] = (Math.random() - 0.5) * 12;
-      arr[i * 3 + 2] = (Math.random() - 0.5) * 20;
-    }
-    return arr;
-  }, []);
+const Scene: React.FC = () => (
+  <Canvas
+    className="w-full h-full pointer-events-auto"
+    style={{ touchAction: "auto" }}
+    camera={{ position: [0, 2, 10], fov: 58 }}
+    dpr={[1, 1.25]}
+    gl={{
+      antialias: false,
+      powerPreference: "high-performance",
+    }}
+  >
+    <color attach="background" args={["#000008"]} />
 
-  useFrame(() => {
-    // Cập nhật timer theo từng frame
-    timer.update();
-    const elapsedTime = timer.getElapsed();
+    {/* Lighting */}
+    <ambientLight intensity={0.3} />
 
-    if (ref.current) {
-      ref.current.rotation.y = elapsedTime * 0.02;
-    }
-  });
+    <directionalLight color="#88aaff" intensity={1.4} position={[10, 10, 5]} />
 
-  return (
-    <points ref={ref}>
-      <bufferGeometry>
-        <bufferAttribute
-          attach="attributes-position"
-          args={[positions, 3]}
-          count={positions.length / 3}
-          itemSize={3}
-        />
-      </bufferGeometry>
-      <pointsMaterial
-        size={0.05}
-        sizeAttenuation
-        color="#88ffee"
-        transparent
-        opacity={0.7}
+    {/* Optimized starfield */}
+    <Stars
+      radius={100}
+      depth={50}
+      count={1500}
+      factor={3}
+      saturation={0}
+      fade
+      speed={0.3}
+    />
+
+    {/* Gas Giant */}
+    <group position={[-40, 20, -80]} rotation={[0.2, -0.4, 0.5]}>
+      <mesh>
+        <sphereGeometry args={[12, 24, 24]} />
+        <meshStandardMaterial color="#4466aa" metalness={0.2} roughness={0.8} />
+      </mesh>
+
+      <mesh rotation={[Math.PI / 2.2, 0, 0]}>
+        <torusGeometry args={[22, 0.8, 8, 48]} />
+        <meshBasicMaterial color="#88aacc" transparent opacity={0.35} />
+      </mesh>
+
+      <mesh rotation={[Math.PI / 2.2, 0, 0]}>
+        <torusGeometry args={[26, 1.2, 8, 48]} />
+        <meshBasicMaterial color="#6688aa" transparent opacity={0.18} />
+      </mesh>
+    </group>
+
+    {/* Distant Moon */}
+    <mesh position={[50, -10, -100]}>
+      <sphereGeometry args={[6, 16, 16]} />
+      <meshStandardMaterial color="#995544" metalness={0.1} roughness={0.9} />
+    </mesh>
+
+    <UFO />
+
+    <OrbitControls
+      enablePan={false}
+      enableZoom
+      enableDamping
+      dampingFactor={0.05}
+      autoRotate
+      autoRotateSpeed={0.3}
+      minDistance={5}
+      maxDistance={18}
+      maxPolarAngle={Math.PI * 0.6}
+      minPolarAngle={Math.PI * 0.4}
+    />
+
+    <EffectComposer>
+      <Bloom
+        intensity={1.2}
+        luminanceThreshold={0.4}
+        luminanceSmoothing={0.6}
+        blendFunction={BlendFunction.ADD}
       />
-    </points>
-  );
-};
 
-// FIX #1: Xóa FogBackground – component này chỉ vẽ khối cầu đen không hiệu ứng
-// Fragment shader có bug: mix(black, black, n) = black, uTime cũng không được update.
-
-const Scene: React.FC = () => {
-  return (
-    // FIX #2, #3, #4: dpr giới hạn + gl settings + camera khớp minDistance
-    <Canvas
-      className="w-full h-full pointer-events-auto"
-      style={{ touchAction: "auto" }}
-      camera={{ position: [0, 0, 9], fov: 60 }}
-      dpr={[1, 1.5]}
-      gl={{ antialias: false, powerPreference: "high-performance" }}
-    >
-      <color attach="background" args={["#000000"]} />
-      <ambientLight intensity={0.2} />
-      <Jellyfish />
-      <Plankton />
-
-      <OrbitControls
-        enablePan={false}
-        enableZoom={true}
-        minDistance={7}
-        maxDistance={13}
-        enableDamping
-        dampingFactor={0.05}
-        autoRotate
-        autoRotateSpeed={0.3}
-      />
-      <EffectComposer>
-        {/* FIX #8: tăng intensity lên để hiệu ứng rõ hơn xứng với chi phí render pass */}
-        <Bloom
-          intensity={0.8}
-          luminanceThreshold={0.4}
-          luminanceSmoothing={0.5}
-          blendFunction={BlendFunction.ADD}
-        />
-      </EffectComposer>
-    </Canvas>
-  );
-};
+      <Vignette eskil={false} offset={0.2} darkness={0.8} />
+    </EffectComposer>
+  </Canvas>
+);
 
 export default Scene;
