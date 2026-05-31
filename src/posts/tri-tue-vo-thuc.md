@@ -1,1 +1,2 @@
 - không có chánh niệm, không thể khai mở trí tuệ vô thức.
+- Tâm trí vô thức của con người nhìn nhận sự việc một cách chính xác ngay cả khi lý trí có ý thức bị mù quáng và bất lực.

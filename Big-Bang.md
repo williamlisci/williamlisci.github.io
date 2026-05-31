@@ -1,0 +1,3 @@
+- tất cả mọi thứ ta nhìn thấy và cảm nhận đều là ảo ảnh 3 chiều.
+- Khoảng 13,8 tỷ năm trước, từ một điểm kỳ dị, không gian giãn nở nhanh chóng. Khi nhiệt độ giảm, năng lượng thuần
+  túy chuyển hóa thành vật chất qua sự kết hợp của các hạt cơ bản để tạo thành nguyên tử, thiên hà và con người. Mọi thứ bạn nhìn thấy, từ hạt cát, bầu trời cho đến cơ thể chúng ta, đều là sự biểu hiện tạm thời của các hạt và năng lượng, liên tục chuyển hóa và tan rã.

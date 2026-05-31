@@ -40,16 +40,18 @@ const PostList: React.FC = () => {
         <div className="prose prose-invert max-w-none mb-12">
           {/* Thêm text-justify để chữ căn đều hai bên lề trái/phải khít với ô tìm kiếm */}
           <p className="text-lg text-gray-300 text-justify leading-relaxed">
-            Xin chào, tôi là Nghĩa. `Nghĩa` trong trọng tình, trọng nghĩa :)
+            - Xin chào, tôi là Nghĩa. `Nghĩa` trong trọng tình, trọng nghĩa :)
             <br />
-            Đây là không gian kỹ thuật số nơi tôi lưu giữ và chia sẻ những điều
-            quan trọng mà tôi đã đốn ngộ được.
+            - Đây là không gian kỹ thuật số nơi tôi lưu giữ và chia sẻ những
+            điều quan trọng mà tôi đã đốn ngộ được.
             <br />
-            Mọi thứ chúng ta tiếp nhận bằng giác quan chỉ là phần nổi của tảng
-            băng chìm. Nếu không đốn ngộ được nội hàm tầng sâu, mọi hiểu biết là
-            vô nghĩa.
-            <br />
-            Cập nhật lần cuối: May 2026.
+            - Để đến được đỉnh cao của tri thức thế giới, hãy tìm kiếm những bộ
+            óc phức tạp và tinh tế nhất, tập hợp họ vào cùng một phòng, và yêu
+            cầu họ đặt cho nhau những câu hỏi mà chính họ cũng đang tự hỏi mình.
+            Intro from edge.org
+            <br />- "Để đạt được những điều phi thường, bạn phải tìm kiếm những
+            người phi thường." James Lee
+            <br />- Cập nhật lần cuối: Jun 2026.
           </p>
         </div>
 
