@@ -45,12 +45,9 @@ const PostList: React.FC = () => {
             - Đây là không gian kỹ thuật số nơi tôi lưu giữ và chia sẻ những
             điều quan trọng mà tôi đã đốn ngộ được.
             <br />
-            - Để đến được đỉnh cao của tri thức thế giới, hãy tìm kiếm những bộ
-            óc phức tạp và tinh tế nhất, tập hợp họ vào cùng một phòng, và yêu
-            cầu họ đặt cho nhau những câu hỏi mà chính họ cũng đang tự hỏi mình.
-            Intro from edge.org
-            <br />- "Để đạt được những điều phi thường, bạn phải tìm kiếm những
-            người phi thường." James Lee
+            - Mọi thứ chúng ta tiếp nhận bằng giác quan chỉ là phần nổi của tảng
+            băng chìm. Nếu không đốn ngộ được nội hàm tầng sâu, mọi hiểu biết là
+            vô nghĩa.
             <br />- Cập nhật lần cuối: Jun 2026.
           </p>
         </div>

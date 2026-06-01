@@ -1,1 +1,2 @@
 - ước mơ đặt chân lên mặt trăng của loài người có phải hoang tưởng? nhờ có khoa học, nó đã trở thành sự thật.
+- những gì chúng ta gọi là "chân lý" hôm nay có thể chỉ là một lát cắt tạm thời của sự thật. Khoa học không bao giờ dừng lại, nó luôn là hành trình mở rộng ranh giới hiểu biết, không ngừng thách thức niềm tin cũ và soi rọi vào những điều chưa biết.

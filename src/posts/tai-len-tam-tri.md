@@ -1,7 +1,7 @@
 - Xuyên suốt lịch sử, nhân loại đã tìm kiếm những cách thức để đạt được sự bất tử. Tuy nhiên, bất chấp thời gian 
   trôi qua, cả hoàng đế lẫn người thường đều chưa thể đạt được sự sống vĩnh hằng. Điều này có nghĩa là sự bất tử chỉ là 
   một giấc mơ hão huyền? Trong thế giới công nghệ tiên tiến ngày nay, các nhà khoa học đã nghĩ ra một phương pháp khác để con người bất tử: truyền ý thức vào máy tính. Tuy nhiên, để đạt được điều này, hai rào cản công nghệ lớn phải được vượt qua: 
-1. Quét và lập bản đồ hoàn chỉnh não bộ. Não bộ con người chứa khoảng 86 tỷ tế bào thần kinh và hàng nghìn tỷ kết 
+1. Quét và lập bản đồ hoàn chỉnh não bộ: Não bộ con người chứa khoảng 86 tỷ tế bào thần kinh và hàng nghìn tỷ kết 
      nối khớp thần kinh, độ phức tạp của nó giống như một "khu rừng thần kinh". Bước đầu tiên để đạt được điều này là 
      lập bản đồ cấu trúc ba chiều hoàn chỉnh của não bộ, "connectome". Điều này đòi hỏi công nghệ hình ảnh chính xác 
      hơn hàng triệu lần so với MRI hiện tại. Hiện nay, các nhà khoa học mới chỉ hoàn thành mô phỏng hệ thần kinh của 
