@@ -78,7 +78,8 @@ Nghĩa chung: "Hàm số được dẫn dắt ra (từ một hàm số khác)".`
   xuống là việc đưa tâm trí về trạng thái thư giãn. Giống như một mặt hồ, khi sóng đánh liên tục (tần số\r
   cao), ta không thể thấy đáy. Chỉ khi mặt nước phẳng lặng, mọi thứ mới trở nên thông suốt.`,d=`- Hoài nghi lành mạnh là động lực của nghiên cứu khoa học.\r
 `,f=`- ước mơ đặt chân lên mặt trăng của loài người có phải hoang tưởng? nhờ có khoa học, nó đã trở thành sự thật.\r
-- những gì chúng ta gọi là "chân lý" hôm nay có thể chỉ là một lát cắt tạm thời của sự thật. Khoa học không bao giờ dừng lại, nó luôn là hành trình mở rộng ranh giới hiểu biết, không ngừng thách thức niềm tin cũ và soi rọi vào những điều chưa biết.`,p=`- đào vàng trong não.`,m=`- Lý thuyết hỗn loạn (Chaos Theory): Những sai số cực nhỏ trong dữ liệu ban đầu có thể dẫn đến kết quả sai lệch hoàn toàn, khiến việc dự báo dài hạn là bất khả thi.\r
+- những gì chúng ta gọi là "chân lý" hôm nay có thể chỉ là một lát cắt tạm thời của sự thật. Khoa học không bao giờ dừng lại, nó luôn là hành trình mở rộng ranh giới hiểu biết, không ngừng thách thức niềm tin cũ và soi rọi vào những điều chưa biết.\r
+- Hãy cùng khám phá những khả năng của vũ trụ và biến thế giới này trở nên tốt đẹp hơn.`,p=`- đào vàng trong não.`,m=`- Lý thuyết hỗn loạn (Chaos Theory): Những sai số cực nhỏ trong dữ liệu ban đầu có thể dẫn đến kết quả sai lệch hoàn toàn, khiến việc dự báo dài hạn là bất khả thi.\r
 - Hỗn loạn là một ngành khoa học về quá trình chứ không phải trạng thái, về sự chuyển hóa chứ không phải thực tại đang tồn tại.\r
 - hỗn loạn là luật của tự nhiên. Trật tự là giấc mơ của con người.\r
 - Tôi nghĩ rằng không có thứ gọi là một nhà tiên tri thực sự. Bạn không bao giờ có thể đoán trước được tương lai. Bây \r
