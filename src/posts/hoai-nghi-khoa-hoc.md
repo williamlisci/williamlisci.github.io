@@ -1,1 +1,0 @@
-- Hoài nghi lành mạnh là động lực của nghiên cứu khoa học.

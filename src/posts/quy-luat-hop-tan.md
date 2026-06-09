@@ -1,9 +1,0 @@
-- Cuộc đời có hợp rồi lại tan
-- Định luật tự nhiên quá phũ phàng
-- Mỗi năm tuổi đời thêm ngắn lại
-- Lo lắng làm chi chuyện thế gian.
-- Biết đạo không buồn chuyện ngang trái 
-- Biết đủ không than trách vội vàng 
-- Từ, bi, hỷ, xả lòng thanh thản 
-- Nghe lời Phật dạy sống lạc an
-- Nam Mô Đại Từ Đại Bi Quán Thế Âm Bồ Tát
