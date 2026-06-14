@@ -166,31 +166,6 @@ function App() {
                             Tìm biên giới của vũ trụ?
                           </a>
                         </li>
-
-                        <li>
-                          <a
-                            href="https://www.youtube.com/watch?v=1Y0jeAPH_Pc"
-                            className="text-cyan-400 hover:underline"
-                          >
-                            Tình Ba
-                          </a>
-                        </li>
-                        <li>
-                          <a
-                            href="https://www.youtube.com/watch?v=tsxDC9WRpsg"
-                            className="text-cyan-400 hover:underline"
-                          >
-                            Tình Mẹ
-                          </a>
-                        </li>
-                        <li>
-                          <a
-                            href="https://www.youtube.com/watch?v=L7aSiIk6WKs"
-                            className="text-cyan-400 hover:underline"
-                          >
-                            Tình yêu
-                          </a>
-                        </li>
                       </ul>
                     </section>
 
