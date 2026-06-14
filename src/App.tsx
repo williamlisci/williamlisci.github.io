@@ -34,7 +34,7 @@ function App() {
                     My name William Li
                   </h1>
                   <h3 className="text-xl md:text-2xl mt-3 text-gray-300">
-                    a programmer specializing in web technology
+                    a person interested in studying nuclear physics
                   </h3>
 
                   <ScrollLink
@@ -117,17 +117,12 @@ function App() {
                         <li>
                           Programming language:{" "}
                           <mark className="bg-cyan-900 text-cyan-300 px-1">
-                            Typescript
+                            Python
                           </mark>
-                        </li>
-                        <li>
-                          Web Tech Stack:{" "}
+                          ,{" "}
                           <mark className="bg-cyan-900 text-cyan-300 px-1">
-                            React, Next.js, Tailwind CSS, Figma
+                            C#
                           </mark>
-                        </li>
-                        <li>
-                          Non-pro work: Quantum AI, Brain-Computer Interface
                         </li>
                       </ul>
                     </section>
