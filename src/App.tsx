@@ -34,7 +34,7 @@ function App() {
                     My name William Li
                   </h1>
                   <h3 className="text-xl md:text-2xl mt-3 text-gray-300">
-                    A person interested in the field of nuclear physics ☢
+                    A man interested in the field of nuclear physics ☢
                   </h3>
 
                   <ScrollLink
