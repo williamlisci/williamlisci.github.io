@@ -34,7 +34,7 @@ function App() {
                     My name William Li
                   </h1>
                   <h3 className="text-xl md:text-2xl mt-3 text-gray-300">
-                    a person interested in studying nuclear physics
+                    A person interested in the field of nuclear physics ☢
                   </h3>
 
                   <ScrollLink
@@ -121,7 +121,21 @@ function App() {
                           </mark>
                           ,{" "}
                           <mark className="bg-cyan-900 text-cyan-300 px-1">
-                            C#
+                            C++
+                          </mark>
+                          ,{" "}
+                          <mark className="bg-cyan-900 text-cyan-300 px-1">
+                            Fortran
+                          </mark>
+                          ,{" "}
+                          <mark className="bg-cyan-900 text-cyan-300 px-1">
+                            Julia
+                          </mark>
+                        </li>
+                        <li>
+                          References:{" "}
+                          <mark className="bg-cyan-900 text-cyan-300 px-1">
+                            https://github.com/williamlisci/awesome-nuclear
                           </mark>
                         </li>
                       </ul>
@@ -179,7 +193,7 @@ function App() {
                     </ScrollLink>
                   </div>
                   <small className="block text-center text-gray-500 py-6 border-t border-zinc-900">
-                    ©2023-2026. This website was created by William and AI LLM.
+                    ©2026. This website was created by William and AI LLM.
                   </small>
                 </main>
               </Element>
