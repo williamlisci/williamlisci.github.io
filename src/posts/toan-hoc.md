@@ -1,0 +1,1 @@
+- Toán học được coi là ngôn ngữ phổ quát của vũ trụ. Từ quỹ đạo của các hành tinh cho đến cấu trúc nguyên tử đều tuân theo các quy luật tự nhiên được giải mã chính xác bằng các con số, phương trình và mô hình toán học.

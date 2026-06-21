@@ -34,7 +34,7 @@ function App() {
                     My name William Li
                   </h1>
                   <h3 className="text-xl md:text-2xl mt-3 text-gray-300">
-                    A man interested in the field of nuclear physics ☢
+                    A man interested in the field of Reactor Nuclear Physics ☢
                   </h3>
 
                   <ScrollLink
@@ -133,7 +133,7 @@ function App() {
                           </mark>
                         </li>
                         <li>
-                          References:{" "}
+                          Documents:{" "}
                           <mark className="bg-cyan-900 text-cyan-300 px-1">
                             https://github.com/williamlisci/awesome-nuclear
                           </mark>
