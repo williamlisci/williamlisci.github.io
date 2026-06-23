@@ -1,4 +1,4 @@
-- nguy cơ mắc bệnh mãn tính tăng dần theo tuổi.
+- nguy cơ mắc các bệnh mãn tính tăng dần theo tuổi.
 - Bệnh tim mạch và đột quỵ: Quá trình lão hóa làm mạch máu xơ cứng. Nguy cơ tăng huyết áp và đột quỵ tăng mạnh từ tuổi trung niên.
 - Bệnh xương khớp: Sụn khớp bị mòn theo thời gian gây viêm khớp, thoái hóa khớp. Mật độ xương giảm mạnh gây loãng xương.
 - Bệnh chuyển hóa: Khả năng chuyển hóa chất dinh dưỡng giảm dẫn đến bệnh tiểu đường tuýp 2.
