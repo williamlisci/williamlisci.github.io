@@ -1,0 +1,2 @@
+- Ngữ nghĩa học có ứng dụng rộng rãi do tính chất phổ biến của các dấu hiệu, ảnh hưởng đến cách các cá nhân trải nghiệm các hiện tượng, truyền đạt ý tưởng và tương tác với thế giới.
+- Bởi vì hầu hết các ngành khoa học đều dựa vào các quá trình ký hiệu dưới một hình thức nào đó, nên ký hiệu học đôi khi được đặc trưng là một siêu ngành cung cấp một cách tiếp cận chung để phân tích các dấu hiệu trên nhiều lĩnh vực.
