@@ -1,0 +1,2 @@
+- nghệ thuật quyến rũ là công cụ tối thượng trong nghệ thuật lãnh đạo, đàm phán và xây dựng thương hiệu cá nhân, nhằm tạo sự thấu cảm, ảnh hưởng và thuyết phục người khác. 
+- Giá trị cốt lõi nhất của sự quyến rũ đến từ năng lực, sự tự tin và phong thái sống của chính bạn.
