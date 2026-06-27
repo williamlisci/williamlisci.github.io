@@ -1,0 +1,1 @@
+- Thế giới đang đối mặt với sự bất định, cạnh tranh khốc liệt và công nghệ thay đổi từng ngày. Nếu không chủ động chinh phục sự hỗn loạn, sự hỗn loạn sẽ "nuốt chửng" bạn.
