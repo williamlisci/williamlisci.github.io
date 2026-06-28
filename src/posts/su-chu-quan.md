@@ -1,0 +1,1 @@
+- kẻ quá tự tin sẽ không chết ở biển lớn mà sẽ chết ở vũng nước trâu nằm.
