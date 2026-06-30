@@ -1,0 +1,2 @@
+- Kiến thức bề rộng không làm loãng chiều sâu, mà giúp chiều sâu phát triển đúng chỗ. Khi có cái nhìn toàn cảnh, cá nhân sẽ biết nên đào sâu lĩnh vực nào, vào thời điểm nào và với mục tiêu dài hạn ra sao, thay vì đầu tư công sức một cách mù quáng. 
+- Nhiều bước ngoặt lớn trong học thuật và kinh doanh đều xuất hiện tại điểm giao thoa giữa các lĩnh vực. Kiến thức bề rộng chính là điều kiện cần để nhận diện những giao điểm đó, từ đó tạo ra tư duy sáng tạo và giá trị khác biệt.

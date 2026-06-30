@@ -1,0 +1,2 @@
+- tốc độ tăng trưởng quyết định tất cả.
+- sẽ không sao nếu bạn bắt đầu từ con số 0. khả năng học hỏi nhanh chóng và thích nghi nhanh với bối cảnh mới sẽ quyết định tương lai của bạn.

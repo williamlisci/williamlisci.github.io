@@ -1,0 +1,1 @@
+- kiến thức là công cụ. giá trị của kiến thức phụ thuộc hoàn toàn vào cách người sử dụng mài giũa và ứng dụng nó trong thực tiễn

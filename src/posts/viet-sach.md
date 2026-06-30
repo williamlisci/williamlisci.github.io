@@ -1,0 +1,1 @@
+- viết sách mà không đi kèm giải thích và chú thích rõ ràng là 1 tội ác.
