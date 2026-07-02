@@ -1,0 +1,2 @@
+- Một trong những khó khăn khi sử dụng AI LLM trong học tập như giải Toán là tốc độ suy luận từng bước của nó đôi khi quá nhanh. giải pháp là hãy yêu cầu AI suy luận từng bước chậm lại.
+- prompt tham khảo: ""Hãy giải bài toán này từng bước một. Sau mỗi bước, hãy giải thích ngắn gọn tại sao lại làm như vậy và hỏi xem tôi có hiểu không trước khi chuyển sang bước tiếp theo."

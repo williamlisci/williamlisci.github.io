@@ -1,0 +1,3 @@
+- mơ hồ là kẻ thù số 1 của tư duy.
+- khi mọi thứ đều mơ hồ, tư duy giống như xây dựng trên cát lún.
+- giải pháp là chiến lược cụ thể hóa tối đa. Thay vì đặt câu hỏi: "Làm thế nào để cải thiện hiệu quả làm việc nhóm" thành "Làm thế nào để rút ngắn các cuộc họp sáng thứ Hai từ 45 phút xuống còn 10 phút."
