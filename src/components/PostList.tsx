@@ -45,9 +45,8 @@ const PostList: React.FC = () => {
             - Đây là không gian kỹ thuật số nơi tôi lưu giữ và chia sẻ những
             điều quan trọng mà tôi đã đốn ngộ được.
             <br />
-            - Mọi thứ chúng ta tiếp nhận bằng giác quan chỉ là phần nổi của tảng
-            băng chìm. Nếu không đốn ngộ được nội hàm tầng sâu, mọi hiểu biết là
-            vô nghĩa.
+            - "Bất kỳ ai đọc quá nhiều nhưng lại ít sử dụng não thì sẽ rơi vào
+            thói lười suy nghĩ" - Albert Einstein.
             <br />- Cập nhật lần cuối: Jun 2026.
           </p>
         </div>

@@ -1,0 +1,1 @@
+- Tôi cảm ơn số phận về ba điều: thứ nhất, vì tôi sinh ra là người chứ không phải là thú vật; thứ hai, vì tôi là người đàn ông chứ không phải là đàn bà; thứ ba, là người Hy Lạp chứ không phải dân man rợ - Thales

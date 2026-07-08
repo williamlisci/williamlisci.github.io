@@ -1,2 +1,1 @@
-- đôi khi cần "lùi lại một bước" để mở rộng tầm nhìn và tìm ra những gì còn thiếu trong các phương pháp tiếp cận 
-  hiện tại.
+- khoa học không chỉ tiến lên bằng những kết quả thuận lợi. Đôi khi, chính các "ngõ cụt" trong nghiên cứu lại là tín hiệu để nhà khoa học tìm kiếm con đường khác.
