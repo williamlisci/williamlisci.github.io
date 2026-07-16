@@ -1,0 +1,1 @@
+- tư duy suy luận logic không thể xảy ra trong chân không mà luôn cần hệ thống các khái niệm, ký hiệu và biểu tượng. Đây chính là nền tảng để mã hóa, sắp xếp và thao tác với thông tin.

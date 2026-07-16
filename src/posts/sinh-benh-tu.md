@@ -1,0 +1,1 @@
+- sinh, bệnh, tử là quy luật mà không ai thoát được, kể cả giàu sang hơn người, trình độ hơn người.

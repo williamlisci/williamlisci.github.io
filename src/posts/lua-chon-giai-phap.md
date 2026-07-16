@@ -1,0 +1,2 @@
+- trong ngắn hạn, giải pháp ít chờ đợi nhất là giải pháp tốt nhất . 
+- trong dài hạn, giải pháp ít đánh đổi nhất là giải pháp tốt nhất.
