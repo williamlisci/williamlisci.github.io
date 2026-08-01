@@ -44,10 +44,7 @@ const PostList: React.FC = () => {
             <br />
             - Đây là không gian kỹ thuật số nơi tôi lưu giữ và chia sẻ những
             điều quan trọng mà tôi đã đốn ngộ được.
-            <br />
-            - "Bất kỳ ai đọc quá nhiều nhưng lại ít sử dụng não thì sẽ rơi vào
-            thói lười suy nghĩ" - Albert Einstein.
-            <br />- Cập nhật lần cuối: Jun 2026.
+            <br />- Cập nhật lần cuối: July 2026.
           </p>
         </div>
 

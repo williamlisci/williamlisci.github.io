@@ -1,0 +1,1 @@
+- một trong những điểm mạnh của AI là nó học từ toàn bộ thông tin được 8 tỷ người chia sẻ trên internet, bất chấp rào cản ngôn ngữ, trong khi hiểu biết của người bình thường thường bị giới hạn trong vài ngôn ngữ.

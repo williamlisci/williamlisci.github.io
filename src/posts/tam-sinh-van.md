@@ -1,0 +1,1 @@
+- Tâm sinh tướng, tướng sinh vận. Muốn đổi vận, trước hết phải đổi tâm, đổi tam quan.

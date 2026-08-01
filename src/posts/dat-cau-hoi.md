@@ -1,0 +1,1 @@
+- không có câu hỏi nào ngốc, chỉ có những kẻ ngốc không đủ can đảm để hỏi.
