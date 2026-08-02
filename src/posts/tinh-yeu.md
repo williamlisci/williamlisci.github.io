@@ -1,0 +1,1 @@
+- tình yêu đến từ rung động tự nhiên trong tâm hồn, không phải rung động giả tạo từ cổ họng.

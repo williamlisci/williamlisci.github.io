@@ -1,0 +1,1 @@
+- Xã hội vận hành dựa trên cơ chế tự sàng lọc.

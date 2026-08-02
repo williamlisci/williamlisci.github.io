@@ -1,6 +1,6 @@
-- cốt cách đàn ông phải cứng rắn, mạnh mẽ, lạnh lùng như loài sói.
-- Chịu đựng nghịch cảnh: Sói có thể chịu đói, chịu rét, kiên trì bám đuổi mục tiêu. Người đàn ông có cốt cách này không than vãn, nản chí trước thất bại.
-- Tập trung cao độ: Luôn giữ cái đầu lạnh để phân tích tình huống và hành động đúng thời điểm.
-- Tự lượng sức mình: Sói không bao giờ tấn công những đối thủ quá mạnh một cách mù quáng. Người đàn ông thông minh biết khi nào nên tiến, khi nào nên lùi để bảo toàn lực lượng.
-- Độc lập tự chủ: Không dựa dẫm vào người khác, tự chịu trách nhiệm hoàn toàn cho cuộc đời mình.
-- Đặt tập thể lên trên: Sói không bao giờ đơn độc khi săn mồi lớn, chúng có tính kỷ luật và tinh thần bầy đàn cực cao.
+- cốt cách đàn ông phải như loài sói.
+- Sói có thể chịu đói, chịu rét, kiên trì bám đuổi mục tiêu.
+- Sói không bao giờ tấn công những đối thủ quá mạnh một cách mù quáng.
+- Sói không bao giờ đơn độc khi săn mồi lớn.
+- Sói, tuy hung dữ nhưng không dùng thủ đoạn. Sói, tuy máu lạnh nhưng không có mưu kế.
+- Bản chất hung dữ của sói luôn được bộc lộ ra bên ngoài, còn bản chất thật sự của con người luôn được cất giấu ở bên trong.

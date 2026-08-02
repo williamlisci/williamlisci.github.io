@@ -1,5 +1,1 @@
-- Nếu bạn muốn mô phỏng tự nhiên, tốt hơn hết bạn nên tạo ra nó bằng cơ học lượng tử. Richard Feynman 
-- Một phép tính cổ điển giống như một giọng ca độc diễn, một chuỗi các nốt thuần khiết nối tiếp nhau. Một phép tính 
-  lượng tử giống như một bản giao hưởng, nhiều giai điệu hòa quyện và can thiệp lẫn nhau. Seth Lloyd
-- máy tính lượng tử hoạt động được là nhờ hiện tượng mà chính Einstein từng cố gắng bác bỏ - vướng víu lượng tử (quantum entanglement). Đây là hiện tượng hai hạt có thể "liên kết" với nhau dù ở cách xa hàng nghìn kilomet, đến mức khi một hạt thay đổi trạng thái, hạt còn lại cũng thay đổi tức thì.
-- Giống như hai mặt của một đồng xu, vật lý cổ điển và cơ học lượng tử cùng tồn tại, phản ánh hai tầng thực tại của vũ trụ: một thế giới lớn vận hành trơn tru và có thể dự đoán, và một thế giới nhỏ hỗn độn, nơi xác suất là vua.
+- 2026, máy tính lượng tử siêu dẫn thế hệ thứ tư “Origin Wukong-180” do công ty Origin Quantum của Trung Quốc phát triển đã chính thức đi vào hoạt động và bắt đầu tiếp nhận các tác vụ tính toán lượng tử từ khắp nơi trên thế giới. Máy tính này được trang bị chip lượng tử siêu dẫn đơn nhân 180 qubit, đạt khả năng tính toán lượng tử cấp 100 qubit trên kiến ​​trúc chip đơn. Phiên bản mới đã đạt một bước tiến lớn về công nghệ và sức mạnh tính toán so với phiên bản trước đó.

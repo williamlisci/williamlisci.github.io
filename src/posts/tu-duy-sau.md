@@ -1,0 +1,1 @@
+- càng đa nhiệm càng khó tư duy sâu.

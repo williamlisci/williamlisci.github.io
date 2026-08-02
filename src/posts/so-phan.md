@@ -1,1 +1,1 @@
-- Tôi cảm ơn số phận về ba điều: thứ nhất, vì tôi sinh ra là người chứ không phải là thú vật; thứ hai, vì tôi là người đàn ông chứ không phải là đàn bà; thứ ba, là người Hy Lạp chứ không phải dân man rợ - Thales
+- Vũ trụ vận hành dựa trên xác suất chứ không phải sự chắc chắn. Điều này gợi ý rằng tương lai có thể không phải là một con đường cố định, mà là vô số nhánh khả năng đang chờ bạn lựa chọn trong hiện tại.

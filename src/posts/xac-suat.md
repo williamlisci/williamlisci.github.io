@@ -1,1 +1,0 @@
-- vũ trụ vận hành theo quy luật xác suất, không phải sự chắc chắn.

@@ -1,0 +1,1 @@
+- Mọi thứ bạn nghe chỉ là một quan điểm, không phải là sự thật. Mọi thứ chúng ta thấy chỉ là một góc nhìn, không phải là chân lý.
