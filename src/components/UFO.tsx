@@ -130,8 +130,8 @@ const UFO: React.FC = () => {
 			</mesh>
 
 			{/* Panel grooves */}
-			{[0.6, 0.9, 1.18].map((r, i) => (
-				<mesh key={i} position={[0, 0.06, 0]} rotation={[Math.PI / 2, 0, 0]}>
+			{[0.6, 0.9, 1.18].map((r) => (
+				<mesh key={r} position={[0, 0.06, 0]} rotation={[Math.PI / 2, 0, 0]}>
 					<torusGeometry args={[r, 0.008, 6, 64]} />
 					<meshStandardMaterial
 						color="#2a3050"
@@ -150,7 +150,7 @@ const UFO: React.FC = () => {
 
 				return (
 					<mesh
-						key={i}
+						key={angle}
 						position={[
 							Math.cos(angle) * RIM_RADIUS,
 							-0.02,

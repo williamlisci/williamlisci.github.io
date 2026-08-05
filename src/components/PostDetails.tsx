@@ -4,11 +4,13 @@ import ReactMarkdown from "react-markdown";
 import { useParams } from "react-router-dom";
 import remarkGfm from "remark-gfm";
 
-const postFiles: Record<string, string> = import.meta.glob("/src/posts/*.md", {
-	eager: true,
-	query: "raw",
+// Lazy import: mỗi giá trị trong object là một HÀM trả về Promise,
+// nội dung file .md CHỈ được tải khi ta thực sự gọi hàm đó (đúng slug cần xem),
+// thay vì đọc hết file ngay khi app khởi động.
+const postFiles = import.meta.glob("/src/posts/*.md", {
+	query: "?raw",
 	import: "default",
-});
+}) as Record<string, () => Promise<string>>;
 
 const PostDetails: React.FC = () => {
 	const { slug } = useParams();
@@ -23,14 +25,25 @@ const PostDetails: React.FC = () => {
 		}
 
 		const filePath = `/src/posts/${slug}.md`;
-		const fileContent = postFiles[filePath];
+		const loadPost = postFiles[filePath];
 
-		if (fileContent) {
-			setMarkdown(fileContent);
-		} else {
+		if (!loadPost) {
 			setMarkdown("Bài viết không tồn tại.");
+			setLoading(false);
+			return;
 		}
-		setLoading(false);
+
+		setLoading(true);
+		loadPost()
+			.then((content) => {
+				setMarkdown(content);
+			})
+			.catch(() => {
+				setMarkdown("Không thể tải bài viết. Vui lòng thử lại.");
+			})
+			.finally(() => {
+				setLoading(false);
+			});
 	}, [slug]);
 
 	if (loading) {

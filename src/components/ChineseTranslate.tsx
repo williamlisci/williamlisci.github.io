@@ -13,9 +13,13 @@ const ChineseTranslate: React.FC = () => {
 	const currentText = isOriginalText ? ORIGINAL_TEXT : TRANSLATED_TEXT;
 	return (
 		<div>
-			<div onClick={handleClick} style={{ cursor: "pointer" }}>
+			<button
+				type="button"
+				onClick={handleClick}
+				style={{ cursor: "pointer", background: "none", border: "none", padding: 0, font: "inherit", color: "inherit" }}
+			>
 				{currentText}
-			</div>
+			</button>
 		</div>
 	);
 };
