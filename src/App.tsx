@@ -8,8 +8,9 @@ import {
 } from "react-router-dom";
 import { Element, Link as ScrollLink } from "react-scroll";
 import ChineseTranslate from "./components/ChineseTranslate";
-import Scene from "./components/Scene";
 
+// Thêm lazy cho Scene
+const Scene = React.lazy(() => import("./components/Scene"));
 const PostList = React.lazy(() => import("./components/PostList"));
 const PostDetails = React.lazy(() => import("./components/PostDetails"));
 
@@ -22,9 +23,12 @@ function App() {
 					element={
 						<div className="min-h-screen bg-black text-white relative overflow-hidden">
 							<Element name="header">
-								<div className="absolute inset-0 z-0">
-									<Scene />
-								</div>
+
+							<div className="absolute inset-0 z-0">
+                <Suspense fallback={null}>
+                  <Scene />
+                </Suspense>
+							</div>
 
 								<header className="relative z-10 flex flex-col items-center justify-center h-screen text-center px-6 pointer-events-none">
 									<span className="text-cyan-400 text-xl tracking-widest">
