@@ -1,0 +1,1 @@
+var e=`/assets/nghich-ly-Crf6dJch.md`;export{e as default};
