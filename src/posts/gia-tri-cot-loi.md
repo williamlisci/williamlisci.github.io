@@ -1,0 +1,1 @@
+- trong phim Spider-Man: Homecoming (2017). Khi Peter Parker nói rằng "Em không là gì nếu không có bộ đồ này", Tony Stark (Iron Man) đã đáp lại: "Nếu em không là gì nếu không có bộ giáp, thì em không nên có nó."
