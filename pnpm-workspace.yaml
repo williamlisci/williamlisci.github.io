@@ -14,6 +14,7 @@ minimumReleaseAgeExclude:
   - '@react-three/drei@10.7.8'
   - postcss@8.5.26
   - '@types/node@26.2.0'
+  - eslint-plugin-react-refresh@0.5.4
 
 onlyBuiltDependencies:
   - '@tailwindcss/oxide'
