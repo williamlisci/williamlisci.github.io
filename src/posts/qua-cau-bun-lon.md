@@ -1,0 +1,7 @@
+- Big Ball of Mud (Quả cầu bùn lớn) là một hệ thống phần mềm không có cấu trúc rõ ràng. Nó chắp vá, lộn xộn, dây mơ rễ má và phát triển vô tổ chức qua thời gian. Kiến trúc này xuất hiện khi các tính năng liên tục được thêm vào mà không tuân theo thiết kế ban đầu.
+- Đặc điểm: Mã nguồn bị trộn lẫn, không phân chia rõ các tầng (layers) hay module. Các phần trong code phụ thuộc lẫn nhau một cách hỗn loạn. Sửa một chỗ có thể làm hỏng chỗ khác. Không có quy tắc lập trình chung, mỗi người viết theo một kiểu.
+- Nguyên nhân chính: Do áp lực thời gian, thay đổi nhân sự liên tục hoặc thiếu định hướng kiến trúc từ đầu.
+- Martin Fowler: "Đừng bao giờ bắt đầu với Microservices. Hãy bắt đầu bằng Monolith".
+- Microservices là một giải pháp hạng sang dành cho những vấn đề hạng sang (Premium solution for premium problems). hi chia nhỏ hệ thống, bạn phải đối mặt với độ trễ mạng (network latency), giao dịch phân tán (distributed transactions), và cơn ác mộng về quản lý hạ tầng. Với 90% dự án ngoài kia (kể cả những hệ thống có vài chục ngàn truy cập một ngày), bạn không cần đến Microservices. Cái bạn cần là Modular Monolith (Nguyên khối phân hệ).
+- Lỗi không nằm ở kiến trúc nguyên khối, lỗi nằm ở những kỹ sư thiếu kỷ luật đã biến nó thành một mớ hỗn độn.
+- Kiến trúc tốt là kiến trúc tiến hóa được theo thời gian, chứ không phải kiến trúc phức tạp, cao cấp nhất.
