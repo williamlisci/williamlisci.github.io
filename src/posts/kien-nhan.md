@@ -1,1 +1,1 @@
-- bơi ở vũng nước trâu nằm còn chưa thông thạo thì đừng vội bơi ở biển lớn. hãy kiên nhẫn.
+- bơi ở vũng nước trâu nằm còn chưa thông thạo thì đừng vội bơi ở biển lớn. hãy kiên nhẫn. đừng nóng vội.
