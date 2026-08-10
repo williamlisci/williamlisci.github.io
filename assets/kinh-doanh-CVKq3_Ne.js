@@ -1,0 +1,5 @@
+var e=`- Nếu bạn chỉ tập trung vào đối thủ cạnh tranh, thì bạn sẽ không tập trung vào khách hàng của mình - hãy nỗ lực hết sức để tiếp cận khách hàng, thực sự yêu thích vấn đề mà bạn giải quyết cho họ, và bạn sẽ không thể thất bại.\r
+- Đừng bao giờ đánh giá thấp người gia nhập thị trường muộn - họ có cơ hội bắt đầu bằng cách học hỏi từ tất cả những sai lầm của bạn.\r
+- Đừng bao giờ bước vào một lĩnh vực cạnh tranh khốc liệt và đông đúc, rồi chỉ cố gắng tạo ra một sản phẩm tốt hơn một chút. Đó là hành động tự sát của doanh nhân.\r
+- Chỉ cần nhìn vào Nokia? Kodak? Blackberry? và Yahoo? là bạn sẽ nhận ra rằng chỉ vì một thương hiệu từng là dẫn đầu thị trường tại một thời điểm nào đó, không có nghĩa là hai người trong một gara không thể xây dựng, tung sản phẩm ra thị trường và cạnh tranh được.\r
+`;export{e as default};
