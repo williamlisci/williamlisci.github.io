@@ -1,0 +1,1 @@
+- Khi nhìn xa hơn, ta sẽ có được sự sáng suốt. 段永平.

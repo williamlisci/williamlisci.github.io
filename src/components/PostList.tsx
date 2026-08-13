@@ -61,8 +61,8 @@ const PostList: React.FC = () => {
 					<p className="text-lg text-gray-300 text-justify leading-relaxed">
 						- Xin chào, tôi là Nghĩa. `Nghĩa` trong trọng tình, trọng nghĩa :)
 						<br />- Đây là không gian kỹ thuật số nơi tôi lưu giữ và chia sẻ
-            những thông tin quan trọng mà tôi quan tâm và đốn ngộ được.
-						<br />- Thành ngữ tiếng Việt có câu :"Chân cứng đá mềm", hàm ý không khó khăn nào có thể chống lại 1 ý chí mạnh mẽ và bền bỉ. chúc cho sự nghiệp của bạn luôn thăng tiến, "chân cứng đá mềm", may mắn và thành công.
+            những suy ngẫm của tôi và trích dẫn tổng hợp trên mạng.
+            <br />- Hãy dám đi sau thế giới, và giành thế thượng phong từ phía sau. 段永平.
 						<br />- Tổng số bài đăng: {posts.length} bài. Cập nhật lần cuối: 2026.
 					</p>
 				</div>

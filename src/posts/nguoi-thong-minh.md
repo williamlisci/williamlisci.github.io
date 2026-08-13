@@ -1,0 +1,1 @@
+- hầu hết những người thông minh thường bị chính trí thông minh của mình đánh lừa.

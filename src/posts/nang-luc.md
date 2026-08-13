@@ -1,0 +1,1 @@
+- Ngay cả người lái xe giỏi nhất cũng sẽ khó mà lái tốt một chiếc xe tồi. 段永平.

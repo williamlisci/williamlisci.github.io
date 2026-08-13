@@ -1,0 +1,1 @@
+- muốn tư duy nhanh thì đừng làm não bị quá tải thông tin.
