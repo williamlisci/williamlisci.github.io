@@ -1,0 +1,2 @@
+var e=`- Khi tôi còn là CEO, tôi không có bảng phân bổ thời gian, nhưng tôi có một ý tưởng chung về những việc quan trọng. Tóm lại, đừng để những việc quan trọng trở nên gấp gáp. 段永平.\r
+`;export{e as default};
