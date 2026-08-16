@@ -1,3 +1,9 @@
+---
+title: Phuong Phap Tu Duy
+date: '2026-08-16'
+tags: []
+excerpt: ''
+---
 - mơ hồ là kẻ thù số 1 của tư duy.
 - khi mọi thứ đều mơ hồ, tư duy giống như xây dựng trên cát lún.
 - tư duy cụ thể đến tận cùng là cách nghĩ chi tiết hóa, không dừng lại ở chung chung để giải quyết triệt để vấn đề.

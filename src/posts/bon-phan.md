@@ -1,3 +1,9 @@
+---
+title: Bon Phan
+date: '2026-08-16'
+tags: []
+excerpt: ''
+---
 - Dù ở thời điểm nào, bản chất của hoạt động kinh doanh vẫn không thay đổi. Có thể thành công hay không, đều dựa vào hai từ “bổn phận”. 段永平
 - Trong chữ Hán, từ Bổn phận thường được viết là 本分.
 - Chữ 本 (Bổn / Bản): Người xưa lấy chữ 木 (mộc – cái cây) rồi thêm một nét gạch ngang ở phía dưới để đánh dấu phần rễ, tức cái phần khuất dưới đất, không nhìn thấy nhưng nuôi sống toàn bộ cái cây. Nghĩa gốc: gốc rễ, nền tảng. Nghĩa mở rộng: cội nguồn, bản chất, cái vốn có ban đầu.

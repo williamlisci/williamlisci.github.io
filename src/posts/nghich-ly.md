@@ -1,3 +1,9 @@
+---
+title: Nghich Ly
+date: '2026-08-16'
+tags: []
+excerpt: ''
+---
 - Socrates từng nói câu nổi tiếng: "Tôi chỉ biết một điều: Tôi không biết gì cả." Chính phát biểu này đã là một 
   nghịch lý, cho thấy sự phức tạp của những phát ngôn tự tham chiếu. Bạn phải đặt câu hỏi về mọi thứ bạn nghĩ mình 
   biết. Càng hỏi nhiều, bạn càng khám phá ra vô số nghịch lý xoay quanh mình.

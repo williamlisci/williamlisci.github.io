@@ -1,3 +1,9 @@
+---
+title: Mo Hinh Tinh Than
+date: '2026-08-16'
+tags: []
+excerpt: ''
+---
 - "Nếu công cụ duy nhất bạn có là một cây búa, bạn sẽ có xu hướng nhìn mọi vấn đề như một cây đinh."— Abraham Maslow
 - "Bạn không thể thực sự biết bất cứ điều gì nếu chỉ ghi nhớ những sự thật rời rạc và cố gắng nhớ lại chúng. Nếu các 
   sự thật không được liên kết với nhau trên một mạng lưới thông tin, bạn sẽ không sở hữu chúng ở dạng có thể sử dụng 

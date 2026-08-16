@@ -1,3 +1,9 @@
+---
+title: Tre Mo Coi
+date: '2026-08-16'
+tags: []
+excerpt: ''
+---
 - Có chăng mối liên hệ giữa biến cố mất cha/mẹ từ sớm và động lực đạt được thành tựu phi thường? 
 - Danh sách những người thành đạt từng mất cha mẹ khi còn trẻ thật đáng kinh ngạc và có những thống kê kỳ lạ.
 - Vào những năm 1970, một nhà tâm lý học lâm sàng đến từ Long Island tên là Martin Eisenstadt đã nghiên cứu lịch sử gia đình của tất cả những người nổi tiếng đến mức được dành hẳn một trang trong Bách khoa toàn thư Britannica — một danh sách gồm 573 nhân vật, trải dài từ Homer đến John F. Kennedy, một sự kết hợp phong phú giữa các nhà văn, nhà khoa học, nhà lãnh đạo chính trị, nhà soạn nhạc, binh lính, triết gia và nhà thám hiểm. Eisenstadt không quan tâm đến động cơ một cách trực tiếp; trên thực tế, ông đang kiểm tra một lý thuyết mà ông đã phát triển, liên quan đến thiên tài và việc mất cha mẹ khi còn nhỏ. Nhưng cuối cùng, ông đã xây dựng được một minh chứng tinh tế về mối quan hệ giữa động cơ và các tín hiệu bản năng.

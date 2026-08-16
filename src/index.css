@@ -18,3 +18,8 @@
 body {
   font-family: "DejaVuSans", sans-serif;
 }
+
+.prose .katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
+}

@@ -1,3 +1,9 @@
+---
+title: Giao Thoa Ngon Ngu
+date: '2026-08-16'
+tags: []
+excerpt: ''
+---
 - Giao thoa ngôn ngữ là hiện tượng hệ thống ngôn ngữ này chịu ảnh hưởng của hệ thống ngôn ngữ khác khi tiếp xúc, 
   biểu hiện ở việc vay mượn từ vựng, ảnh hưởng ngữ pháp, ảnh hưởng ngữ âm. 
 - Từ Hán Việt gốc Nhật đánh dấu một bước phát triển mới của từ Hán Việt, xuất hiện vào cuối thế kỉ XIX đầu thế kỉ XX nhằm tiếp nhận các từ ngữ, thuật ngữ triết học, tư tưởng, khoa học xã hội và khoa học tự nhiên của phương Tây, những lĩnh vực mà văn hóa Đông Á vốn thiếu. Muốn tiếp nhận văn hóa phương Tây thì khâu đầu tiên là phải dịch, dịch thế nào là một khâu không đơn giản. Người Nhật tiếp nhận đầu tiên, sau đến người Hoa rồi đến người Việt. Người đi sau thừa hưởng thành quả người đi trước, và thế là chúng ta có từ Hán Việt gốc Nhật. 

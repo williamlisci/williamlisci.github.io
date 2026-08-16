@@ -1,3 +1,9 @@
+---
+title: Chu Quoc Ngu
+date: '2026-08-16'
+tags: []
+excerpt: ''
+---
 - Đây là danh sách các vị linh mục đã dày công khai sáng chữ viết cho dân tộc Việt: Francesco de Pina, Gaspar 
   d’Amaral và 
   Antonio Barbosa (đều là người Bồ Đào Nha), Cristoforo Borri (người Ý), Alexandre de Rhodes (người Pháp)...

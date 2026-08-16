@@ -1,3 +1,9 @@
+---
+title: Lo Phan Ung Hat Nhan Ky Thuat So
+date: '2026-08-16'
+tags: []
+excerpt: ''
+---
 #digital nuclear reactor
 - Các lò phản ứng hạt nhân trong tương lai có thể dựa vào tự động hóa và điều khiển kỹ thuật số. Các nhà khoa học hiện đang thử nghiệm những ý tưởng đó trong thực tế.
 - Lò phản ứng PUR-1 được xây dựng vào năm 1962 và được chuyển đổi từ hệ thống tương tự sang kỹ thuật số vào năm 2019 với sự hỗ trợ từ Văn phòng Năng lượng Hạt nhân thuộc Bộ Năng lượng Hoa Kỳ.

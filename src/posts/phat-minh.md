@@ -1,3 +1,9 @@
+---
+title: Phat Minh
+date: '2026-08-16'
+tags: []
+excerpt: ''
+---
 - Hãy ở một mình, đó là bí mật của phát minh; ở một mình, đó là lúc những ý tưởng lớn được sinh ra. Nikola Tesla.
 - Khi ở một mình, bạn cắt đứt được những ồn ào và phiền nhiễu từ môi trường xung quanh cũng như các mối quan hệ xã hội. Điều này giúp bộ não tiến vào trạng thái tập trung sâu (deep work).
 - Việc tách khỏi đám đông giúp bạn không bị ảnh hưởng hay áp đặt bởi suy nghĩ của người khác. Bạn được tự do khám phá những ý tưởng độc đáo, thậm chí là khác biệt mà không sợ bị phán xét.

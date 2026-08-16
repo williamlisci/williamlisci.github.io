@@ -1,3 +1,9 @@
+---
+title: Tai Len Tam Tri
+date: '2026-08-16'
+tags: []
+excerpt: ''
+---
 - Xuyên suốt lịch sử, nhân loại đã tìm kiếm những cách thức để đạt được sự bất tử. Tuy nhiên, bất chấp thời gian 
   trôi qua, cả hoàng đế lẫn người thường đều chưa thể đạt được sự sống vĩnh hằng. Điều này có nghĩa là sự bất tử chỉ là 
   một giấc mơ hão huyền? Trong thế giới công nghệ tiên tiến ngày nay, các nhà khoa học đã nghĩ ra một phương pháp khác để con người bất tử: truyền ý thức vào máy tính. Tuy nhiên, để đạt được điều này, hai rào cản công nghệ lớn phải được vượt qua: 
