@@ -1,1 +1,0 @@
-var e=`data:text/markdown;base64,LSBW4buBIGPDoWMgduG6pW4gxJHhu4Egbmd1ecOqbiB04bqvYywga2jDtG5nIG7Dqm4gY8OzIHPhu7EgdGjhu49hIGhp4buHcC4g5q615rC45bmzLg0K`;export{e as default};

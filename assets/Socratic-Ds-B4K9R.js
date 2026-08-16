@@ -1,2 +1,0 @@
-var e=`- Học theo hướng gợi mở (Socratic) cùng AI là phương pháp học tập qua lại bằng câu hỏi, trong đó AI không cho đáp án sẵn mà dùng hệ thống câu hỏi dẫn dắt. Bạn tự suy luận, tìm ra bản chất vấn đề, rèn luyện tư duy phản biện và ghi nhớ kiến thức lâu hơn.\r
-`;export{e as default};
