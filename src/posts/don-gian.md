@@ -1,8 +1,13 @@
 ---
 title: Don Gian
 date: '2026-08-16'
-tags: []
-excerpt: ''
+tags:
+  - don-gian
+  - tu-duy
+  - phat-trien-ban-than
+excerpt: >-
+  Khám phá sức mạnh của sự đơn giản qua góc nhìn của Steve Jobs, Albert Einstein
+  và những tư duy lỗi lạc.
 ---
 - Steve Jobs: "Sự đơn giản có thể khó khăn hơn sự phức tạp: Bạn phải nỗ lực rất nhiều để giữ suy nghĩ gọn gàng nhằm đạt được sự đơn giản. Nhưng cuối cùng nó cũng đáng giá vì một khi đã làm được, bạn có thể dời non lấp biển."
 - Albert Einstein: "Chúa luôn chọn cách đơn giản nhất".

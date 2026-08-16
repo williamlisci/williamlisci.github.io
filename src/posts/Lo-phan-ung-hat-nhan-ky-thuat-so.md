@@ -1,8 +1,14 @@
 ---
 title: Lo Phan Ung Hat Nhan Ky Thuat So
 date: '2026-08-16'
-tags: []
-excerpt: ''
+tags:
+  - lo-phan-ung-hat-nhan
+  - ky-thuat-so
+  - tu-dong-hoa
+  - nang-luong-tuong-lai
+excerpt: >-
+  Khám phá bước đột phá của lò phản ứng hạt nhân kỹ thuật số PUR-1 và cách công
+  nghệ tự động hóa định hình tương lai ngành năng lượng.
 ---
 #digital nuclear reactor
 - Các lò phản ứng hạt nhân trong tương lai có thể dựa vào tự động hóa và điều khiển kỹ thuật số. Các nhà khoa học hiện đang thử nghiệm những ý tưởng đó trong thực tế.

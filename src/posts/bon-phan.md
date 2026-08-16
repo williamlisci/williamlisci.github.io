@@ -1,8 +1,13 @@
 ---
 title: Bon Phan
 date: '2026-08-16'
-tags: []
-excerpt: ''
+tags:
+  - bon-phan
+  - triet-ly-kinh-doanh
+  - dao-duc-nghe-nghiep
+excerpt: >-
+  Khám phá ý nghĩa sâu xa của hai chữ 'bổn phận' trong kinh doanh và đời sống,
+  giúp bạn luôn hành động đúng đắn từ gốc rễ.
 ---
 - Dù ở thời điểm nào, bản chất của hoạt động kinh doanh vẫn không thay đổi. Có thể thành công hay không, đều dựa vào hai từ “bổn phận”. 段永平
 - Trong chữ Hán, từ Bổn phận thường được viết là 本分.

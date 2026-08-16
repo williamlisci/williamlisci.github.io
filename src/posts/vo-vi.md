@@ -1,8 +1,14 @@
 ---
 title: Vo Vi
 date: '2026-08-16'
-tags: []
-excerpt: ''
+tags:
+  - triet-hoc
+  - trang-tu
+  - vo-vi
+  - song-thuan-tu-nhien
+excerpt: >-
+  Khám phá triết lý vô vi qua câu chuyện tiều phu đốn gỗ, học cách hành động
+  thuận theo tự nhiên mà không gượng ép hay vướng mắc.
 ---
 - Trang Tử kể chuyện một người tiều phu đốn gỗ trên núi:
 - Anh đốn cây mà tâm không vướng mắc vào việc "đốn để bán lấy tiền". Tay vung rìu tự nhiên như nước chảy, gỗ đổ đúng chỗ cần đổ. Đó là hành động của người "vô vi".

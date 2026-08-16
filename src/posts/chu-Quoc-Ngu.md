@@ -1,8 +1,14 @@
 ---
 title: Chu Quoc Ngu
 date: '2026-08-16'
-tags: []
-excerpt: ''
+tags:
+  - chu-quoc-ngu
+  - lich-su-tieng-viet
+  - giao-si
+  - van-hoa-viet-nam
+excerpt: >-
+  Khám phá hành trình hình thành và phát triển của chữ Quốc ngữ qua đóng góp to
+  lớn của các vị linh mục phương Tây và Alexandre de Rhodes.
 ---
 - Đây là danh sách các vị linh mục đã dày công khai sáng chữ viết cho dân tộc Việt: Francesco de Pina, Gaspar 
   d’Amaral và 

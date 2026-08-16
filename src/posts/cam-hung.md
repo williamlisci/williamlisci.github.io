@@ -1,8 +1,13 @@
 ---
 title: Cam Hung
 date: '2026-08-16'
-tags: []
-excerpt: ''
+tags:
+  - cam-hung
+  - sang-tao
+  - lich-su-khoa-hoc
+excerpt: >-
+  Khám phá cách những khoảnh khắc đời thường và giấc mơ kỳ lạ đã khơi nguồn cảm
+  hứng cho các phát minh vĩ đại của nhân loại.
 ---
 - Friedrich August Von Kekule (1829-1896), người Đức, một trong những nhà hóa học nổi tiếng nhất châu Âu thế kỷ XIX. Một
   ngày mùa đông năm 1865, Friedrich August Kekulé (1829-1896), nhà hóa học người Đức ngồi ngủ gật cạnh bếp lò trong sự

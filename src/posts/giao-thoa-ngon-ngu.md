@@ -1,8 +1,14 @@
 ---
 title: Giao Thoa Ngon Ngu
 date: '2026-08-16'
-tags: []
-excerpt: ''
+tags:
+  - giao-thoa-ngon-ngu
+  - tu-han-viet
+  - thuat-ngu-toan-hoc
+  - van-hoa-dong-a
+excerpt: >-
+  Khám phá cách các thuật ngữ toán học phương Tây được chuyển ngữ tinh tế qua
+  con đường Hán Việt gốc Nhật đầy thú vị.
 ---
 - Giao thoa ngôn ngữ là hiện tượng hệ thống ngôn ngữ này chịu ảnh hưởng của hệ thống ngôn ngữ khác khi tiếp xúc, 
   biểu hiện ở việc vay mượn từ vựng, ảnh hưởng ngữ pháp, ảnh hưởng ngữ âm. 

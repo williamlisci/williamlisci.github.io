@@ -1,8 +1,13 @@
 ---
 title: Duan Yongping
 date: '2026-08-16'
-tags: []
-excerpt: ''
+tags:
+  - duan-yongping
+  - nuoi-dạy-con
+  - tu-duy-song
+excerpt: >-
+  Khám phá góc nhìn giản dị nhưng sâu sắc về cuộc sống, sự tự tin và phương pháp
+  nuôi dạy con cái từ tỷ phú Duan Yongping.
 ---
 - Tôi chẳng có gì đặc biệt cả. Hoàn cảnh của tôi rất đơn giản; tôi chỉ là một người bình thường. Tôi không xuất thân từ gia đình danh giá, và cũng chẳng ai dạy dỗ tôi. Thậm chí tôi còn không được học ngành kỹ thuật ở nhà vì bố mẹ tôi, dù là giáo viên, đều học chuyên ngành nhân văn. Khi chuẩn bị cho kỳ thi đại học, nhà tôi thậm chí không có lấy một cuốn sách nào. Chúng tôi phải mượn 17 cuốn sách tự học từ khắp mọi nơi. Với mỗi cuốn sách mượn, chúng tôi phải đọc xong trong ba ngày và làm hết các bài tập thực hành. Thật sự rất vất vả, nhưng tôi thích và cảm thấy hạnh phúc. Đôi khi tôi nghĩ về điều này và thấy mình thật may mắn. Cha mẹ tôi không làm gì sai với tôi, họ chỉ không ép buộc tôi làm bất cứ điều gì, vì vậy tôi là một người rất tự tin.
 - Tôi luôn cảm thấy điều quan trọng nhất trong việc nuôi dạy con cái là giúp chúng xây dựng cảm giác an toàn. Đừng ép buộc chúng làm những việc chúng không thích, nhưng việc hướng dẫn chúng lại là một điều rất khó. Đánh đập hay la mắng chúng thì dễ, vì vậy tôi nói rằng bạn không thể đánh con, không thể la mắng con, không thể quát tháo con. Vậy bạn nên làm gì? Đó là điều bạn phải tự tìm ra.

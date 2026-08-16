@@ -1,8 +1,13 @@
 ---
 title: Dan Ong
 date: '2026-08-16'
-tags: []
-excerpt: ''
+tags:
+  - dan-ong
+  - phong-cach-song
+  - phat-trien-ban-than
+excerpt: >-
+  Khám phá cốt cách mạnh mẽ, kiên cường và đầy bản lĩnh của người đàn ông đích
+  thực qua bài học về loài sói.
 ---
 - cốt cách đàn ông phải như loài sói.
 - Sói có thể chịu đói, chịu rét, kiên trì bám đuổi mục tiêu.

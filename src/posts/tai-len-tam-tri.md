@@ -1,8 +1,14 @@
 ---
 title: Tai Len Tam Tri
 date: '2026-08-16'
-tags: []
-excerpt: ''
+tags:
+  - cong-nghe
+  - tri-thuc
+  - tuong-lai
+  - khoa-hoc
+excerpt: >-
+  Truyền ý thức vào máy tính để đạt được sự bất tử là giấc mơ của con người,
+  nhưng vẫn đối mặt với những rào cản công nghệ cực lớn.
 ---
 - Xuyên suốt lịch sử, nhân loại đã tìm kiếm những cách thức để đạt được sự bất tử. Tuy nhiên, bất chấp thời gian 
   trôi qua, cả hoàng đế lẫn người thường đều chưa thể đạt được sự sống vĩnh hằng. Điều này có nghĩa là sự bất tử chỉ là 

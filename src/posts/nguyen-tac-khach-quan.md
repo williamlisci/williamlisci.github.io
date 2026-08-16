@@ -1,8 +1,13 @@
 ---
 title: Nguyen Tac Khach Quan
 date: '2026-08-16'
-tags: []
-excerpt: ''
+tags:
+  - nguyen-tac-khach-quan
+  - tu-duy
+  - thuc-tien
+excerpt: >-
+  Khám phá cách áp dụng nguyên tắc khách quan để nhìn nhận sự thật đúng đắn, tôn
+  trọng thực tiễn và dám đối mặt với sai lầm.
 ---
 - Nhìn thẳng vào sự thật, đánh giá đúng sự thật.
 - Tôn trọng hiện thực, không lấy ý chí chủ quan để áp đặt, thay thế cho bản chất của sự vật, sự việc.
