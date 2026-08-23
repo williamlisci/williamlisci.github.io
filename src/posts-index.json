@@ -1,5 +1,16 @@
 [
   {
+    "slug": "toc-do-trao-doi-chat",
+    "title": "Toc do trao doi chat",
+    "date": "2026-08-17",
+    "tags": [
+      "sinh-hoc",
+      "khoa-hoc",
+      "trao-doi-chat"
+    ],
+    "excerpt": "Lợi ích của trao đổi chất chậm."
+  },
+  {
     "slug": "AI-an-ninh-mang",
     "title": "AI An Ninh Mang",
     "date": "2026-08-16",
@@ -82,17 +93,6 @@
     "excerpt": "Khám phá ý nghĩa sâu xa của hai chữ 'bổn phận' trong kinh doanh và đời sống, giúp bạn luôn hành động đúng đắn từ gốc rễ."
   },
   {
-    "slug": "cach-lua-chon-giai-phap",
-    "title": "Cach Lua Chon Giai Phap",
-    "date": "2026-08-16",
-    "tags": [
-      "chien-luoc",
-      "giai-phap",
-      "quan-tri"
-    ],
-    "excerpt": "Khám phá cách lựa chọn giải pháp tối ưu cho ngắn hạn với tốc độ và dài hạn với sự bền vững, ít đánh đổi nhất."
-  },
-  {
     "slug": "cam-hung",
     "title": "Cam Hung",
     "date": "2026-08-16",
@@ -147,29 +147,6 @@
       "cam-hung"
     ],
     "excerpt": "Khám phá ý nghĩa sâu sắc của cuộc sống và lý do tại sao chúng ta không bao giờ nên lãng phí món quà quý giá này."
-  },
-  {
-    "slug": "dan-ba",
-    "title": "Dan Ba",
-    "date": "2026-08-16",
-    "tags": [
-      "dan-ba",
-      "tinh-yeu",
-      "moi-quan-he",
-      "bai-hoc-cuoc-song"
-    ],
-    "excerpt": "Lựa chọn bạn đời khôn ngoan quyết định hạnh phúc hay tổn thương trong đời người."
-  },
-  {
-    "slug": "dan-ong",
-    "title": "Dan Ong",
-    "date": "2026-08-16",
-    "tags": [
-      "dan-ong",
-      "phong-cach-song",
-      "phat-trien-ban-than"
-    ],
-    "excerpt": "Khám phá cốt cách mạnh mẽ, kiên cường và đầy bản lĩnh của người đàn ông đích thực qua bài học về loài sói."
   },
   {
     "slug": "dao",
@@ -522,6 +499,15 @@
       "phat-trien-ban-than"
     ],
     "excerpt": "Bài học sâu sắc về việc kiên định với những giá trị cốt lõi và không bao giờ thỏa hiệp trước các vấn đề mang tính nguyên tắc."
+  },
+  {
+    "slug": "nha-khoa-hoc-nu",
+    "title": "Nha khoa hoc nu",
+    "date": "2026-08-16",
+    "tags": [
+      "phu-nu"
+    ],
+    "excerpt": "Phụ nữ làm khoa học."
   },
   {
     "slug": "nhan-tai",
@@ -957,5 +943,54 @@
       "toan-hoc"
     ],
     "excerpt": "AlphaGeometry, Astra và những đột phá toán học của AI"
+  },
+  {
+    "slug": "AI-lap-trinh",
+    "title": "AI lap trinh",
+    "date": null,
+    "tags": [],
+    "excerpt": ""
+  },
+  {
+    "slug": "cong-nghe",
+    "title": "cong nghe",
+    "date": null,
+    "tags": [],
+    "excerpt": ""
+  },
+  {
+    "slug": "dot-quy",
+    "title": "dot quy",
+    "date": null,
+    "tags": [],
+    "excerpt": ""
+  },
+  {
+    "slug": "phuong-phap-doc-code",
+    "title": "phuong phap doc code",
+    "date": null,
+    "tags": [],
+    "excerpt": ""
+  },
+  {
+    "slug": "thit-do",
+    "title": "thit do",
+    "date": null,
+    "tags": [],
+    "excerpt": ""
+  },
+  {
+    "slug": "van-su-khoi-dau-nan",
+    "title": "van su khoi dau nan",
+    "date": null,
+    "tags": [],
+    "excerpt": ""
+  },
+  {
+    "slug": "vat-chat-toi",
+    "title": "vat chat toi",
+    "date": null,
+    "tags": [],
+    "excerpt": ""
   }
 ]
