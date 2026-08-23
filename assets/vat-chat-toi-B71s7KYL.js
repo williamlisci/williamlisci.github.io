@@ -1,0 +1,2 @@
+var e=`- Adam Frank, một nhà vật lý thiên văn, mô tả vật chất tối bằng cách so sánh nó với bóng ma trong phim kinh dị. Bạn không thể nhìn thấy nó, nhưng bạn nó tồn tại vì nó làm xáo động những thứ bạn có thể nhìn thấy.\r
+- Sự tồn tại của vật chất tối đã được đề xuất bởi nhà vật lý thiên văn Thụy Sĩ, Fritz Zwicky vào những năm 1930, nhưng đã không được xác nhận cho đến khi Rubin thực hiện nghiên cứu của mình. Hiện nay, các giả thuyết cho rằng hơn 90% vũ trụ là năng lượng tối và vật chất tối, nhưng vật chất tối vẫn là thứ vô hình và bí ẩn.`;export{e as default};
