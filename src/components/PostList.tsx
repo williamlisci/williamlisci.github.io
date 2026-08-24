@@ -52,6 +52,7 @@ const PostList: React.FC = () => {
             - Xin chào, tôi là Nghĩa. `Nghĩa` trong trọng tình, trọng nghĩa :)
             <br />- Đây là không gian kỹ thuật số nơi tôi lưu giữ và chia sẻ
             những suy ngẫm cá nhân, thông tin và trích dẫn thú vị.
+            <br />- Môi trường càng khốc liệt thì năng lực tư duy sâu càng có điều kiện được mài giũa và nâng cao. TS LTD.
             <br />- Hãy dám đi sau thế giới, và giành thế thượng phong từ phía
             sau. 段永平.
             <br />- Tổng số bài đăng: {posts.length} bài. Cập nhật lần cuối:
