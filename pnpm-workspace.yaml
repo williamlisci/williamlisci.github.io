@@ -7,14 +7,25 @@ ignoredBuiltDependencies:
 
 minimumReleaseAgeExclude:
   - '@eslint/plugin-kit@0.7.2'
-  - eslint@10.4.1 || 10.8.1
+  - eslint@10.4.1 || 10.8.1 || 10.9.1
   - vite@8.1.3 || 8.1.4
   - '@types/three@0.185.1 || 0.185.4'
   - prettier@3.9.5
   - '@react-three/drei@10.7.8'
   - postcss@8.5.26
-  - '@types/node@26.2.0'
+  - '@types/node@26.2.0 || 26.3.0'
   - eslint-plugin-react-refresh@0.5.4
+  - '@typescript-eslint/eslint-plugin@8.68.0'
+  - '@typescript-eslint/parser@8.68.0'
+  - '@typescript-eslint/project-service@8.68.0'
+  - '@typescript-eslint/scope-manager@8.68.0'
+  - '@typescript-eslint/tsconfig-utils@8.68.0'
+  - '@typescript-eslint/type-utils@8.68.0'
+  - '@typescript-eslint/types@8.68.0'
+  - '@typescript-eslint/typescript-estree@8.68.0'
+  - '@typescript-eslint/utils@8.68.0'
+  - '@typescript-eslint/visitor-keys@8.68.0'
+  - typescript-eslint@8.68.0
 
 onlyBuiltDependencies:
   - '@tailwindcss/oxide'

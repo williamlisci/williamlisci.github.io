@@ -1,14 +1,6 @@
 ---
 title: Nguon Goc Vu Tru
 date: '2026-08-16'
-tags:
-  - vu-tru
-  - nguon-goc
-  - thien-nhien
-  - vat-ly
-excerpt: >-
-  Khám phá hành trình 13,8 tỷ năm từ điểm kỳ dị đến sự hình thành của vạn vật và
-  con người trong vũ trụ.
 ---
 - Khoảng 13,8 tỷ năm trước, từ một điểm kỳ dị, không gian giãn nở nhanh chóng. Khi nhiệt độ giảm, năng lượng thuần
   túy chuyển hóa thành vật chất qua sự kết hợp của các hạt cơ bản để tạo thành nguyên tử, thiên hà và con người. Mọi thứ bạn nhìn thấy, từ hạt cát, bầu trời cho đến cơ thể chúng ta, đều là sự biểu hiện tạm thời của các hạt và năng lượng, liên tục chuyển hóa và tan rã.

@@ -1,14 +1,6 @@
 ---
 title: Lam Dieu Dung Dan
 date: '2026-08-16'
-tags:
-  - quan-ly
-  - lanh-dao
-  - chien-luoc
-  - peter-drucker
-excerpt: >-
-  Khám phá sự khác biệt cốt lõi giữa làm việc đúng cách và làm điều đúng đắn để
-  luôn đi đúng hướng.
 ---
 - Cụm từ "làm điều đúng đắn" lần đầu tiên được nhắc đến bởi chuyên gia quản lý Peter Drucker . Đó là câu nói đã mang lại lợi ích lớn nhất cho tôi trong suốt cuộc đời. 段永平.
 - Peter Drucker có một câu nói rất nổi tiếng: "Quản lý là làm mọi việc đúng cách (doing things right). Lãnh đạo là làm điều đúng đắn (doing the right things)." 

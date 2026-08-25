@@ -1,13 +1,6 @@
 ---
 title: Nghich Ly
 date: '2026-08-16'
-tags:
-  - triet-hoc
-  - nghich-ly
-  - tu-duy
-excerpt: >-
-  Khám phá những nghịch lý kinh điển trong triết học và khoa học thách thức mọi
-  logic thông thường của nhân loại.
 ---
 - Socrates từng nói câu nổi tiếng: "Tôi chỉ biết một điều: Tôi không biết gì cả." Chính phát biểu này đã là một 
   nghịch lý, cho thấy sự phức tạp của những phát ngôn tự tham chiếu. Bạn phải đặt câu hỏi về mọi thứ bạn nghĩ mình 

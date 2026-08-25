@@ -1,13 +1,6 @@
 ---
 title: Du Lich Vu Tru
 date: '2026-08-16'
-tags:
-  - du-lich-vu-tru
-  - cong-nghe-vu-tru
-  - khoa-hoc-ky-thuat
-excerpt: >-
-  Khám phá tiềm năng và những thách thức công nghệ để biến du lịch vũ trụ thành
-  hiện thực cho nhân loại trong tương lai.
 ---
 - Với sự tiến bộ của công nghệ nhân loại, ngày càng nhiều người mong muốn đi du lịch khắp thế giới. Tuy nhiên, các 
   điểm du 

@@ -1,3 +1,7 @@
+---
+title: Spirulina
+date: '2026-08-25'
+---
 - tảo xoắn spirulina chứa đầy đủ cả 9 loại acid amin thiết yếu (essential amino acids) mà cơ thể người không tự tổng hợp được, phải lấy từ thực phẩm: leucine, isoleucine, valine, lysine, methionine, phenylalanine, threonine, tryptophan và histidine. Đây là điều làm spirulina khác biệt so với phần lớn protein thực vật, vốn thường thiếu hụt một hoặc vài acid amin thiết yếu.
 - spirulina chứa hầu hết các vitamin B — B1 (thiamin), B2 (riboflavin), B3 (niacin), B5 (acid pantothenic), B6 (pyridoxin), B7 (biotin), B9 (folate), beta-carotene (tiền vitamin A),Vitamin E, Vitamin K
 - Gốc tự do (ROS — reactive oxygen species) tấn công và làm hỏng DNA, RNA, protein và lipid, dẫn đến rối loạn chuyển hóa, tổn thương mô và chết tế bào. Các phân tử chống oxy hóa trong spirulina hoạt động bằng cách "cho đi" điện tử hoặc hydro để trung hòa gốc tự do trước khi chúng kịp phá hủy tế bào — giống như một chất đệm hóa học hấp thụ các phân tử "hung hăng" này.

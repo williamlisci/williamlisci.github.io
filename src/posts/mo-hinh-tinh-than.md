@@ -1,13 +1,6 @@
 ---
 title: Mo Hinh Tinh Than
 date: '2026-08-16'
-tags:
-  - mo-hinh-tinh-than
-  - tu-duy
-  - phat-trien-ban-than
-excerpt: >-
-  Khám phá cách các mô hình tinh thần định hình góc nhìn và giúp bạn vượt qua
-  định kiến để tư duy sắc bén hơn.
 ---
 - "Nếu công cụ duy nhất bạn có là một cây búa, bạn sẽ có xu hướng nhìn mọi vấn đề như một cây đinh."— Abraham Maslow
 - "Bạn không thể thực sự biết bất cứ điều gì nếu chỉ ghi nhớ những sự thật rời rạc và cố gắng nhớ lại chúng. Nếu các 

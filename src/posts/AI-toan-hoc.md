@@ -1,10 +1,6 @@
 ---
 title: AI và Toán học
 date: '2026-08-01'
-tags:
-  - ai
-  - toan-hoc
-excerpt: 'AlphaGeometry, Astra và những đột phá toán học của AI'
 ---
 
 - AI ngày càng đóng vai trò quan trọng trong các đột phá toán học. 

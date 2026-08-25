@@ -1,14 +1,6 @@
 ---
 title: AI Robot
 date: '2026-08-16'
-tags:
-  - ai-robot
-  - tri-tue-nhan-tao
-  - cong-nghe-tuong-lai
-  - tu-dong-hoa
-excerpt: >-
-  Robot AI đang vươn lên thành những thực thể thông minh, thay đổi sâu sắc nền
-  kinh tế, đời sống xã hội và tương lai lao động của con người.
 ---
 - Với sự tiến bộ của công nghệ và nghiên cứu sâu rộng về trí tuệ nhân tạo, robot AI trong tương lai sẽ không chỉ đơn 
   thuần là những người thực thi các chỉ dẫn được lập trình sẵn, mà còn là những trí tuệ hiện thân sở hữu khả năng 

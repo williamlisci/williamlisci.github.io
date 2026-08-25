@@ -1,13 +1,6 @@
 ---
 title: Phat Minh
 date: '2026-08-16'
-tags:
-  - phat-minh
-  - sang-tao
-  - phat-trien-ban-than
-excerpt: >-
-  Khám phá sức mạnh của sự cô đơn và tĩnh lặng để kích hoạt tư duy sâu, nuôi
-  dưỡng những ý tưởng sáng tạo và phát minh vĩ đại.
 ---
 - Hãy ở một mình, đó là bí mật của phát minh; ở một mình, đó là lúc những ý tưởng lớn được sinh ra. Nikola Tesla.
 - Khi ở một mình, bạn cắt đứt được những ồn ào và phiền nhiễu từ môi trường xung quanh cũng như các mối quan hệ xã hội. Điều này giúp bộ não tiến vào trạng thái tập trung sâu (deep work).

@@ -1,14 +1,6 @@
 ---
 title: Tre Mo Coi
 date: '2026-08-16'
-tags:
-  - tam-ly-hoc
-  - nguoi-noi-tieng
-  - thanh-tuu
-  - tre-mo-coi
-excerpt: >-
-  Khám phá mối liên hệ bất ngờ giữa biến cố mất cha mẹ từ sớm và động lực vươn
-  lên thành danh nhân kiệt xuất trong lịch sử nhân loại.
 ---
 - Có chăng mối liên hệ giữa biến cố mất cha/mẹ từ sớm và động lực đạt được thành tựu phi thường? 
 - Danh sách những người thành đạt từng mất cha mẹ khi còn trẻ thật đáng kinh ngạc và có những thống kê kỳ lạ.

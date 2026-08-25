@@ -1,13 +1,6 @@
 ---
 title: Su Hinh Thanh Vu Tru
 date: '2026-08-16'
-tags:
-  - vu-tru
-  - vat-ly
-  - thien-van-hoc
-excerpt: >-
-  Khám phá quá trình hình thành vũ trụ từ những thăng giáng lượng tử vi mô đến
-  mạng lưới thiên hà vĩ mô khổng lồ.
 ---
 - Sự thăng giáng lượng tử (Quantum Fluctuations): Ở những khoảnh khắc đầu tiên của vũ trụ (chỉ trong khoảng $10^{-35}$ giây đầu), không gian hoàn toàn trống rỗng nhưng chứa đầy các trường năng lượng. Theo nguyên lý bất định của Heisenberg, xuất hiện các điểm dao động ngẫu nhiên về mật độ năng lượng tại các vị trí khác nhau.
 - Kéo giãn thành mầm vĩ mô (Cosmic Stretching): Vũ trụ trải qua một kỷ nguyên giãn nở siêu tốc (Lạm phát). Chỉ trong chớp mắt, không gian phồng lên gấp $10^{30}$ lần. Sự giãn nở này kéo giãn các dao động hạ nguyên tử vi mô thành các kích thước vĩ mô, biến chúng thành các "hạt mầm" mật độ trong vũ trụ.

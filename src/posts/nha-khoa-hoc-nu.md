@@ -1,10 +1,6 @@
 ---
 title: Nha khoa hoc nu
 date: '2026-08-16'
-tags:
-  - phu-nu
-excerpt: >-
-  Phụ nữ làm khoa học.
 ---
 
 - Lise Meitner, nhà vật lý gốc Do Thái, là người đầu tiên giải thích cơ chế phản ứng phân hạch tạo ra một cuộc các mạng hạt nhân và là nền tảng cho việc hình thành nhà máy điện hạt nhân hiện tại. Meitnerium ($Mt$, số hiệu 109): Được đặt theo tên của nhà vật lý hạt nhân tiên phong Lise Meitner.

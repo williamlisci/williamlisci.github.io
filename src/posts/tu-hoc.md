@@ -1,14 +1,6 @@
 ---
 title: Tu Hoc
 date: '2026-08-16'
-tags:
-  - tu-hoc
-  - tri-tue-nhan-tao
-  - cong-nghe
-  - phuong-phap-hoc
-excerpt: >-
-  Khám phá cách tận dụng trí tuệ nhân tạo làm gia sư riêng để tự học hiệu quả và
-  mở ra cơ hội đột phá trong ngành công nghệ không cần bằng cấp.
 ---
 - Làn sóng AI bùng nổ đã mở ra cơ hội chưa từng có cho những người không có bằng cấp chính quy, chỉ bằng cách sử dụng chính AI làm gia sư và tự xây dựng dự án thực tế để lọt vào mắt xanh của các ông lớn công nghệ.
 - phương pháp tốt để học cùng AI là "Recursive gap filling" (Lấp đầy khoảng trống đệ quy).
