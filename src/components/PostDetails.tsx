@@ -12,8 +12,6 @@ interface Post {
 	slug: string;
 	title: string;
 	date: string | null;
-	tags: string[];
-	excerpt: string;
 }
 
 // posts-index.json đã được generate-posts-index.mjs sort theo date mới nhất

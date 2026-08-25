@@ -1,7 +1,7 @@
 /**
  * Script: add-frontmatter.mjs
  * Mục đích: Quét toàn bộ src/posts/*.md, với file NÀO CHƯA CÓ frontmatter
- * thì tự động chèn thêm title (suy từ tên file) + date (ngày hiện tại) + tags rỗng.
+ * thì tự động chèn thêm title (suy từ tên file) + date (ngày hiện tại).
  *
  * File nào đã có frontmatter (bắt đầu bằng "---") sẽ được bỏ qua, không đụng vào.
  *
@@ -62,8 +62,6 @@ async function run() {
 		const newFrontmatter = {
 			title: slugToTitle(slug),
 			date: todayISO(),
-			tags: [],
-			excerpt: "",
 		};
 
 		// gray-matter.stringify ghép frontmatter mới + nội dung cũ (parsed.content

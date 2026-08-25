@@ -1,5 +1,5 @@
 import type React from "react";
-import { useMemo, useState } from "react";
+import { useState } from "react";
 import { Link } from "react-router-dom";
 import postsIndex from "../posts-index.json";
 
@@ -7,29 +7,20 @@ interface Post {
   slug: string;
   title: string;
   date: string | null;
-  tags: string[];
-  excerpt: string;
 }
 
 const posts = postsIndex as Post[];
 
 const PostList: React.FC = () => {
   const [searchQuery, setSearchQuery] = useState("");
-  const [activeTag, setActiveTag] = useState<string | null>(null);
   const [currentPage, setCurrentPage] = useState(1);
   const POSTS_PER_PAGE = 20;
-
-  const allTags = useMemo(() => {
-    const set = new Set(posts.flatMap((p) => p.tags));
-    return Array.from(set).sort();
-  }, []);
 
   const filteredPosts = posts.filter((post) => {
     const matchesSearch = post.title
       .toLowerCase()
       .includes(searchQuery.toLowerCase());
-    const matchesTag = !activeTag || post.tags.includes(activeTag);
-    return matchesSearch && matchesTag;
+    return matchesSearch;
   });
 
   const totalPages = Math.max(
@@ -72,41 +63,6 @@ const PostList: React.FC = () => {
           />
         </div>
 
-        {/* Filter theo tag */}
-        <div className="flex flex-wrap gap-2 mb-8">
-          <button
-            type="button"
-            onClick={() => {
-              setActiveTag(null);
-              setCurrentPage(1);
-            }}
-            className={`px-3 py-1 rounded-full text-sm border ${
-              !activeTag
-                ? "bg-cyan-500 text-black border-cyan-500"
-                : "border-zinc-700 text-gray-300"
-            }`}
-          >
-            Tất cả
-          </button>
-          {allTags.map((tag) => (
-            <button
-              key={tag}
-              type="button"
-              onClick={() => {
-                setActiveTag(tag);
-                setCurrentPage(1);
-              }}
-              className={`px-3 py-1 rounded-full text-sm border ${
-                activeTag === tag
-                  ? "bg-cyan-500 text-black border-cyan-500"
-                  : "border-zinc-700 text-gray-300"
-              }`}
-            >
-              {tag}
-            </button>
-          ))}
-        </div>
-
         <ul className="space-y-4">
           {paginatedPosts.map((post) => (
             <li key={post.slug}>
@@ -117,9 +73,6 @@ const PostList: React.FC = () => {
                 <span className="text-xl group-hover:text-cyan-400 transition-colors">
                   {post.title}
                 </span>
-                {post.excerpt && (
-                  <p className="text-sm text-gray-400 mt-2">{post.excerpt}</p>
-                )}
               </Link>
             </li>
           ))}

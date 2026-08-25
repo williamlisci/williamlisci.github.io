@@ -15,8 +15,6 @@ const posts = files.map((filePath) => {
 		slug,
 		title: data.title || slug.replace(/-/g, " "),
 		date: data.date || null,
-		tags: data.tags || [],
-		excerpt: data.excerpt || "",
 	};
 });
 
