@@ -1,0 +1,6 @@
+var e=`- Sử dụng AI A để giải đề, đưa lời giải sang AI B để phân tích, nhận xét, rồi gửi lại phản hồi đó cho A để tự cải tiến đệ quy. Bạn có thể mang lời giải mới này quay lại B để đánh giá lại cho đến khi đạt yêu cầu.\r
+- Trong bối cảnh công nghệ và trí tuệ nhân tạo, RSI là viết tắt của Recursive Self-Improvement (Tự cải tiến đệ quy). Đây là một vòng lặp giả định hoặc cơ chế kỹ thuật trong đó một hệ thống AI tự phân tích, tìm ra điểm yếu, tự sửa lỗi và nâng cấp năng lực của chính nó, sau đó dùng chính phiên bản đã được nâng cấp đó để tiếp tục tự làm mình thông minh hơn nữa. Nhiều nhà nghiên cứu cho rằng nếu chu kỳ này diễn ra liên tục với tốc độ ngày càng nhanh, nó có thể dẫn đến hiện tượng Intelligence Explosion (Bùng nổ trí tuệ), nơi năng lực của AI tăng theo hàm mũ và vượt xa giới hạn nhận thức của con người trong một thời gian ngắn.\r
+- Tuy nhiên, việc đạt được RSI mạnh đòi hỏi AI phải vượt qua rất nhiều nút thắt kỹ thuật phức tạp, chẳng hạn như khả năng thấu hiểu sâu sắc cấu trúc bên trong của chính nó thay vì chỉ sửa lỗi theo dạng thử-sai mù quáng.\r
+- Có thể hình dung RSI gồm ba tầng: Tầng 1 — Self-evaluation, Tầng 2 — Self-understanding, Tầng 3 — Self-modification. Chỉ khi tầng 3 hoạt động đáng tin cậy, RSI thực sự mới trở nên mạnh.\r
+-\r
+`;export{e as default};
