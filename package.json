@@ -16,7 +16,6 @@
 		"deploy": "gh-pages -d dist"
 	},
 	"dependencies": {
-		"@milkdown/prose": "^7.22.1",
 		"@react-three/drei": "^10.7.8",
 		"@react-three/fiber": "^9.7.0",
 		"@react-three/postprocessing": "^3.1.1",
@@ -32,19 +31,14 @@
 		"react-dom": "^19.2.8",
 		"react-markdown": "^10.1.0",
 		"react-router-dom": "^7.18.2",
-		"react-scroll": "^1.9.3",
-		"react-syntax-highlighter": "^16.1.1",
 		"rehype-katex": "^7.0.1",
 		"remark-gfm": "^4.0.1",
 		"remark-math": "^6.0.0",
-		"three": "^0.185.1",
-		"three-stdlib": "^2.36.1",
-		"typed-css-modules": "^0.9.1"
+		"three": "^0.185.1"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "2.5.10",
 		"@eslint/js": "^10.0.1",
-		"@google/generative-ai": "^0.24.1",
 		"@tailwindcss/typography": "^0.5.20",
 		"@types/react": "^19.2.18",
 		"@types/react-dom": "^19.2.5",

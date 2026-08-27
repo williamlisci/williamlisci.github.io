@@ -453,5 +453,20 @@
     "slug": "AI-toan-hoc",
     "title": "AI và Toán học",
     "date": "2026-08-01"
+  },
+  {
+    "slug": "hung-ke-quyen",
+    "title": "hung ke quyen",
+    "date": null
+  },
+  {
+    "slug": "ngon-ngu",
+    "title": "ngon ngu",
+    "date": null
+  },
+  {
+    "slug": "tu-cai-tien-de-quy",
+    "title": "tu cai tien de quy",
+    "date": null
   }
 ]
