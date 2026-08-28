@@ -27,6 +27,18 @@ minimumReleaseAgeExclude:
   - '@typescript-eslint/visitor-keys@8.68.0'
   - typescript-eslint@8.68.0
   - '@react-three/postprocessing@3.1.1'
+  - '@biomejs/biome@2.5.11'
+  - '@biomejs/cli-darwin-arm64@2.5.11'
+  - '@biomejs/cli-darwin-x64@2.5.11'
+  - '@biomejs/cli-linux-arm64-musl@2.5.11'
+  - '@biomejs/cli-linux-arm64@2.5.11'
+  - '@biomejs/cli-linux-x64-musl@2.5.11'
+  - '@biomejs/cli-linux-x64@2.5.11'
+  - '@biomejs/cli-win32-arm64@2.5.11'
+  - '@biomejs/cli-win32-x64@2.5.11'
+  - '@vitejs/plugin-react@6.1.1'
+  - react-router-dom@7.18.3
+  - react-router@7.18.3
 
 onlyBuiltDependencies:
   - '@tailwindcss/oxide'
