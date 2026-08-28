@@ -43,10 +43,21 @@ const PostList: React.FC = () => {
             - Xin chào, tôi là Nghĩa. `Nghĩa` trong trọng tình, trọng nghĩa :)
             <br />- Đây là không gian kỹ thuật số nơi tôi lưu giữ và chia sẻ
             những suy ngẫm cá nhân, thông tin và trích dẫn thú vị.
-            <br />- Môi trường càng khốc liệt thì năng lực tư duy sâu càng có điều kiện được mài giũa và nâng cao. TS LTD.
+            <br />- Môi trường càng khốc liệt thì năng lực tư duy sâu càng có
+            điều kiện được mài giũa và nâng cao. TS LTD.
             <br />- Hãy dám đi sau thế giới, và giành thế thượng phong từ phía
             sau. 段永平.
-            <br />- Nếu tôi nhìn xa hơn, đó là nhờ đứng trên vai những người khổng lồ. Isaac Newton.
+            <br />- Nếu tôi nhìn xa hơn, đó là nhờ đứng trên vai những người
+            khổng lồ. Isaac Newton.
+            <br />- Read the latest science news:{" "}
+            <a
+              href="https://scitechdaily.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:text-blue-800 underline transition-colors duration-200"
+            >
+              SciTechDaily.com
+            </a>
             <br />- Tổng số bài đăng: {posts.length} bài. Cập nhật lần cuối:
             2026.
           </p>
