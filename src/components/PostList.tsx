@@ -39,16 +39,20 @@ const PostList: React.FC = () => {
         {/* Thêm max-w-none để loại bỏ giới hạn chiều rộng mặc định của prose */}
         <div className="prose prose-invert max-w-none mb-12">
           {/* Thêm text-justify để chữ căn đều hai bên lề trái/phải khít với ô tìm kiếm */}
-          <p className="text-lg text-gray-300 text-justify leading-relaxed">
+          <p className="text-lg text-gray-300 text-justify leading-relaxed ">
             - Xin chào, tôi là Nghĩa. `Nghĩa` trong trọng tình, trọng nghĩa :)
             <br />- Đây là không gian kỹ thuật số nơi tôi lưu giữ và chia sẻ
             những suy ngẫm cá nhân, thông tin và trích dẫn thú vị.
-            <br />- Môi trường càng khốc liệt thì năng lực tư duy sâu càng có
-            điều kiện được mài giũa và nâng cao. TS LTD.
-            <br />- Hãy dám đi sau thế giới, và giành thế thượng phong từ phía
-            sau. 段永平.
-            <br />- Nếu tôi nhìn xa hơn, đó là nhờ đứng trên vai những người
-            khổng lồ. Isaac Newton.
+            <br />- Chỉ những người đủ từng trải, đủ nội hàm mới có năng lực nhìn
+            thấu nhân quả của vạn vật. Vô danh.
+            <br />- Môi trường càng khốc liệt thì năng lực
+              tư duy sâu
+            {" "}
+            càng có điều kiện được mài giũa và nâng cao. TS LTD.
+            <br />- Hãy dám đi sau thế giới, và giành thế thượng phong từ
+            phía sau. 段永平.
+            <br />- Nếu tôi nhìn xa hơn, đó là nhờ đứng trên vai những{" "}
+            người khổng lồ. Isaac Newton.
             <br />- Read the latest science news:{" "}
             <a
               href="https://scitechdaily.com"
