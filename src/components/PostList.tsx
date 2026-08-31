@@ -43,16 +43,14 @@ const PostList: React.FC = () => {
             - Xin chào, tôi là Nghĩa. `Nghĩa` trong trọng tình, trọng nghĩa :)
             <br />- Đây là không gian kỹ thuật số nơi tôi lưu giữ và chia sẻ
             những suy ngẫm cá nhân, thông tin và trích dẫn thú vị.
-            <br />- Chỉ những người đủ từng trải, đủ nội hàm mới có năng lực nhìn
-            thấu nhân quả của vạn vật. Vô danh.
-            <br />- Môi trường càng khốc liệt thì năng lực
-              tư duy sâu
-            {" "}
-            càng có điều kiện được mài giũa và nâng cao. TS LTD.
-            <br />- Hãy dám đi sau thế giới, và giành thế thượng phong từ
-            phía sau. 段永平.
-            <br />- Nếu tôi nhìn xa hơn, đó là nhờ đứng trên vai những{" "}
-            người khổng lồ. Isaac Newton.
+            <br />- Chỉ những người đủ từng trải, đủ nội hàm mới có năng lực đốn
+            ngộ nhân quả của vạn vật. Vô danh.
+            <br />- Môi trường càng khốc liệt thì năng lực tư duy sâu càng có
+            điều kiện được mài giũa và nâng cao. TS LTD.
+            <br />- Hãy dám đi sau thế giới, và giành thế thượng phong từ phía
+            sau. 段永平.
+            <br />- Nếu tôi nhìn xa hơn, đó là nhờ đứng trên vai những người
+            khổng lồ. Isaac Newton.
             <br />- Read the latest science news:{" "}
             <a
               href="https://scitechdaily.com"
