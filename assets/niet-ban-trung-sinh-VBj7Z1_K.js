@@ -1,0 +1,6 @@
+var e=`- Chỉ những người đủ từng trải, đủ nội hàm mới có năng lực đốn ngộ nhân quả của vạn vật, niết bàn trùng sinh.\r
+- Để đạt đến trạng thái "đốn ngộ nhân quả" (hiểu thấu bản chất nguyên nhân - kết quả) và "niết bàn trùng sinh" (buông bỏ bản ngã cũ để tái sinh trong một tâm thức mới), con người bắt buộc phải đi qua hai bộ lọc lớn:\r
+- Đủ từng trải (Trải nghiệm sống): Kiến thức từ sách vở chỉ là lý thuyết. Chỉ khi tự mình bước qua giông bão, nếm trải đủ thăng trầm, được mất, đúng sai, con người mới thực sự thấu hiểu cái giá của mỗi lựa chọn. Sự từng trải chính là chất liệu thực tế để kiểm chứng quy luật nhân quả.\r
+- Đủ nội hàm (tư tưởng bên trong): Không phải ai đi qua giông bão cũng trở nên thông tuệ; có người sẽ chọn cách oán hận hay gục ngã. "Nội hàm" ở đây chính là sự tự nhận thức, giữ tâm tĩnh lặng để soi rọi chính mình, và một thế giới quan đủ rộng lớn để chuyển hóa nỗi đau thành trí tuệ.\r
+- Đốn ngộ không phải là một phép màu từ trên trời rơi xuống, mà là khoảnh khắc thức tỉnh sau một quá trình tích lũy đủ về lượng để thay đổi về chất. Khi một người nhìn thấu dòng chảy của nhân quả, họ không còn oán trời trách người, không còn chấp niệm vào tiền tài, danh vọng ảo ảnh. Từ đống tro tàn của tổn thương và bản ngã cũ, họ đạt đến sự thanh tịnh và an lạc trong tâm hồn.\r
+`;export{e as default};
