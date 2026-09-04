@@ -73,7 +73,7 @@ const PostList: React.FC = () => {
               setSearchQuery(e.target.value);
               setCurrentPage(1);
             }}
-            className="w-full bg-zinc-900 border border-zinc-700 rounded-xl px-6 py-4 text-lg mb-6 focus:outline-none focus:border-cyan-500"
+             className="w-full bg-zinc-900 border border-zinc-700 rounded-xl px-6 py-4 text-lg mb-6 focus:outline-none focus:border-cyan-500"
           />
         </div>
 
