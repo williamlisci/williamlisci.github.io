@@ -10,7 +10,6 @@
 		"dev": "vite",
 		"build": "vite build",
 		"lint": "eslint .",
-		"remove-tags-excerpt": "node scripts/remove-tags-excerpt.mjs",
 		"preview": "vite preview",
 		"predeploy": "pnpm run build",
 		"deploy": "gh-pages -d dist"

@@ -27,13 +27,13 @@ Mặc dù ý tưởng chia nhỏ đã có từ lâu, nhưng tích phân chỉ th
 Vào thế kỷ 17 và 18, dù vi tích phân hoạt động cực kỳ hiệu quả trong vật lý nhưng nền tảng lý thuyết của nó bị chỉ trích là mơ hồ vì khái niệm "vô cùng bé" chưa được định nghĩa chặt chẽ. Đến thế kỷ 19, các nhà toán học lớn đã định nghĩa lại tích phân dựa trên khái niệm giới hạn (limit):
 
 * **Tích phân Cauchy:** Augustin-Louis Cauchy đưa ra định nghĩa tích phân đầu tiên dựa trên giới hạn cho các hàm số liên tục.
-* **Tích phân Riemann:** Bernhard Riemann đã tổng quát hóa công trình của Cauchy thành khái niệm Tổng Riemann. Ông chia khoảng cần tính diện tích thành các hình chữ nhật hẹp, và định nghĩa tích phân là giới hạn của tổng diện tích các hình chữ nhật này khi bề rộng của chúng tiến về 0. Đây chính là định nghĩa tích phân được giảng dạy trong chương trình phổ thông hiện nay.
+* **Tích phân RiTaann:** Bernhard RiTaann đã tổng quát hóa công trình của Cauchy thành khái niệm Tổng RiTaann. Ông chia khoảng cần tính diện tích thành các hình chữ nhật hẹp, và định nghĩa tích phân là giới hạn của tổng diện tích các hình chữ nhật này khi bề rộng của chúng tiến về 0. Đây chính là định nghĩa tích phân được giảng dạy trong chương trình phổ thông hiện nay.
 
 ---
 
 ## 4. Thế kỷ 20 đến nay: Tích phân hiện đại
 
-* **Tích phân Lebesgue:** Đầu thế kỷ 20, Henri Lebesgue đã mở rộng định nghĩa tích phân dựa trên lý thuyết độ đo. Tích phân Lebesgue cho phép tính toán trên những hàm số phức tạp và "kỳ dị" hơn mà tích phân Riemann không thể giải quyết, đặt nền móng cho toán học hiện đại và lý thuyết xác suất.
+* **Tích phân Lebesgue:** Đầu thế kỷ 20, Henri Lebesgue đã mở rộng định nghĩa tích phân dựa trên lý thuyết độ đo. Tích phân Lebesgue cho phép tính toán trên những hàm số phức tạp và "kỳ dị" hơn mà tích phân RiTaann không thể giải quyết, đặt nền móng cho toán học hiện đại và lý thuyết xác suất.
 * **Giải tích máy tính:** Từ cuối thế kỷ 20 (như thuật toán Risch năm 1969), việc nghiên cứu tích phân chuyển dịch mạnh mẽ sang hướng số học và tự động hóa bằng máy tính, cho phép giải các hệ thống phương trình vi tích phân khổng lồ trong hàng không, AI và mô phỏng vũ trụ.
 
 ---
@@ -63,3 +63,33 @@ Các ứng dụng thực tế quan trọng nhất bao gồm:
 ### 5. Y học và Sinh học
 * Mô hình hóa tốc độ lan truyền của dịch bệnh, tốc độ hấp thụ thuốc và chuyển hóa dược chất bên trong cơ thể người theo thời gian thực.
 * Các thiết bị chẩn đoán hình ảnh như máy chụp cắt lớp (CT) hay cộng hưởng từ (MRI) dùng biến đổi tích phân (đặc biệt là biến đổi Radon) để tái tạo hình ảnh 3D từ các lát cắt 2D của cơ thể.
+
+# Trực giác hình học về tích phân
+
+## 1. Bài toán: đo diện tích một hình cong
+
+Tưởng tượng ta có một miếng đất hình dạng kỳ lạ, một cạnh là đường cong. Ta không có công thức tính diện tích hình cong đó. Nhưng Ta biết tính diện tích **hình chữ nhật**: dài × rộng.
+
+Vậy phải làm sao?
+
+## 2. Ý tưởng: cắt thành nhiều hình chữ nhật nhỏ
+
+Ta cắt miếng đất thành nhiều dải hẹp, mỗi dải coi gần như một hình chữ nhật.
+Tính diện tích từng dải rồi **cộng lại**, Ta được một con số **gần đúng** với diện tích thật.
+
+## 3. Cắt càng nhỏ, càng chính xác
+
+Nếu Ta cắt thành 10 dải, kết quả gần đúng.
+Nếu Ta cắt thành 1000 dải, kết quả gần đúng hơn nữa.
+Nếu Ta cắt thành cả **triệu** dải mỏng như sợi tóc — kết quả gần như chính xác tuyệt đối.
+
+**Tích phân** chính là: cắt thành vô số dải càng lúc càng mỏng, rồi tính tổng diện tích các dải.
+
+$$\text{Diện tích} = \int_a^b f(x)\, dx$$
+
+## 4. Vậy $dx$ là gì?
+
+$dx$ chỉ là cách viết tắt cho "bề rộng một dải, lúc dải đó đã cực kỳ mỏng". Nó không phải một con số bí ẩn — nó chỉ là dấu hiệu nhắc: "ta đang cộng vô số dải mỏng, và ta đã cho chúng mỏng dần đến gần 0".
+## Tóm lại
+
+Tích phân = cắt hình cong thành nhiều dải chữ nhật nhỏ → cộng diện tích lại → cắt càng nhỏ càng chính xác → kết quả cuối cùng là diện tích thật.
