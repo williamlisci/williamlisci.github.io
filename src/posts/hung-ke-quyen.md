@@ -1,3 +1,7 @@
+---
+title: Hung Ke Quyen
+date: '2026-09-06'
+---
 - **Hùng kê quyền** là bài võ cổ truyền nổi tiếng của Việt Nam, mô phỏng các kỹ thuật chiến đấu của gà chọi, do **Đông Định Vương Nguyễn Lữ**, anh em Nhà Tây Sơn, nghiên cứu sáng tạo nên.
 
 - Trước khi trở thành **“Tây Sơn Tam kiệt”**, 3 anh em nhà Tây Sơn đã theo học văn - võ tại nhà thầy giáo **Trương Văn Hiến** ở An Nhơn. Sau đó, Nguyễn Lữ đi tu một thời gian nên thường được gọi là **thầy tư Lữ**. Trong giai đoạn này, thầy tư Lữ thường gặp gỡ, tiếp xúc và trao đổi về võ học với các nhà sư Trung Hoa di cư sang Việt Nam.

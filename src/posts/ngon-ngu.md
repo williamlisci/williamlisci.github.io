@@ -1,3 +1,7 @@
+---
+title: Ngon Ngu
+date: '2026-09-06'
+---
 - Ngôn ngữ là mỏ neo của tư duy, giúp cố định, cấu trúc và diễn giải những ý tưởng trừu tượng bên trong tâm trí con người.
 - Tư duy mang tính vô hình và khó nắm bắt. Từ vựng và cấu trúc câu giúp giữ lại những khái niệm đó để chúng ta gọi tên và ghi nhớ.
 - Khi bạn có từ ngữ rõ ràng, suy nghĩ của bạn trở nên mạch lạc và sắc bén hơn thay vì mơ hồ.

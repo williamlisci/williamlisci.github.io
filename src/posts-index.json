@@ -1,5 +1,45 @@
 [
   {
+    "slug": "hung-ke-quyen",
+    "title": "Hung Ke Quyen",
+    "date": "2026-09-06"
+  },
+  {
+    "slug": "ngon-ngu",
+    "title": "Ngon Ngu",
+    "date": "2026-09-06"
+  },
+  {
+    "slug": "niet-ban-trung-sinh",
+    "title": "Niet Ban Trung Sinh",
+    "date": "2026-09-06"
+  },
+  {
+    "slug": "on-co-tri-tan",
+    "title": "On Co Tri Tan",
+    "date": "2026-09-06"
+  },
+  {
+    "slug": "phong-xa",
+    "title": "Phong Xa",
+    "date": "2026-09-06"
+  },
+  {
+    "slug": "tich-phan",
+    "title": "Tich Phan",
+    "date": "2026-09-06"
+  },
+  {
+    "slug": "tu-cai-tien-de-quy",
+    "title": "Tu Cai Tien De Quy",
+    "date": "2026-09-06"
+  },
+  {
+    "slug": "vung-an-toan-hat-nhan",
+    "title": "Vung An Toan Hat Nhan",
+    "date": "2026-09-06"
+  },
+  {
     "slug": "AI-lap-trinh",
     "title": "AI Lap Trinh",
     "date": "2026-08-25"
@@ -438,45 +478,5 @@
     "slug": "AI-toan-hoc",
     "title": "AI và Toán học",
     "date": "2026-08-01"
-  },
-  {
-    "slug": "hung-ke-quyen",
-    "title": "hung ke quyen",
-    "date": null
-  },
-  {
-    "slug": "ngon-ngu",
-    "title": "ngon ngu",
-    "date": null
-  },
-  {
-    "slug": "niet-ban-trung-sinh",
-    "title": "niet ban trung sinh",
-    "date": null
-  },
-  {
-    "slug": "on-co-tri-tan",
-    "title": "on co tri tan",
-    "date": null
-  },
-  {
-    "slug": "phong-xa",
-    "title": "phong xa",
-    "date": null
-  },
-  {
-    "slug": "tich-phan",
-    "title": "tich phan",
-    "date": null
-  },
-  {
-    "slug": "tu-cai-tien-de-quy",
-    "title": "tu cai tien de quy",
-    "date": null
-  },
-  {
-    "slug": "vung-an-toan-hat-nhan",
-    "title": "vung an toan hat nhan",
-    "date": null
   }
 ]

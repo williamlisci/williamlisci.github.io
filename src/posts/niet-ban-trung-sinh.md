@@ -1,3 +1,7 @@
+---
+title: Niet Ban Trung Sinh
+date: '2026-09-06'
+---
 - Chỉ những người đủ từng trải, đủ nội hàm mới có năng lực đốn ngộ nhân quả của vạn vật, niết bàn trùng sinh.
 - Để đạt đến trạng thái "đốn ngộ nhân quả" (hiểu thấu bản chất nguyên nhân - kết quả) và "niết bàn trùng sinh" (buông bỏ bản ngã cũ để tái sinh trong một tâm thức mới), con người bắt buộc phải đi qua hai bộ lọc lớn:
 - Đủ từng trải (Trải nghiệm sống): Kiến thức từ sách vở chỉ là lý thuyết. Chỉ khi tự mình bước qua giông bão, nếm trải đủ thăng trầm, được mất, đúng sai, con người mới thực sự thấu hiểu cái giá của mỗi lựa chọn. Sự từng trải chính là chất liệu thực tế để kiểm chứng quy luật nhân quả.

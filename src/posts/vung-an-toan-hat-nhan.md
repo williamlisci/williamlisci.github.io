@@ -1,3 +1,7 @@
+---
+title: Vung An Toan Hat Nhan
+date: '2026-09-06'
+---
 Theo quy định của Cơ quan Năng lượng Nguyên tử Quốc tế (IAEA) tại tiêu chuẩn **GSR Part 7** và các tài liệu hướng dẫn liên quan, các vùng/khoảng cách lập kế hoạch ứng phó sự cố hạt nhân được phân định dựa trên các mốc bán kính tham chiếu khoa học như sau:
 
 ## 1. PAZ (Precautionary Action Zone) – Vùng hành động phòng ngừa

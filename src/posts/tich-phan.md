@@ -1,3 +1,7 @@
+---
+title: Tich Phan
+date: '2026-09-06'
+---
 # Lịch sử nghiên cứu và Ứng dụng của Tích phân
 
 Lịch sử nghiên cứu của tích phân là một hành trình kéo dài hơn 2.000 năm, đi từ những ý tưởng sơ khai về đo đạc diện tích cho đến khi trở thành một hệ thống lý thuyết toán học vững chắc thay đổi toàn bộ khoa học nhân loại.

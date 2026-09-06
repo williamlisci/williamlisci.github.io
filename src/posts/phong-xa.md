@@ -1,3 +1,7 @@
+---
+title: Phong Xa
+date: '2026-09-06'
+---
 - Mức phóng xạ nền trung bình trên thế giới là khoảng 2,4 mSv (milisievert - đơn vị đo liều lượng bức xạ) mỗi năm.
 - Mức bức xạ 0.1 - 0.2 mSv, tương đương Một lần chụp X-quang phổi thông thường.
 - Người dân sống ở vùng lân cận nhà máy hạt nhân vận hành bình thường chỉ nhận thêm một lượng phóng xạ rất nhỏ, vào khoảng 0,0001 đến 0,001 mSv/năm nhờ các hệ thống lọc và kiểm soát khắt khe. Lượng phát thải này nhỏ hơn ít nhất 1.000 lần so với phóng xạ tự nhiên từ đất, đá hoặc không gian. Thậm chí, những vật dụng quen thuộc như ăn chuối hoặc ở trong nhà ốp đá hoa cương còn phóng ra lượng bức xạ lớn hơn.

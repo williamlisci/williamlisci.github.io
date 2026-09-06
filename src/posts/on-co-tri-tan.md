@@ -1,3 +1,7 @@
+---
+title: On Co Tri Tan
+date: '2026-09-06'
+---
 - Ôn cố tri tân (溫故知新) là thành ngữ Hán - Việt có nghĩa là ôn lại cái cũ để hiểu biết cái mới.
 - Nguồn gốc: Xuất phát từ câu "溫故而知新，可以為師矣。" trong sách Luận Ngữ của Khổng Tử. Câu này có nghĩa là: Ôn lại điều cũ mà biết được điều mới, thì có thể làm thầy người khác.
 - chữ 溫: Nghĩa gốc là tên sông, sau mượn chỉ "ấm". Trong câu này, "ôn" là ôn tập — như hâm nóng lại món ăn nguội, tức là luyện lại kiến thức đã học để nó trở nên nóng hổi, thuộc nằm lòng.
