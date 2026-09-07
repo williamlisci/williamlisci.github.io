@@ -4,6 +4,11 @@ import { Link } from "react-router-dom";
 import postsIndex from "../posts-index.json";
 import { useDocumentMeta } from "../hooks/useDocumentMeta";
 import SiteIntro from "./SiteIntro";
+import FeaturedPosts from "./FeaturedPosts";
+import {
+  FEATURED_POST_SLUGS,
+  MAX_FEATURED_POSTS,
+} from "../featured-posts";
 
 interface Post {
   slug: string;
@@ -13,6 +18,9 @@ interface Post {
 
 const posts = postsIndex as Post[];
 const POSTS_PER_PAGE = 20;
+const featuredPosts = FEATURED_POST_SLUGS.slice(0, MAX_FEATURED_POSTS)
+  .map((slug) => posts.find((post) => post.slug === slug))
+  .filter((post): post is Post => post !== undefined);
 
 const PostList: React.FC = () => {
   const [searchQuery, setSearchQuery] = useState("");
@@ -82,6 +90,8 @@ const PostList: React.FC = () => {
             )}
           </div>
         </div>
+
+        <FeaturedPosts posts={featuredPosts} />
 
         {paginatedPosts.length === 0 ? (
           <p className="text-gray-400 text-center py-12">
