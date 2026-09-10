@@ -1,5 +1,30 @@
 [
   {
+    "slug": "cac-loai-lo-phan-ung-hat-nhan",
+    "title": "Cac Loai Lo Phan Ung Hat Nhan",
+    "date": "2026-09-10"
+  },
+  {
+    "slug": "cong-nghe-hat-nhan",
+    "title": "Cong Nghe Hat Nhan",
+    "date": "2026-09-10"
+  },
+  {
+    "slug": "nang-luong-hat-nhan",
+    "title": "Nang Luong Hat Nhan",
+    "date": "2026-09-10"
+  },
+  {
+    "slug": "nha-may-dien-hat-nhan",
+    "title": "Nha May Dien Hat Nhan",
+    "date": "2026-09-10"
+  },
+  {
+    "slug": "su-co-hat-nhan",
+    "title": "Su Co Hat Nhan",
+    "date": "2026-09-10"
+  },
+  {
     "slug": "Suy-luan-trong-khong-gian-tiem-an",
     "title": "Suy Luan Trong Khong Gian Tiem An",
     "date": "2026-09-07"
@@ -227,11 +252,6 @@
   {
     "slug": "lam-giau",
     "title": "Lam Giau",
-    "date": "2026-08-16"
-  },
-  {
-    "slug": "Lo-phan-ung-hat-nhan-ky-thuat-so",
-    "title": "Lo Phan Ung Hat Nhan Ky Thuat So",
     "date": "2026-08-16"
   },
   {

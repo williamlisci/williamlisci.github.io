@@ -14,7 +14,7 @@ const SiteIntro: React.FC<SiteIntroProps> = ({ totalPosts, latestDate }) => {
         - Xin chào, tôi là Nghĩa. `Nghĩa` trong trọng tình, trọng nghĩa :)
         <br />- Đây là không gian kỹ thuật số nơi tôi lưu giữ và chia sẻ những
         suy ngẫm cá nhân, thông tin và trích dẫn thú vị.
-        <br />- Chỉ những người đủ từng trải, đủ nội hàm mới có năng lực đốn
+        <br />- Chỉ những ai đủ từng trải, đủ nội hàm mới có thể đốn
         ngộ nhân quả của vạn vật, niết bàn trùng sinh. Vô danh.
         <br />- Môi trường càng khốc liệt thì năng lực tư duy sâu càng có điều
         kiện được mài giũa và nâng cao. TS LTD.
