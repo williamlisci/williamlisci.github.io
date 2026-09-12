@@ -2,7 +2,6 @@
 title: Cac Loai Lo Phan Ung Hat Nhan
 date: '2026-09-10'
 ---
-# Các loại lò phản ứng hạt nhân hiện đại
 
 Lò phản ứng phân hạch được phân loại chủ yếu dựa vào **năng lượng neutron** duy trì phản ứng dây chuyền: lò phản ứng nhiệt (neutron chậm) và lò phản ứng neutron nhanh.
 
