@@ -1,0 +1,10 @@
+var e=`---
+title: Tri Tue Vo Thuc
+date: '2026-08-16'
+---
+- môi trường sống của bạn, những tiếng ồn xung quanh bạn sẽ tác động trực tiếp vào tầng vô thức trong tâm trí của bạn, từ đó định hình tư duy và vận mệnh của cuộc đời bạn. không ai giống ai tùy độ nhạy mỗi người.
+- William James Sidis (người được mệnh danh là thông minh nhất lịch sử loài người với chỉ số IQ ước tính 250–300) từng viết một bài luận ngắn mang tên "The Unconscious Intelligence" (Trí tuệ vô thức). Trong đó, ông đưa ra góc nhìn cá nhân kết hợp giữa trải nghiệm thực tế và lý thuyết tâm lý học để giải thích cách "trí tuệ vô thức" có thể giải quyết các vấn đề phức tạp nhanh hơn ý thức. Quan điểm của William James Sidis về trí tuệ vô thức tập trung vào các ý chính sau.
+  - Ông khẳng định "trí tuệ vô thức" không khác biệt về mặt bản chất so với trí tuệ có ý thức, thậm chí nó hoạt động có tư duy và có logic rõ ràng. William James Sidis chia sẻ câu chuyện bản thân khi đối mặt với các bài toán toán học phức tạp. Nhiều lúc ông không thể tìm ra lời giải khi cố gắng suy nghĩ một cách có ý thức. Tuy nhiên, sau khi ông buông bỏ, ngừng suy nghĩ và đi ngủ, lời giải chính xác đột ngột xuất hiện trong đầu ông khi thức dậy. Từ đó, ông kết luận rằng bộ não vẫn tiếp tục làm việc trong nền (background). Vô thức có thể tự thực hiện các phép tính, liên kết các chuỗi logic và giải quyết vấn đề mà ý thức không hề hay biết.
+  - Góc nhìn của William chịu ảnh hưởng rất lớn từ cha mình, Boris Sidis – một nhà tâm lý học và tâm thần học nổi tiếng, chuyên gia nghiên cứu về tiềm thức, thôi miên và các trạng thái phân tách tâm trí. Cha của William tin rằng con người chỉ mới sử dụng một phần nhỏ năng lượng trí tuệ. Bằng cách kích hoạt và khai phóng các tầng "vô thức" từ giai đoạn rất trẻ, chúng ta có thể đào tạo ra những thiên tài. Bản thân sự phát triển vượt bậc của William James Sidis chính là kết quả từ phương pháp giáo dục khai thác triệt để "trí tuệ vô thức" mà người cha đã áp dụng.
+  - Tóm lại, đối với William James Sidis, trí tuệ vô thức là một bộ máy tư duy thực thụ, hoạt động ẩn và có hiệu suất cực cao, chứ không chỉ đơn thuần là các phản ứng sinh lý tự động.
+`;export{e as default};
