@@ -1,0 +1,3 @@
+- trong quan hệ xã hội, chỉ có sàng lọc, không có giáo dục.
+- măng không uốn, uốn tre sao được. 
+- Đừng cố thay đổi bất kỳ ai. Sự lựa chọn khôn ngoan nhất là tìm kiếm những người có cùng chí hướng.

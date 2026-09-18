@@ -1,0 +1,4 @@
+- trong xã hội hiện đại, tiền không còn chỉ là một “phương tiện trao đổi”. Nó đã trở thành cơ chế trung gian giúp con người tiếp cận phần lớn các điều kiện vật chất cần thiết để duy trì đời sống.
+- Tiền có thể được chuyển đổi thành rất nhiều loại nguồn lực khác nhau. Một tờ tiền không có giá trị sinh tồn trực tiếp, nhưng nó có quyền lực chuyển hóa: tiền có thể được đổi thành thức ăn, nơi ở, thuốc men, dịch vụ và thời gian của người khác.
+- “Giàu có không nằm ở việc sở hữu nhiều, mà ở việc có ít nhu cầu.” Epictetus
+- "Tôi họ Tiền (钱 - cũng có nghĩa là tiền bạc), nhưng tôi không yêu tiền." 钱学森
