@@ -1,3 +1,7 @@
+---
+title: Bao Ve Suc Khoe
+date: '2026-09-18'
+---
 - Nên định kỳ tẩy giun hằng năm hoặc mỗi 6 tháng với loại thuốc được khuyến cáo như Albendazole 400mg/lần và Mebendazole 500mg/lần.
 - Khám sức khỏe định kỳ, giúp phát hiện bệnh từ sớm.
 - Uống đủ nước: Cung cấp cho cơ thể 2,0–2,5 lít nước mỗi ngày 

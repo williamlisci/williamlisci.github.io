@@ -1,3 +1,7 @@
+---
+title: Giai Phong Tu Duy
+date: '2026-09-18'
+---
 - Điều giới hạn một con người không phải lúc nào cũng là hoàn cảnh hay năng lực. Nhiều khi, rào cản lớn nhất lại nằm trong cách họ suy nghĩ. Khi một lối tư duy được lặp đi lặp lại quá lâu, não bộ sẽ mặc định đó là cách nhìn đúng về thế giới. Từ đó, con người dễ đưa ra những quyết định quen thuộc, phản ứng theo thói quen và bỏ lỡ những góc nhìn mới.
 - Não bộ luôn thích sự nhất quán và ghét sự mâu thuẫn. Khi đã tin một điều là đúng, chúng ta có xu hướng bảo vệ niềm tin đó và tìm kiếm những thông tin để củng cố nó. Theo thời gian, niềm tin dần trở thành một sự thật hiển nhiên trong suy nghĩ của mỗi người, dù thực tế có thể đã thay đổi. Thay vì luôn tìm bằng chứng chứng minh mình đúng, hãy tập hỏi ngược lại. Nếu mình sai thì sao. Có góc nhìn nào mình chưa thấy không. Điều gì có thể làm thay đổi kết luận hiện tại. Chính những câu hỏi này sẽ giúp bạn mở rộng tư duy và tránh bị mắc kẹt trong những quan điểm cũ.
 - Con người thường thích đọc những điều mình đồng ý, kết nối với những người có cùng quan điểm và ở trong môi trường khiến mình cảm thấy thoải mái. Điều này tạo cảm giác an toàn nhưng cũng khiến tư duy ngày càng khép kín. Muốn phát triển, hãy chủ động lắng nghe những ý kiến trái chiều và tìm hiểu những góc nhìn khác với mình. Điều đó không có nghĩa là bạn phải thay đổi quan điểm ngay lập tức. Mục đích là giúp não bộ nhận ra rằng một vấn đề luôn có nhiều cách nhìn khác nhau.
