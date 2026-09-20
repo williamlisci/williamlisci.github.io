@@ -2,13 +2,10 @@
 title: Phan Vat Chat
 date: '2026-09-19'
 ---
-# Phản vật chất
 
 Mỗi hạt vật chất đều có một "bản sao" mang điện tích ngược lại, gọi là **phản hạt**. Phản hạt của electron là positron, của proton là phản proton. Khi một hạt gặp phản hạt của nó, cả hai **triệt tiêu** và biến thành năng lượng theo công thức nổi tiếng $E = mc^2$, chủ yếu dưới dạng tia gamma.
 
 Dirac dự đoán nó về mặt lý thuyết năm 1928, và Anderson tìm thấy positron năm 1932. Ngày nay bạn còn gặp nó trong bệnh viện: máy chụp PET dùng chính positron để chụp ảnh cơ thể.
-
-## nguồn gốc vật chất
 
 Theo lý thuyết, Vụ nổ lớn (Big Bang) lẽ ra phải tạo ra vật chất và phản vật chất với số lượng **bằng nhau (1:1)**. Nếu đúng như vậy, mọi thứ sẽ gặp nhau và triệt tiêu hết, vũ trụ chỉ còn lại ánh sáng. Không sao, không thiên hà, không chúng ta.
 
@@ -25,8 +22,6 @@ Sau khi phần lớn vật chất và phản vật chất triệt tiêu, lượn
 Nói cách khác, mọi thứ bạn nhìn thấy, kể cả bạn, đều là phần dư của một cuộc triệt tiêu khổng lồ.
 
 Các photon sinh ra từ quá trình triệt tiêu, cùng với bức xạ nhiệt của vũ trụ sơ khai, tạo thành một "biển ánh sáng" khắp không gian. Khoảng 380.000 năm sau Vụ nổ lớn, khi nguyên tử hình thành, ánh sáng này mới thoát ra tự do. Ta nhìn thấy nó ngày nay là **bức xạ nền vi sóng vũ trụ (CMB)**, đã nguội xuống còn khoảng 2,7 K. Mỗi cm³ không gian chứa khoảng 413 photon CMB, nhiều hơn số hạt vật chất hàng tỷ lần, và đó chính là dấu vết của cuộc triệt tiêu năm xưa.
-
-## Vì sao lại có độ lệch?
 
 Năm 1967, Sakharov chỉ ra ba điều kiện cần để vật chất thắng thế:
 

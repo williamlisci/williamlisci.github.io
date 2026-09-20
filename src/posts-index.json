@@ -1,5 +1,25 @@
 [
   {
+    "slug": "hat-Gluon",
+    "title": "Hat Gluon",
+    "date": "2026-09-20"
+  },
+  {
+    "slug": "hat-Graviton",
+    "title": "Hat Graviton",
+    "date": "2026-09-20"
+  },
+  {
+    "slug": "hat-Neutrino",
+    "title": "Hat Neutrino",
+    "date": "2026-09-20"
+  },
+  {
+    "slug": "hat-WIMP",
+    "title": "Hat WIMP",
+    "date": "2026-09-20"
+  },
+  {
     "slug": "cham-chi",
     "title": "Cham Chi",
     "date": "2026-09-19"

@@ -22,7 +22,7 @@
 		"@tailwindcss/postcss": "^4.3.3",
 		"@tailwindcss/vite": "^4.3.3",
 		"@types/katex": "^0.16.8",
-		"@types/node": "^26.6.1",
+		"@types/node": "^26.6.2",
 		"@types/react-scroll": "^1.8.10",
 		"@types/three": "^0.186.0",
 		"katex": "^0.18.7",
