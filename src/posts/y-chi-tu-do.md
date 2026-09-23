@@ -1,5 +1,5 @@
 ---
-title: Con Nguoi
+title: Y Chi Tu Do
 date: '2026-09-23'
 ---
 - trên đời này không gì đáng sợ bằng ý chí tự do của con người.
