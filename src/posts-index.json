@@ -1,5 +1,15 @@
 [
   {
+    "slug": "ban-do-ky-thuat-so-nao-nguoi",
+    "title": "Ban Do Ky Thuat So Nao Nguoi",
+    "date": "2026-09-26"
+  },
+  {
+    "slug": "nguon-goc-linh-hon",
+    "title": "Nguon Goc Linh Hon",
+    "date": "2026-09-26"
+  },
+  {
     "slug": "ky-nang-suy-luan",
     "title": "Ky Nang Suy Luan",
     "date": "2026-09-25"
@@ -163,11 +173,6 @@
     "slug": "Suy-luan-trong-khong-gian-tiem-an",
     "title": "Suy Luan Trong Khong Gian Tiem An",
     "date": "2026-09-07"
-  },
-  {
-    "slug": "hung-ke-quyen",
-    "title": "Hung Ke Quyen",
-    "date": "2026-09-06"
   },
   {
     "slug": "ngon-ngu",
