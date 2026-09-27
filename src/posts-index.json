@@ -6,7 +6,7 @@
   },
   {
     "slug": "nguon-goc-y-thuc",
-    "title": "Nguon Goc Linh Hon",
+    "title": "Nguon Goc Y Thuc",
     "date": "2026-09-26"
   },
   {
@@ -95,13 +95,13 @@
     "date": "2026-09-18"
   },
   {
-    "slug": "Kefir",
-    "title": "Kefir",
+    "slug": "khoa-hoc",
+    "title": "Khoa Hoc",
     "date": "2026-09-18"
   },
   {
-    "slug": "khoa-hoc",
-    "title": "Khoa Hoc",
+    "slug": "nam-Kefir",
+    "title": "Nam Kefir",
     "date": "2026-09-18"
   },
   {
@@ -235,8 +235,8 @@
     "date": "2026-08-25"
   },
   {
-    "slug": "Spirulina",
-    "title": "Spirulina",
+    "slug": "Tao-Spirulina",
+    "title": "Tao Spirulina",
     "date": "2026-08-25"
   },
   {
@@ -492,11 +492,6 @@
   {
     "slug": "phuong-phap-tu-duy",
     "title": "Phuong Phap Tu Duy",
-    "date": "2026-08-16"
-  },
-  {
-    "slug": "qua-cau-bun-lon",
-    "title": "Qua Cau Bun Lon",
     "date": "2026-08-16"
   },
   {

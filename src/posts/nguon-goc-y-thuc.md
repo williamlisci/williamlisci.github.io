@@ -1,5 +1,5 @@
 ---
-title: Nguon Goc Linh Hon
+title: Nguon Goc Y Thuc
 date: '2026-09-26'
 ---
 

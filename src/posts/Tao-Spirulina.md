@@ -1,5 +1,5 @@
 ---
-title: Spirulina
+title: Tao Spirulina
 date: '2026-08-25'
 ---
 - tảo xoắn spirulina chứa đầy đủ cả 9 loại acid amin thiết yếu (essential amino acids) mà cơ thể người không tự tổng hợp được, phải lấy từ thực phẩm: leucine, isoleucine, valine, lysine, methionine, phenylalanine, threonine, tryptophan và histidine. Đây là điều làm spirulina khác biệt so với phần lớn protein thực vật, vốn thường thiếu hụt một hoặc vài acid amin thiết yếu.
