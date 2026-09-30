@@ -27,9 +27,10 @@ const SiteIntro: React.FC<SiteIntroProps> = ({ totalPosts, latestDate }) => {
         >
           SciTechDaily.com
         </a>
-        <br />- Cố vấn khoa học: Gemini AI
+
         <br />- Tổng số bài đăng: {totalPosts} bài.
         {latestDate && ` Cập nhật lần cuối: ${latestDate}.`}
+        <br />- Cố vấn khoa học: Gemini AI
       </p>
     </div>
   );
