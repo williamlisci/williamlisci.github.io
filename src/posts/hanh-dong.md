@@ -2,4 +2,5 @@
 title: Hanh Dong
 date: '2026-08-16'
 ---
--  không làm thì không sai. chỉ bằng cách ép bản thân đưa ra lựa chọn, bạn mới có thể định vị chính xác thực lực của mình.
+- đừng né tránh hành động bằng cách tự phức tạp hóa đường đi. 
+- có chuyển động mới có điều chỉnh, có điều chỉnh mới có vững vàng, có vững vàng mới có thể đi xa.
