@@ -86,7 +86,7 @@ async function run() {
 		console.log("\n(Đây là chế độ --dry-run, CHƯA có file nào thực sự bị ghi đè.)");
 		console.log("Chạy lại không kèm --dry-run để áp dụng thật.");
 	} else {
-		console.log("\nHoàn tất. Nhớ chạy lại 'node scripts/generate-posts-index.mjs' nếu excerpt trong index có chứa công thức toán.");
+		console.log("\nHoàn tất.");
 	}
 }
 
