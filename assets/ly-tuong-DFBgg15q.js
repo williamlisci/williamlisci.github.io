@@ -1,0 +1,7 @@
+var e=`---
+title: Ly Tuong
+date: '2026-08-16'
+---
+- Không có lý tưởng thì không thể tiến xa; không có thực tế thì khó mà tồn tại. Vì vậy, cần phải kết hợp giữa chủ nghĩa lý tưởng và chủ nghĩa hiện thực. Tôi tin rằng hầu hết các công ty tốt đều kết hợp cả chủ nghĩa lý tưởng và chủ nghĩa hiện thực, điều đó có nghĩa là họ phải suy nghĩ dài hạn đồng thời cũng phải làm tốt mọi việc nhỏ nhặt một cách thực tế. 段永平.
+- Google đã từng có câu khẩu hiệu nổi tiếng "Don't be evil" (Đừng trở nên xấu xa) như một biểu tượng cho văn hóa mở và đạo đức công nghệ của công ty từ những ngày đầu thành lập. Những kỹ sư của Google đã áp dụng tinh thần này với một tâm thế rất mộc mạc: không để thông tin quảng cáo tùy tiện leo lên đầu kết quả tìm kiếm, không thu phí tìm kiếm thông tin của người dùng, không gửi spam và không đặt banner quảng cáo trên trang chủ. Dần dần, với vị thế là một công cụ tìm kiếm có nhiều người sử dụng nhất trên toàn cầu, khả năng thực hiện lời hứa "không xấu xa" của Google trở nên phức tạp hơn. Công ty dính vào những vụ lùm xùm về vi phạm quyền riêng tư, thu thập dữ liệu người dùng và độc quyền cạnh tranh. Rõ ràng, áp lực lợi nhuận và các mối quan hệ chính trị đã dần thay thế cho những lý tưởng ngây thơ thời kỳ đầu.
+`;export{e as default};
