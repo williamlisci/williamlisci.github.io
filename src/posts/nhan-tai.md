@@ -7,4 +7,4 @@ date: '2026-08-16'
   liệu có thể xây mới, tài chính có thể huy động thêm. Nhưng những nhà khoa học tài năng đã tạo ra AlphaFold 
   hay
   đồng viết nên kiến trúc Transformer lại là nguồn lực cực kỳ hiếm. 
-- Tài sản quý giá nhất vẫn là những con người có đủ khả năng tạo ra phát kiến đột phá tiếp theo.
+- 9/2024, Google bỏ ra số tiền 2,7 tỷ USD để mời Noam Shazeer trở lại dẫn dắt dự án Gemini. Noam Shazeer được ví như một "huyền thoại" đứng sau cấu trúc Transformer định hình nên làn sóng AI tạo sinh ngày nay.

@@ -40,7 +40,9 @@ minimumReleaseAgeExclude:
   - react-router-dom@7.18.3 || 7.18.4
   - react-router@7.18.3 || 7.18.4
   - autoprefixer@10.5.6 || 10.6.1
-  - '@react-three/fiber@9.8.0'
+  - '@react-three/fiber@9.8.0 || 9.8.2'
+  - react-dom@19.3.1
+  - react@19.3.1
 
 onlyBuiltDependencies:
   - '@tailwindcss/oxide'
