@@ -1,5 +1,40 @@
 [
   {
+    "slug": "cach-hoc-toan",
+    "title": "Cach Hoc Toan",
+    "date": "2026-10-21"
+  },
+  {
+    "slug": "dopamine",
+    "title": "Dopamine",
+    "date": "2026-10-21"
+  },
+  {
+    "slug": "luon-lac-quan",
+    "title": "Luon Lac Quan",
+    "date": "2026-10-21"
+  },
+  {
+    "slug": "cong-thuc-cua-Chua",
+    "title": "Cong thuc cua Chua",
+    "date": "2026-10-19"
+  },
+  {
+    "slug": "tri-khon",
+    "title": "Tri Khon",
+    "date": "2026-10-18"
+  },
+  {
+    "slug": "tu-duy-toan-hoc",
+    "title": "Tu Duy Toan Hoc",
+    "date": "2026-10-18"
+  },
+  {
+    "slug": "giong-noi",
+    "title": "Giong Noi",
+    "date": "2026-10-16"
+  },
+  {
     "slug": "cat-tia-than-kinh",
     "title": "Cat Tia Than Kinh",
     "date": "2026-10-15"
@@ -165,11 +200,6 @@
     "date": "2026-09-19"
   },
   {
-    "slug": "bao-ve-suc-khoe",
-    "title": "Bao Ve Suc Khoe",
-    "date": "2026-09-18"
-  },
-  {
     "slug": "giai-phong-tu-duy",
     "title": "Giai Phong Tu Duy",
     "date": "2026-09-18"
@@ -182,11 +212,6 @@
   {
     "slug": "khoa-hoc",
     "title": "Khoa Hoc",
-    "date": "2026-09-18"
-  },
-  {
-    "slug": "nam-Kefir",
-    "title": "Nam Kefir",
     "date": "2026-09-18"
   },
   {
@@ -607,11 +632,6 @@
   {
     "slug": "su-hinh-thanh-vu-tru",
     "title": "Su Hinh Thanh Vu Tru",
-    "date": "2026-08-16"
-  },
-  {
-    "slug": "suc-khoe",
-    "title": "Suc Khoe",
     "date": "2026-08-16"
   },
   {
