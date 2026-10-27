@@ -1,0 +1,7 @@
+---
+title: Khoi Nghiep
+date: '2026-10-27'
+---
+- Chen Tianshi thường xuyên so sánh Cambricon với các gã khổng lồ toàn cầu: "Intel đã hơn 50 tuổi, AMD hơn 51 tuổi, Nvidia 27 tuổi. Cambricon khi đó mới chỉ là một đứa trẻ 4 tuổi. Các bậc tiền bối đều phải đi qua muôn vàn gian khổ mới có ngày hôm nay. Chúng tôi có chí hướng lớn, nhưng cuộc đua marathon này mới chỉ bắt đầu". Bài học: Người làm kinh doanh công nghệ cao không được nóng vội vì áp lực của thị trường hay giá cổ phiếu ngắn hạn. Thành công của một doanh nghiệp phần cứng cần hàng thập kỷ để tích lũy và kiểm chứng
+- Chen Tianshi bày tỏ sự đồng tình lớn với tư duy của Jensen Huang (CEO Nvidia). Ông nhận ra sai lầm của nhiều công ty chip là chỉ tập trung vào hiệu năng phần cứng. Thực tế, khách hàng mua chip vì họ cần hệ sinh thái phần mềm hỗ trợ tốt để chạy các thuật toán AI dễ dàng. Bài học: Sản phẩm tốt thôi chưa đủ, phải xây dựng được một "hệ sinh thái thân thiện" giúp khách hàng giảm chi phí chuyển đổi và tối ưu hóa vận hành.
+- Đối mặt với sự cạnh tranh khốc liệt về nhân sự ngành bán dẫn, Chen Tianshi không dùng "bánh vẽ" lý tưởng. Cambricon áp dụng chính sách ưu đãi cổ phiếu (Equity Incentive) trên phạm vi rất rộng cho đội ngũ kỹ sư. Ông khẳng định: "Phải để nhân viên được hưởng lợi ích thực tế từ sự tăng trưởng của công ty thông qua nhiều hình thức khác nhau". Bài học: Lòng trung thành của đội ngũ nhân sự trình độ cao phải được xây dựng trên sự minh bạch và chia sẻ thành quả tài chính sòng phẳng.

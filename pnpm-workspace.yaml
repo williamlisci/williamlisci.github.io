@@ -27,22 +27,25 @@ minimumReleaseAgeExclude:
   - '@typescript-eslint/visitor-keys@8.68.0'
   - typescript-eslint@8.68.0
   - '@react-three/postprocessing@3.1.1 || 3.1.2 || 3.1.3'
-  - '@biomejs/biome@2.5.11 || 2.5.13'
-  - '@biomejs/cli-darwin-arm64@2.5.11 || 2.5.13'
-  - '@biomejs/cli-darwin-x64@2.5.11 || 2.5.13'
-  - '@biomejs/cli-linux-arm64-musl@2.5.11 || 2.5.13'
-  - '@biomejs/cli-linux-arm64@2.5.11 || 2.5.13'
-  - '@biomejs/cli-linux-x64-musl@2.5.11 || 2.5.13'
-  - '@biomejs/cli-linux-x64@2.5.11 || 2.5.13'
-  - '@biomejs/cli-win32-arm64@2.5.11 || 2.5.13'
-  - '@biomejs/cli-win32-x64@2.5.11 || 2.5.13'
+  - '@biomejs/biome@2.5.11 || 2.5.13 || 2.6.3'
+  - '@biomejs/cli-darwin-arm64@2.5.11 || 2.5.13 || 2.6.3'
+  - '@biomejs/cli-darwin-x64@2.5.11 || 2.5.13 || 2.6.3'
+  - '@biomejs/cli-linux-arm64-musl@2.5.11 || 2.5.13 || 2.6.3'
+  - '@biomejs/cli-linux-arm64@2.5.11 || 2.5.13 || 2.6.3'
+  - '@biomejs/cli-linux-x64-musl@2.5.11 || 2.5.13 || 2.6.3'
+  - '@biomejs/cli-linux-x64@2.5.11 || 2.5.13 || 2.6.3'
+  - '@biomejs/cli-win32-arm64@2.5.11 || 2.5.13 || 2.6.3'
+  - '@biomejs/cli-win32-x64@2.5.11 || 2.5.13 || 2.6.3'
   - '@vitejs/plugin-react@6.1.1'
-  - react-router-dom@7.18.3 || 7.18.4
-  - react-router@7.18.3 || 7.18.4
+  - react-router-dom@7.18.3 || 7.18.4 || 7.18.5
+  - react-router@7.18.3 || 7.18.4 || 7.18.5
   - autoprefixer@10.5.6 || 10.6.1
   - '@react-three/fiber@9.8.0 || 9.8.2'
   - react-dom@19.3.1
   - react@19.3.1
+  - '@biomejs/cli-android-arm64@2.6.3'
+  - '@biomejs/cli-android-x64@2.6.3'
+  - katex@0.19.1
 
 onlyBuiltDependencies:
   - '@tailwindcss/oxide'
