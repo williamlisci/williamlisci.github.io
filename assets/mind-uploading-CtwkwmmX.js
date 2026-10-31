@@ -1,7 +1,7 @@
-var e=`---
-title: Tai Len Tam Tri
-date: '2026-08-16'
----
+var e=`---\r
+title: Mind Uploading\r
+date: '2026-08-16'\r
+---\r
 - Xuyên suốt lịch sử, nhân loại đã tìm kiếm những cách thức để đạt được sự bất tử. Tuy nhiên, bất chấp thời gian \r
   trôi qua, cả hoàng đế lẫn người thường đều chưa thể đạt được sự sống vĩnh hằng. Điều này có nghĩa là sự bất tử chỉ là \r
   một giấc mơ hão huyền? Trong thế giới công nghệ tiên tiến ngày nay, các nhà khoa học đã nghĩ ra một phương pháp khác để con người bất tử: truyền ý thức vào máy tính. Tuy nhiên, để đạt được điều này, hai rào cản công nghệ lớn phải được vượt qua: \r
@@ -10,5 +10,5 @@ date: '2026-08-16'
      lập bản đồ cấu trúc ba chiều hoàn chỉnh của não bộ, "connectome". Điều này đòi hỏi công nghệ hình ảnh chính xác \r
      hơn hàng triệu lần so với MRI hiện tại. Hiện nay, các nhà khoa học mới chỉ hoàn thành mô phỏng hệ thần kinh của \r
      các sinh vật đơn giản như ấu trùng ruồi giấm; việc lập bản đồ não người vẫn còn khá xa vời.\r
-2. Mô phỏng và vận hành ý thức một cách chính xác: Ngay cả với những lần quét não thành công, việc xử lý tập dữ liệu khổng lồ này trên nền tảng máy tính vẫn đặt ra một thách thức khác. Điều này đòi hỏi phải mô phỏng không chỉ các kết nối giữa các tế bào thần kinh mà còn cả các chức năng động của chúng, chẳng hạn như tính dẻo của khớp thần kinh và sự truyền tín hiệu hóa học phức tạp. Điều này đòi hỏi sức mạnh tính toán vượt xa khả năng của các siêu máy tính mạnh nhất hiện nay. Hơn nữa, chúng ta vẫn chưa hiểu đầy đủ về cách thức ý thức phát sinh từ hoạt động của các cụm tế bào thần kinh, vì vậy không thể xác định ở cấp độ nào (phân tử? nguyên tử?) cần mô phỏng để tái tạo một ý thức "sống". Hiện tại, công nghệ của con người chưa thể đạt được điều này, nhưng các nhà khoa học đang hướng tới mục tiêu đó và có thể sẽ làm được trong tương lai gần.
+2. Mô phỏng và vận hành ý thức một cách chính xác: Ngay cả với những lần quét não thành công, việc xử lý tập dữ liệu khổng lồ này trên nền tảng máy tính vẫn đặt ra một thách thức khác. Điều này đòi hỏi phải mô phỏng không chỉ các kết nối giữa các tế bào thần kinh mà còn cả các chức năng động của chúng, chẳng hạn như tính dẻo của khớp thần kinh và sự truyền tín hiệu hóa học phức tạp. Điều này đòi hỏi sức mạnh tính toán vượt xa khả năng của các siêu máy tính mạnh nhất hiện nay. Hơn nữa, chúng ta vẫn chưa hiểu đầy đủ về cách thức ý thức phát sinh từ hoạt động của các cụm tế bào thần kinh, vì vậy không thể xác định ở cấp độ nào (phân tử? nguyên tử?) cần mô phỏng để tái tạo một ý thức "sống". Hiện tại, công nghệ của con người chưa thể đạt được điều này, nhưng các nhà khoa học đang hướng tới mục tiêu đó và có thể sẽ làm được trong tương lai gần.\r
 `;export{e as default};

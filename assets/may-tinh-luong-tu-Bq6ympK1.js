@@ -1,0 +1,7 @@
+var e=`---\r
+title: May Tinh Luong Tu\r
+date: '2026-08-16'\r
+---\r
+- 2026, máy tính lượng tử siêu dẫn thế hệ thứ tư “Origin Wukong-180” do công ty Origin Quantum của Trung Quốc phát triển đã chính thức đi vào hoạt động và bắt đầu tiếp nhận các tác vụ tính toán lượng tử từ khắp nơi trên thế giới. Máy tính này được trang bị chip lượng tử siêu dẫn đơn nhân 180 qubit, đạt khả năng tính toán lượng tử cấp 100 qubit trên kiến ​​trúc chip đơn. Phiên bản mới đã đạt một bước tiến lớn về công nghệ và sức mạnh tính toán so với phiên bản trước đó.\r
+- 2026, Máy tính lượng tử thương mại Helios (công nghệ bẫy ion, 98 qubit) do công ty Quantinuum của Mỹ phát triển đã đạt độ chính xác logic 99,9995%, chỉ mắc khoảng 5 lỗi trên mỗi triệu phép toán. Tỷ lệ lỗi này thấp hơn 10 lần so với kỷ lục thiết lập vào tháng 9/2026 và vượt trội hơn 100 lần so với kết quả tốt nhất của Google Quantum AI trên phần cứng cạnh tranh. Nhóm nghiên cứu đã áp dụng phương pháp mã màu (color code) kết hợp giải mã bằng AI theo thời gian thực để giảm thiểu tác động từ môi trường (nhiệt độ, từ tính, rung động) vốn dễ gây sai sót cho qubit. Đây là bước đệm quan trọng trong quá trình phát triển Apollo — hệ thống máy tính lượng tử phổ dụng có khả năng chịu lỗi, dự kiến ra mắt vào năm 2029 với quy mô dưới một triệu qubit vật lý.\r
+`;export{e as default};
