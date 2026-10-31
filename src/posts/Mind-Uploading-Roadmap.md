@@ -6,22 +6,7 @@ date: '2026-10-29'
 
 **Phiên bản:** 3.5  
 **Ngày cập nhật:** 30/10/2026  
-**Phạm vi:** Whole Brain Emulation (WBE), khoa học thần kinh tính toán, connectomics, bảo quản mô/dữ liệu thần kinh, kiểm chứng chức năng ngoài mẫu, quản trị rủi ro và thương mại hóa  
 **Trạng thái tài liệu:** Lộ trình nghiên cứu định hướng
-
-> **Luận điểm trung tâm:** Mốc năm 2050 được xác định là *mục tiêu thương mại hóa có điều kiện nghiêm ngặt*, không phải một lời hứa hẹn công nghệ chắc chắn. Một quy trình Mind Uploading hoàn thiện thương mại đòi hỏi sự kết hợp đồng bộ giữa khả năng thu nhận thông tin thần kinh, tái dựng mô hình, mô phỏng chức năng, kiểm chứng độc lập ngoài mẫu, bảo vệ quyền chủ thể và vận hành dịch vụ ổn định. Khả năng bảo đảm ý thức hay sự liên tục của danh tính cá nhân hiện vẫn chưa có phép kiểm chứng được cộng đồng khoa học chấp nhận rộng rãi.
-
----
-
-## Ghi chú phiên bản 3.5
-
-Bản 3.5 là kết quả rà soát thường niên của bản 3.4 (30/10/2027). Những cập nhật chính bao gồm:
-
-- Cập nhật mốc thời gian và trạng thái tài liệu đến 30/10/2028.
-- Bổ sung đánh giá về các tiến bộ thực nghiệm giai đoạn 2027–2028: tiếp tục làm rõ ranh giới giữa việc mở rộng quy mô dữ liệu ảnh cấu trúc (connectomics) và việc suy luận động lực chức năng của synapse.
-- Chuẩn hóa các bộ chỉ số đo lường hiệu năng tính toán và năng lượng cần thiết cho mô phỏng theo hướng thực tế hơn, tránh dùng đơn số FLOPS cố định.
-- Tăng cường tiêu chí giám sát đạo đức đối với nguy cơ tạo ra các mô hình có khả năng trải nghiệm (sentience/suffering risk) ở Giai đoạn IV và V.
-- Tinh chỉnh hệ thống Cổng Go/No-Go (G1–G7) nhằm đảm bảo quy trình kiểm toán độc lập không bị chi phối bởi áp lực thương mại hóa.
 
 ---
 
@@ -87,7 +72,7 @@ Quy trình WBE tiêu chuẩn gồm 7 bước:
 
 ## 3. Điểm xuất phát khoa học và nút thắt cốt lõi
 
-### 3.1 Bằng chứng nền tảng hiện có
+### 3.1 Nền tảng khoa học hiện có
 
 - **Sinh vật nhỏ (*C. elegans*, Ruồi giấm):** Đã lập bản đồ connectome hoàn chỉnh. Mô hình tính toán bước đầu đưa ra được các dự đoán về mạch cảm giác–vận động nhưng chưa giải quyết triệt để mọi cơ chế dẻo thần kinh và điều biến.
 - **Mô hình vỏ não động vật có vú (Chuột - MICrONS):** Ghép nối thành công dữ liệu hoạt động của hàng chục nghìn neuron với ảnh EM trong thể tích cỡ $1\text{ mm}^3$.
@@ -150,7 +135,7 @@ Một dịch vụ WBE cá nhân chỉ được xem là **thương mại hóa ho�
 
 ---
 
-## 6. Bảng ra quyết định Go/No-Go
+## 6. Bảng ra quyết định
 
 | Cổng | Năm | Tăng tốc (Go) khi | Đổi hướng / Dừng (No-Go) khi |
 |---|---|---|---|
@@ -195,7 +180,3 @@ Một dịch vụ WBE cá nhân chỉ được xem là **thương mại hóa ho�
 - **Quy tắc Dừng:** Sẵn sàng đóng cửa hoặc chuyển hướng nhánh nghiên cứu nếu chi phí/rủi ro vượt quá lợi ích khoa học thu được.
 
 ---
-
-## Kết luận
-
-Lộ trình WBE 2050 là một kế hoạch đặt trên nền tảng **khoa học thực nghiệm và quản trị rủi ro nghiêm ngặt**. Tiến trình này không đo bằng sự bùng nổ truyền thông hay kỳ vọng thị trường, mà đo bằng khả năng vượt qua các cổng kiểm thử định lượng. Việc đạt được các mốc trung gian (mô hình vùng não, công cụ sàng lọc dược phẩm, digital twin thần kinh) đã mang lại giá trị vô cùng to lớn cho y học và khoa học, ngay cả khi mục tiêu WBE cá nhân hoàn chỉnh cần nhiều thời gian hơn để đạt tới.

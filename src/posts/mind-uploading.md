@@ -1,5 +1,5 @@
 ---
-title: Tai Len Tam Tri
+title: Mind Uploading
 date: '2026-08-16'
 ---
 - Xuyên suốt lịch sử, nhân loại đã tìm kiếm những cách thức để đạt được sự bất tử. Tuy nhiên, bất chấp thời gian 

@@ -1,5 +1,10 @@
 [
   {
+    "slug": "qubit",
+    "title": "Qubit",
+    "date": "2026-10-31"
+  },
+  {
     "slug": "Mind-Uploading-Roadmap",
     "title": "Mind Uploading Roadmap",
     "date": "2026-10-29"
@@ -600,6 +605,11 @@
     "date": "2026-08-16"
   },
   {
+    "slug": "mind-uploading",
+    "title": "Mind Uploading",
+    "date": "2026-08-16"
+  },
+  {
     "slug": "mo-hinh-tinh-than",
     "title": "Mo Hinh Tinh Than",
     "date": "2026-08-16"
@@ -707,11 +717,6 @@
   {
     "slug": "su-hinh-thanh-vu-tru",
     "title": "Su Hinh Thanh Vu Tru",
-    "date": "2026-08-16"
-  },
-  {
-    "slug": "tai-len-tam-tri",
-    "title": "Tai Len Tam Tri",
     "date": "2026-08-16"
   },
   {
