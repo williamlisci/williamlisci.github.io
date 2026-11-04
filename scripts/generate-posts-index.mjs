@@ -45,43 +45,78 @@ function replaceFrontmatterUpdatedAt(raw, date) {
 	);
 }
 
-function getTrackedPostPaths() {
-	try {
-		return execFileSync(
-			"git",
-			["ls-tree", "-r", "--name-only", "HEAD", "--", "src/posts"],
-			{ encoding: "utf8" },
-		)
-			.split(/\r?\n/)
-			.filter((filePath) => filePath.endsWith(".md"));
-	} catch (error) {
-		console.warn(
-			"Không thể đọc phiên bản Git trước đó; bỏ qua đồng bộ title khi đổi tên file.",
-			error instanceof Error ? error.message : error,
-		);
-		return [];
-	}
-}
-
 function getTrackedPostContents() {
 	const trackedPosts = new Map();
 
-	for (const filePath of getTrackedPostPaths()) {
-		try {
-			const raw = execFileSync("git", ["show", `HEAD:${filePath}`], {
-				encoding: "utf8",
-			});
-			const parsed = matter(raw);
-			trackedPosts.set(filePath, {
-				content: normalizeContent(parsed.content),
-				title: parsed.data.title,
-			});
-		} catch (error) {
-			console.warn(
-				`Không thể đọc bài viết từ Git: ${filePath}`,
-				error instanceof Error ? error.message : error,
-			);
+	try {
+		const entries = execFileSync(
+			"git",
+			["ls-tree", "-r", "-z", "HEAD", "--", "src/posts"],
+			{ encoding: "utf8" },
+		)
+			.split("\0")
+			.filter(Boolean)
+			.map((entry) => {
+				const separator = entry.indexOf("\t");
+				const [objectId] = entry.slice(0, separator).split(" ").slice(-1);
+				return { objectId, filePath: entry.slice(separator + 1) };
+			})
+			.filter(({ filePath }) => filePath.endsWith(".md"));
+
+		if (entries.length === 0) return trackedPosts;
+
+		const pathsByObjectId = new Map();
+		for (const { objectId, filePath } of entries) {
+			const paths = pathsByObjectId.get(objectId) ?? [];
+			paths.push(filePath);
+			pathsByObjectId.set(objectId, paths);
 		}
+
+		const output = execFileSync(
+			"git",
+			["cat-file", "--batch"],
+			{
+				input: `${entries.map(({ objectId }) => objectId).join("\n")}\n`,
+				maxBuffer: 128 * 1024 * 1024,
+			},
+		);
+		let offset = 0;
+
+		while (offset < output.length) {
+			const headerEnd = output.indexOf(10, offset);
+			if (headerEnd === -1) throw new Error("Phản hồi git cat-file không hợp lệ.");
+
+			const [objectId, type, sizeText] = output
+				.subarray(offset, headerEnd)
+				.toString("utf8")
+				.split(" ");
+			const size = Number(sizeText);
+			if (type !== "blob" || !Number.isSafeInteger(size) || size < 0) {
+				throw new Error("Phản hồi git cat-file không hợp lệ.");
+			}
+
+			const contentStart = headerEnd + 1;
+			const contentEnd = contentStart + size;
+			if (output[contentEnd] !== 10) {
+				throw new Error("Nội dung bài viết từ git cat-file không đầy đủ.");
+			}
+
+			const raw = output.subarray(contentStart, contentEnd).toString("utf8");
+			const parsed = matter(raw);
+			for (const filePath of pathsByObjectId.get(objectId) ?? []) {
+				trackedPosts.set(filePath, {
+					content: normalizeContent(parsed.content),
+					title: parsed.data.title,
+				});
+			}
+
+			offset = contentEnd + 1;
+		}
+	} catch (error) {
+		console.warn(
+			"Không thể đọc phiên bản Git trước đó; bỏ qua đồng bộ title và updated_at.",
+			error instanceof Error ? error.message : error,
+		);
 	}
 
 	return trackedPosts;

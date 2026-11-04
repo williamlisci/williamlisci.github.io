@@ -6,13 +6,15 @@
 	"homepage": "https://williamlisci.github.io/",
 	"scripts": {
 		"prebuild": "node scripts/generate-posts-index.mjs",
-		"predev": "node scripts/generate-posts-index.mjs",
+		"predev": "pnpm run normalize-posts",
 		"dev": "vite",
 		"build": "vite build",
 		"lint": "eslint .",
+		"lint:oxlint": "oxlint .",
+		"prepare": "husky",
 		"preview": "vite preview",
 		"normalize-posts": "node scripts/add-frontmatter.mjs && node scripts/convert-latex-delimiters.mjs && node scripts/generate-posts-index.mjs",
-		"predeploy": "pnpm run normalize-posts && pnpm run build",
+		"predeploy": "pnpm run normalize-posts && pnpm exec vite build",
 		"deploy": "gh-pages -d dist"
 	},
 	"dependencies": {
@@ -37,7 +39,6 @@
 		"three": "^0.187.0"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "2.6.5",
 		"@eslint/js": "^10.0.1",
 		"@tailwindcss/typography": "^0.5.20",
 		"@types/react": "^19.3.0",
@@ -51,11 +52,13 @@
 		"gh-pages": "^6.3.0",
 		"globals": "^17.14.0",
 		"gray-matter": "^4.0.3",
+		"husky": "^9.1.7",
+		"oxlint": "^1.91.0",
+		"oxlint-tsgolint": "^7.0.2005",
 		"postcss": "^8.5.32",
 		"prettier": "^3.9.10",
 		"tailwindcss": "^4.3.4",
 		"typescript": "~7.0.2",
-		"typescript-eslint": "^8.72.1",
 		"vite": "^8.3.5"
 	}
 }
