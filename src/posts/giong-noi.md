@@ -1,6 +1,7 @@
 ---
 title: Giong Noi
-date: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'
 ---
 - Giọng nói của con người là một loại nhạc cụ quyền lực bậc nhất trên thế giới. Nó là thứ vũ khí duy nhất sở hữu sức mạnh khơi mào một cuộc chiến tranh, hoặc truyền tải một tình yêu thương sâu sắc. 
 - Theo các nghiên cứu về tâm lý học hành vi, giao tiếp không đơn thuần là quá trình phát ra âm thanh, mà là sự phản chiếu trực tiếp hệ giá trị nội tâm và năng lực kiểm soát cái tôi. \

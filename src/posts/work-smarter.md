@@ -1,6 +1,7 @@
 ---
 title: Work Smarter
-date: '2026-11-02'
+created_at: '2026-11-02'
+updated_at: '2026-11-02'
 ---
 - "Làm việc thông minh hơn, không phải cật lực hơn" (Work Smarter, Not Harder).
 - Người khôn ngoan không chọn cách làm việc cật lực theo cảm tính, mà tối ưu hóa quy trình và công cụ để đạt hiệu suất cao nhất với nỗ lực ít nhất.

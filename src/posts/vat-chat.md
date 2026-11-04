@@ -1,6 +1,7 @@
 ---
 title: Vat Chat
-date: '2026-10-07'
+created_at: '2026-10-07'
+updated_at: '2026-10-07'
 ---
 - Phương trình $E=mc^2$ của Einstein: Công trình này đã đập tan ranh giới tuyệt đối giữa "vật chất" và "năng lượng". Khối lượng thực chất chỉ là một dạng năng lượng cô đọng (được gói gọn lại).
 - các hạt quark cấu tạo nên proton hay neutron chỉ chiếm một phần rất nhỏ khối lượng; phần lớn khối lượng cơ thể chúng ta thực ra đến từ năng lượng động học của các hạt quark và năng lượng liên kết của gluon. Nói cách khác, thứ chúng ta gọi là "vật chất có khối lượng" về bản chất cơ bản được xây dựng từ năng lượng. Những gì chúng ta nhìn thấy là "vật chất" (như electron, quark) thực chất chỉ là các điểm kích thích, các "gợn sóng" hoặc các "nút thắt" năng lượng cô đặc lại bên trong các trường lượng tử. Giống như sóng trên mặt nước không phải là một vật thể độc lập mà chỉ là trạng thái chuyển động của nước, vật chất cũng chỉ là một hình thức biểu hiện của năng lượng.

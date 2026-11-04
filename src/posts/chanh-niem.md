@@ -1,6 +1,7 @@
 ---
 title: Chanh Niem
-date: '2026-09-27'
+created_at: '2026-09-27'
+updated_at: '2026-09-27'
 ---
 - "Niệm có, niệm không là niệm tà, chẳng niệm có không là niệm chánh; niệm thiện, niệm ác là niệm tà, chẳng niệm thiện ác là niệm chánh; cho đến niệm khổ vui, sanh diệt, thủ xả, oán thân, yêu ghét thảy đều là niệm tà, chẳng niệm khổ
 vui… là niệm chánh. " trích từ tác phẩm Đốn Ngộ Nhập Đạo Yếu Môn của Thiền sư Đại Châu Huệ Hải.

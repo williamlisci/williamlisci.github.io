@@ -1,8 +1,8 @@
 ---
 title: Nguon Goc Y Thuc
-date: '2026-09-26'
+created_at: '2026-09-26'
+updated_at: '2026-09-26'
 ---
-
 - Ý thức (consciousness) — là đối tượng nghiên cứu thực nghiệm: đo lường được, có thể quan sát qua hành vi, sóng não, hình ảnh học.
 - Linh hồn (soul) — là khái niệm siêu hình/tôn giáo, nằm ngoài phạm vi kiểm chứng của phương pháp khoa học. Khoa học không "khám phá ra" hay "bác bỏ" linh hồn.
 - Do đó, bài viết dưới đây chỉ nói về ý thức, không phải linh hồn.

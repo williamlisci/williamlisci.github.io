@@ -1,7 +1,7 @@
 /**
  * Script: add-frontmatter.mjs
  * Mục đích: Quét toàn bộ src/posts/*.md, với file NÀO CHƯA CÓ frontmatter
- * thì tự động chèn thêm title (suy từ tên file) + date (ngày hiện tại).
+ * thì tự động chèn thêm title (suy từ tên file) + created_at + updated_at (ngày hiện tại dạng YYYY-MM-DD).
  *
  * File nào đã có frontmatter (bắt đầu bằng "---") sẽ được bỏ qua, không đụng vào.
  *
@@ -20,8 +20,7 @@ import path from "node:path";
 
 const isDryRun = process.argv.includes("--dry-run");
 
-// Chuyển "AI-toan-hoc" -> "Ai Toan Hoc" -> muốn đẹp hơn thì bạn tự sửa tay
-// sau khi sinh, script chỉ tạo giá trị TẠM để không có bài nào bị thiếu title.
+// Chuyển "AI-toan-hoc" -> "Ai Toan Hoc"
 function slugToTitle(slug) {
 	return slug
 		.replace(/-/g, " ")
@@ -30,7 +29,7 @@ function slugToTitle(slug) {
 		.join(" ");
 }
 
-// Ngày hiện tại dạng YYYY-MM-DD, dùng làm date mặc định.
+// Ngày hiện tại dạng YYYY-MM-DD
 function todayISO() {
 	return new Date().toISOString().slice(0, 10);
 }
@@ -61,12 +60,11 @@ async function run() {
 
 		const newFrontmatter = {
 			title: slugToTitle(slug),
-			date: todayISO(),
+			created_at: todayISO(),
+			updated_at: todayISO(),
 		};
 
-		// gray-matter.stringify ghép frontmatter mới + nội dung cũ (parsed.content
-		// là nội dung markdown SAU khi đã tách phần frontmatter cũ nếu có, hoặc
-		// nguyên văn nếu file chưa từng có frontmatter).
+		// gray-matter.stringify ghép frontmatter mới + nội dung cũ
 		const newFileContent = matter.stringify(parsed.content.trimStart(), newFrontmatter);
 
 		if (isDryRun) {

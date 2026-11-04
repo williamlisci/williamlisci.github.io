@@ -1,6 +1,7 @@
 ---
 title: Duong Muu
-date: '2026-10-15'
+created_at: '2026-10-15'
+updated_at: '2026-10-15'
 ---
 - Dương mưu là chiến lược hành động công khai, chính danh, dựa vào quy luật, đạo lý, và sức mạnh hệ thống thay vì dùng mánh khóe lừa lọc. 
 - Quang minh chính đại: Mọi bước đi, mục tiêu đều rõ ràng, không giấu diếm, khiến đối thủ hoặc người xung quanh tâm phục khẩu phục.

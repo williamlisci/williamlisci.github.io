@@ -1,6 +1,7 @@
 ---
 title: Mind Uploading Roadmap
-date: '2026-10-29'
+created_at: '2026-10-29'
+updated_at: '2026-10-29'
 ---
 # Lộ trình nghiên cứu Mind Uploading đến năm 2050
 

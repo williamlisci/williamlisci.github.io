@@ -1,6 +1,7 @@
 ---
 title: AI Robot
-date: '2026-08-16'
+created_at: '2026-08-16'
+updated_at: '2026-08-16'
 ---
 - Với sự tiến bộ của công nghệ và nghiên cứu sâu rộng về trí tuệ nhân tạo, robot AI trong tương lai sẽ không chỉ đơn 
   thuần là những người thực thi các chỉ dẫn được lập trình sẵn, mà còn là những trí tuệ hiện thân sở hữu khả năng 

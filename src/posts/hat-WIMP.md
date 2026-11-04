@@ -1,6 +1,7 @@
 ---
 title: Hat WIMP
-date: '2026-09-20'
+created_at: '2026-09-20'
+updated_at: '2026-09-20'
 ---
 ## 1. Một vũ trụ thiếu hụt khối lượng
 

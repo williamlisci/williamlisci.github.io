@@ -1,6 +1,7 @@
 ---
 title: Nang Luc Du Doan
-date: '2026-09-27'
+created_at: '2026-09-27'
+updated_at: '2026-09-27'
 ---
 - Năng lực dự đoán đóng vai trò vô cùng quan trọng trong giải toán
 - Mở đường và định hướng lời giải: Khi đứng trước một bài toán khó, bạn thường không thể nhìn thấy ngay con đường chứng minh hoàn chỉnh. Năng lực dự đoán giúp bạn hình thành giả thuyết (conjecture) để biết mình nên đi theo hướng nào.

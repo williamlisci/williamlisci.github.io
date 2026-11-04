@@ -1,8 +1,8 @@
 ---
 title: Cac Loai Lo Phan Ung Hat Nhan
-date: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'
 ---
-
 Lò phản ứng phân hạch được phân loại chủ yếu dựa vào **năng lượng neutron** duy trì phản ứng dây chuyền: lò phản ứng nhiệt (neutron chậm) và lò phản ứng neutron nhanh.
 
 ## 1. Lò phản ứng nhiệt (phổ biến nhất)

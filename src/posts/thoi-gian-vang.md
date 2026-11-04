@@ -1,6 +1,7 @@
 ---
 title: Thoi Gian Vang
-date: '2026-10-29'
+created_at: '2026-10-29'
+updated_at: '2026-10-29'
 ---
 Giai đoạn từ 20 đến 50 tuổi chính là **"thời điểm vàng"** mang tính quyết định, nơi mỗi người phải chạy đua với thời gian bằng tinh thần khẩn trương cao độ để kiến tạo sự nghiệp, tích lũy tài sản và khẳng định vị thế bản thân.
 

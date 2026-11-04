@@ -1,6 +1,7 @@
 ---
 title: Tu Duy Sau
-date: '2026-08-16'
+created_at: '2026-08-16'
+updated_at: '2026-08-16'
 ---
 - Độ sâu của tư duy quyết định độ rộng của đường đời.  TS LTD.
 - càng đa nhiệm càng khó tư duy sâu.

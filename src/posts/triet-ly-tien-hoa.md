@@ -1,6 +1,7 @@
 ---
 title: Triet Ly Tien Hoa
-date: '2026-10-27'
+created_at: '2026-10-27'
+updated_at: '2026-10-27'
 ---
 - liên tục tự phủ định chính mình để tiến hóa.
 - "Phủ định" dễ bị nhầm là tiêu cực, là xóa bỏ hoàn toàn quá khứ hoặc chối bỏ những gì đã làm. Trong tiến hóa, một sinh vật muốn thích nghi với môi trường mới thì không thể giữ nguyên hình hài cũ. Tự phủ định ở đây có nghĩa là dám tự tay đập bỏ những thành công cũ, mô hình cũ hoặc tư duy cũ của chính mình trước khi bị đối thủ hoặc thị trường ép phải làm điều đó.

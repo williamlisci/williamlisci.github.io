@@ -1,6 +1,7 @@
 ---
 title: Nha May Dien Hat Nhan
-date: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'
 ---
 # 1. Lịch sử nhà máy điện hạt nhân — nước nào xây đầu tiên?
 

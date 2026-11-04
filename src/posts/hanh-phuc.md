@@ -1,6 +1,7 @@
 ---
 title: Hanh Phuc
-date: '2026-09-18'
+created_at: '2026-09-18'
+updated_at: '2026-09-18'
 ---
 - con người đôi khi không đau khổ vì hoàn cảnh hiện tại, mà vì liên tục đối chiếu, so sánh hoàn cảnh hiện tại với một phiên bản thực tại “lý tưởng”.
 - “hạnh phúc” đôi khi là khả năng chịu đựng tính bất toàn của thực tại. vì thực tại không bao giờ đạt trạng thái tối ưu hoàn toàn.

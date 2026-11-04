@@ -1,6 +1,7 @@
 ---
 title: Nguyen Tac Khach Quan
-date: '2026-08-16'
+created_at: '2026-08-16'
+updated_at: '2026-08-16'
 ---
 - Nhìn thẳng vào sự thật, đánh giá đúng sự thật.
 - Tôn trọng hiện thực, không lấy ý chí chủ quan để áp đặt, thay thế cho bản chất của sự vật, sự việc.

@@ -1,6 +1,7 @@
 ---
 title: Y Nghia Ten Goi
-date: '2026-10-27'
+created_at: '2026-10-27'
+updated_at: '2026-10-27'
 ---
 - Tên gọi **Cambricon** (tên tiếng Trung: **寒武纪** - Hán Việt: *Hàn Vũ Kỷ*) của công ty chuyên về chip trí tuệ nhân tạo (AI) này mang một ý nghĩa biểu tượng rất sâu sắc, được ghép từ hai thành phần chính:
 

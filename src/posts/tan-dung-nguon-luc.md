@@ -1,6 +1,7 @@
 ---
 title: Tan Dung Nguon Luc
-date: '2026-09-22'
+created_at: '2026-09-22'
+updated_at: '2026-09-22'
 ---
 - “Với những gì đang có, tôi có thể tiến được bao xa?”
 - Một trong những trở ngại lớn nhất của con người là tâm lý trì hoãn hành động cho đến khi điều kiện đủ tốt. Vấn đề là “hoàn cảnh hoàn hảo” gần như không tồn tại. Hãy hành động với nguồn lực hiện có, sau đó dùng kết quả của hành động để tạo thêm nguồn lực.

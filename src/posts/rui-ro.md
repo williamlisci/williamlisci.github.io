@@ -1,6 +1,7 @@
 ---
-title: du phong Rui Ro
-date: '2026-08-16'
+title: Rui Ro
+created_at: '2026-08-16'
+updated_at: '2026-08-16'
 ---
 - Nếu biết trước nơi mình sẽ chết, đừng đến đó.
 - Dự phòng rủi ro vì cuộc sống là sự vô thường. 

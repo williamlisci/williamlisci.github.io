@@ -1,6 +1,7 @@
 ---
 title: Tich Phan
-date: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'
 ---
 # Lịch sử nghiên cứu và Ứng dụng của Tích phân
 

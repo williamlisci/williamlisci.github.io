@@ -1,6 +1,7 @@
 ---
 title: Chet Tam
-date: '2026-10-27'
+created_at: '2026-10-27'
+updated_at: '2026-10-27'
 ---
 - "Chết tâm" (chết về tâm tưởng) là gì?
 Đây không phải là cái chết sinh học của cơ thể, mà là trạng thái tâm hồn nguội lạnh, mất đi ý chí, hy vọng, và nhiệt huyết sống. Khi một người "chết tâm", họ buông xuôi tất cả, sống dật dờ không mục đích, không còn cảm thấy háo hức hay trăn trở về bất cứ điều gì.

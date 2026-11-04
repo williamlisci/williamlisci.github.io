@@ -1,6 +1,7 @@
 ---
 title: Cat Tia Than Kinh
-date: '2026-10-15'
+created_at: '2026-10-15'
+updated_at: '2026-10-15'
 ---
 - Cắt tỉa thần kinh: Để tư duy trở nên sắc bén, não bộ thực hiện một quá trình gọi là cắt tỉa khớp thần kinh. Những kết nối yếu, ít dữ liệu hoặc không còn sử dụng sẽ bị xóa bỏ. Nếu não bộ giữ lại tất cả các kết nối mà nó tạo ra, bạn sẽ rơi vào trạng thái quá tải thông tin, suy nghĩ hỗn loạn và không thể tập trung.
 - Tối ưu hóa "tuyến đường": Những kết nối được sử dụng lặp đi lặp lại sẽ được củng cố bằng một lớp vỏ bảo vệ gọi là Myelin (giống như bọc nhựa vào dây điện). Lớp vỏ này giúp tín hiệu thần kinh chạy nhanh gấp 100 lần.

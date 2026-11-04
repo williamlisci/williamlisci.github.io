@@ -1,0 +1,1 @@
+- Hãy chạy  pnpm run dev  trước khi commit. Script so sánh file với  HEAD , nên chạy trước sẽ nhận ra thay đổi chưa commit và cập nhật  updated_at ; sau đó kiểm tra file rồi commit cả nội dung lẫn frontmatter. Nếu commit trước, thay đổi sẽ không còn khác  HEAD  và script có thể không nhận ra.

@@ -1,6 +1,7 @@
 ---
 title: Thuyet Phap
-date: '2026-09-27'
+created_at: '2026-09-27'
+updated_at: '2026-09-27'
 ---
 - "Không pháp có thể thuyết, ấy gọi là thuyết pháp" - Kinh Kim Cang.
 - "Không pháp có thể thuyết" (Thể của Bát-nhã): Bản thể của Bát-nhã (trí tuệ thanh tịnh) hoàn toàn trống rỗng, thanh tịnh, không có một hình tướng hay khái niệm cụ thể nào để nắm bắt hay dùng lời nói mô tả trọn vẹn.

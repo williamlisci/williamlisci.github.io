@@ -1,6 +1,7 @@
 ---
 title: AI Lap Trinh
-date: '2026-08-25'
+created_at: '2026-08-25'
+updated_at: '2026-08-25'
 ---
 - Lập trình không dùng AI thì tốn calo, còn dùng AI thì tốn token :)
 - Chỉnh sửa file trực tiếp:  Trên macOS và Windows, ứng dụng ChatGPT có thể kết nối trực tiếp với các phần mềm như VS Code hoặc JetBrains để đọc và sửa file mã nguồn mà không cần bạn phải copy và paste thủ công. ngoài ra, bạn có thể mở một thư mục cụ thể trên máy tính vào ứng dụng ChatGPT để AI tìm kiếm, đọc và chỉnh sửa các tài liệu bên trong đó.

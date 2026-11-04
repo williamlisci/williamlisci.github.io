@@ -1,6 +1,7 @@
 ---
 title: Hoi Tuong Chu Dong
-date: '2026-08-25'
+created_at: '2026-08-25'
+updated_at: '2026-08-25'
 ---
 - Hồi tưởng chủ động (Active Recall) là phương pháp ép buộc não bộ phải chủ động tìm kiếm và rút xuất thông tin từ trong trí nhớ, thay vì chỉ tiếp nhận thông tin một cách thụ động.
 - Tạo đường mòn thần kinh: Mỗi lần bạn cố gắng nhớ lại một kiến thức, các synapse (khớp thần kinh) giữa các tế bào não được kích hoạt. Việc này giống như việc bạn đi bộ trên một bãi cỏ; đi càng nhiều lần, lối mòn càng rõ ràng và sau này bạn tìm đường càng nhanh.

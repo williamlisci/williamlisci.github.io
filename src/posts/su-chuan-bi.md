@@ -1,6 +1,7 @@
 ---
 title: Su Chuan Bi
-date: '2026-10-26'
+created_at: '2026-10-26'
+updated_at: '2026-10-26'
 ---
 - Chuẩn bị tốt tạo ra sự tự tin có cơ sở
 - Chuẩn bị nhiều nhưng chỉ luyện tập trong điều kiện dễ dàng có thể tạo ra sự tự tin quá mức khi gặp tình huống thực tế phức tạp.

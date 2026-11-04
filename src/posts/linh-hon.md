@@ -1,6 +1,7 @@
 ---
 title: Linh Hon
-date: '2026-10-24'
+created_at: '2026-10-24'
+updated_at: '2026-10-24'
 ---
 - Linh hồn con người đến từ hư vô. thân xác con người là các nguyên tử vay mượn từ vũ trụ. 
 - Mọi nguyên tử Carbon trong tế bào, Calcium trong xương, hay Iron (Sắt) trong máu của chúng ta không tự nhiên sinh ra. Chúng được luyện thành bên trong lõi của những ngôi sao lớn thông qua phản ứng hạt nhân, rồi phát nổ văng vào không gian (siêu tân tinh - supernova). Nhà thiên văn học Carl Sagan từng nói một câu nổi tiếng: "Chúng ta được làm từ chất liệu của các ngôi sao" (We are made of star-stuff).

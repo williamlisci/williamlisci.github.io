@@ -1,6 +1,7 @@
 ---
 title: Ngon Ngu Chuyen Nganh
-date: '2026-09-25'
+created_at: '2026-09-25'
+updated_at: '2026-09-25'
 ---
 - muốn giỏi lĩnh vực nào, bạn phải tập luyện cho bộ não thích nghi với ngôn ngữ chuyên ngành của lĩnh vực đó.
 - Khi bạn bắt đầu học một lĩnh vực mới, rào cản lớn nhất không phải là tư duy, mà chính là ngôn ngữ chuyên ngành (jargon). 

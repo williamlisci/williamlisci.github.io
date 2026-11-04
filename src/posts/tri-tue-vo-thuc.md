@@ -1,6 +1,7 @@
 ---
 title: Tri Tue Vo Thuc
-date: '2026-08-16'
+created_at: '2026-08-16'
+updated_at: '2026-08-16'
 ---
 - môi trường sống của bạn, những tiếng ồn xung quanh bạn sẽ tác động trực tiếp vào tầng vô thức trong tâm trí của bạn, từ đó định hình tư duy và vận mệnh của cuộc đời bạn. không ai giống ai tùy độ nhạy mỗi người.
 - William James Sidis (người được mệnh danh là thông minh nhất lịch sử loài người với chỉ số IQ ước tính 250–300) từng viết một bài luận ngắn mang tên "The Unconscious Intelligence" (Trí tuệ vô thức). Trong đó, ông đưa ra góc nhìn cá nhân kết hợp giữa trải nghiệm thực tế và lý thuyết tâm lý học để giải thích cách "trí tuệ vô thức" có thể giải quyết các vấn đề phức tạp nhanh hơn ý thức. Quan điểm của William James Sidis về trí tuệ vô thức tập trung vào các ý chính sau.

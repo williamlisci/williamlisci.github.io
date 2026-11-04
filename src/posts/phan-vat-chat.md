@@ -1,8 +1,8 @@
 ---
 title: Phan Vat Chat
-date: '2026-09-19'
+created_at: '2026-09-19'
+updated_at: '2026-09-19'
 ---
-
 Mỗi hạt vật chất đều có một "bản sao" mang điện tích ngược lại, gọi là **phản hạt**. Phản hạt của electron là positron, của proton là phản proton. Khi một hạt gặp phản hạt của nó, cả hai **triệt tiêu** và biến thành năng lượng theo công thức nổi tiếng $E = mc^2$, chủ yếu dưới dạng tia gamma.
 
 Dirac dự đoán nó về mặt lý thuyết năm 1928, và Anderson tìm thấy positron năm 1932. Ngày nay bạn còn gặp nó trong bệnh viện: máy chụp PET dùng chính positron để chụp ảnh cơ thể.

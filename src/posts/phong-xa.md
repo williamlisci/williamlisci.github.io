@@ -1,6 +1,7 @@
 ---
 title: Phong Xa
-date: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'
 ---
 - Mức phóng xạ nền trung bình trên thế giới là khoảng 2,4 mSv (milisievert - đơn vị đo liều lượng bức xạ) mỗi năm.
 - Mức bức xạ 0.1 - 0.2 mSv, tương đương Một lần chụp X-quang phổi thông thường.

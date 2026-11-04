@@ -1,5 +1,6 @@
 ---
 title: Nghien Cuu Khoa Hoc
-date: '2026-08-16'
+created_at: '2026-08-16'
+updated_at: '2026-08-16'
 ---
 - khoa học không chỉ tiến lên bằng những kết quả thuận lợi. Đôi khi, chính các "ngõ cụt" trong nghiên cứu lại là tín hiệu để nhà khoa học tìm kiếm con đường khác.

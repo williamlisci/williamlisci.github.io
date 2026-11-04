@@ -1,6 +1,7 @@
 ---
 title: Su Can Than
-date: '2026-10-26'
+created_at: '2026-10-26'
+updated_at: '2026-10-26'
 ---
 - Sai một ly, đi một dặm
 -  Có những phương trình toán học rất nhạy cảm với điều kiện ban đầu. Nếu bạn tính toán quỹ đạo bay của một tên lửa vũ trụ. Nếu góc bắn chỉ lệch 0,001 độ (sai một ly), thì sau khi bay hàng triệu cây số vào không gian, con tàu sẽ bay lệch khỏi hành tinh đích hàng vạn cây số (đi một dặm).

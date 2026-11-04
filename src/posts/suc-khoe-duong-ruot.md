@@ -1,6 +1,7 @@
 ---
 title: Suc Khoe Duong Ruot
-date: '2026-09-18'
+created_at: '2026-09-18'
+updated_at: '2026-09-18'
 ---
 - Hệ đường ruột khỏe mạnh là nền tảng cốt lõi quyết định 70–80% sức đề kháng và hiệu quả hấp thu dinh dưỡng để tăng cân bền vững.
 - Sản xuất kháng thể: Lợi khuẩn đường ruột kích thích sản xuất kháng thể IgA và đại thực bào giúp ngăn chặn virus, vi khuẩn xâm nhập.

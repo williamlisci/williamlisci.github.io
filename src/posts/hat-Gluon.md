@@ -1,6 +1,7 @@
 ---
 title: Hat Gluon
-date: '2026-09-20'
+created_at: '2026-09-20'
+updated_at: '2026-09-20'
 ---
 # Gluon: Hạt "keo" không khối lượng nhưng tạo ra khối lượng của chúng ta
 

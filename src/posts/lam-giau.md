@@ -1,6 +1,7 @@
 ---
 title: Lam Giau
-date: '2026-08-16'
+created_at: '2026-08-16'
+updated_at: '2026-08-16'
 ---
 - giá trị thặng dư là phần giá trị dôi ra ngoài giá trị sức lao động do người lao động tạo ra nhưng bị chủ tư bản chiếm đoạt.
 - Yếu tố tạo nên sự khác biệt giữa người giàu và người nghèo là tốc độ tích lũy giá trị thặng dư.

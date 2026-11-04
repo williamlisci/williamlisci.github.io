@@ -1,6 +1,7 @@
 ---
 title: Tu Hoc
-date: '2026-08-16'
+created_at: '2026-08-16'
+updated_at: '2026-08-16'
 ---
 - Làn sóng AI bùng nổ đã mở ra cơ hội chưa từng có cho những người không có bằng cấp chính quy, chỉ bằng cách sử dụng chính AI làm gia sư và tự xây dựng dự án thực tế để lọt vào mắt xanh của các ông lớn công nghệ.
 - phương pháp tốt để học cùng AI là "Recursive gap filling" (Lấp đầy khoảng trống đệ quy).

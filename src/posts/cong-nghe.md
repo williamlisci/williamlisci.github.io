@@ -1,6 +1,7 @@
 ---
 title: Cong Nghe
-date: '2026-08-25'
+created_at: '2026-08-25'
+updated_at: '2026-08-25'
 ---
 - mục đích cuối cùng của công nghệ là mở rộng năng lực con người, giúp họ suy nghĩ sâu sắc hơn và hành động nhanh hơn.
 - Công nghệ vận hành dựa trên các định luật vật lý, toán học và logic. công nghệ giải mã bí mật của tự nhiên để phục vụ con người.

@@ -21,6 +21,30 @@ function normalizeContent(content) {
 	return content.replace(/\r\n/g, "\n").trim();
 }
 
+function getDateValue(value) {
+	if (value instanceof Date) {
+		return value.toISOString().slice(0, 10);
+	}
+
+	return typeof value === "string" ? value : null;
+}
+
+function replaceFrontmatterUpdatedAt(raw, date) {
+	const frontmatter = raw.match(/^(---\r?\n)([\s\S]*?)(\r?\n---(?:\r?\n|$))/);
+	if (!frontmatter) return raw;
+
+	const newline = raw.includes("\r\n") ? "\r\n" : "\n";
+	const updatedAtLine = /^updated_at:\s*.*$/m;
+	const content = updatedAtLine.test(frontmatter[2])
+		? frontmatter[2].replace(updatedAtLine, `updated_at: '${date}'`)
+		: `${frontmatter[2]}${newline}updated_at: '${date}'`;
+
+	return raw.replace(
+		frontmatter[0],
+		`${frontmatter[1]}${content}${frontmatter[3]}`,
+	);
+}
+
 function getTrackedPostPaths() {
 	try {
 		return execFileSync(
@@ -74,8 +98,7 @@ function replaceFrontmatterTitle(raw, title) {
 	return raw.replace(titleLine, `title: ${safeTitle}`);
 }
 
-function syncRenamedPostTitles(postFiles) {
-	const trackedPosts = getTrackedPostContents();
+function syncRenamedPostTitles(postFiles, trackedPosts) {
 	if (trackedPosts.size === 0) return;
 
 	const trackedPaths = new Set(trackedPosts.keys());
@@ -112,7 +135,39 @@ function syncRenamedPostTitles(postFiles) {
 	}
 }
 
-syncRenamedPostTitles(files);
+function syncUpdatedAt(postFiles, trackedPosts) {
+	const today = new Date().toISOString().slice(0, 10);
+
+	for (const filePath of postFiles) {
+		const trackedPost = trackedPosts.get(filePath);
+		if (!trackedPost) continue;
+
+		const raw = fs.readFileSync(filePath, "utf8");
+		const parsed = matter(raw);
+		if (normalizeContent(parsed.content) === trackedPost.content) continue;
+
+		const updatedAt = getDateValue(parsed.data.updated_at);
+		const modifiedAt = fs.statSync(filePath).mtime.toISOString().slice(0, 10);
+		if (updatedAt && updatedAt >= modifiedAt) continue;
+
+		const updatedRaw = replaceFrontmatterUpdatedAt(raw, today);
+		if (updatedRaw === raw) {
+			console.warn(`Không thể cập nhật updated_at vì thiếu frontmatter: ${filePath}`);
+			continue;
+		}
+
+		fs.writeFileSync(filePath, updatedRaw, "utf8");
+		console.log(`Đã cập nhật updated_at: ${filePath} -> ${today}`);
+	}
+}
+
+const isIndexOnly = process.argv.includes("--index-only");
+const trackedPosts = isIndexOnly ? new Map() : getTrackedPostContents();
+
+if (!isIndexOnly) {
+	syncRenamedPostTitles(files, trackedPosts);
+	syncUpdatedAt(files, trackedPosts);
+}
 
 const posts = files.map((filePath) => {
 	const raw = fs.readFileSync(filePath, "utf-8");
@@ -122,11 +177,16 @@ const posts = files.map((filePath) => {
 	return {
 		slug,
 		title: data.title || slugToTitle(slug),
-		date: data.date || null,
+		created_at: getDateValue(data.created_at),
+		updated_at: getDateValue(data.updated_at),
 	};
 });
 
-posts.sort((a, b) => (b.date || "").localeCompare(a.date || ""));
+posts.sort((a, b) =>
+	(b.updated_at || b.created_at || "").localeCompare(
+		a.updated_at || a.created_at || "",
+	),
+);
 
 fs.writeFileSync(
 	"src/posts-index.json",

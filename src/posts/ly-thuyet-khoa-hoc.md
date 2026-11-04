@@ -1,6 +1,7 @@
 ---
 title: Ly Thuyet Khoa Hoc
-date: '2026-09-19'
+created_at: '2026-09-19'
+updated_at: '2026-09-19'
 ---
 - Lý thuyết khoa học bắt buộc phải được kiểm chứng bằng thực nghiệm hoặc quan sát thực tế để xác định tính đúng đắn và độ tin cậy
 - Thực nghiệm là thước đo khách quan nhất để khẳng định một giả thuyết hay lý thuyết là đúng hay sai.

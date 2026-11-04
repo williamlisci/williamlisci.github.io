@@ -1,6 +1,7 @@
 ---
 title: Qudit
-date: '2026-11-02'
+created_at: '2026-11-02'
+updated_at: '2026-11-02'
 ---
 # Qudit
 

@@ -1,6 +1,7 @@
 ---
 title: Y Nghia Cuoc Song
-date: '2026-10-15'
+created_at: '2026-10-15'
+updated_at: '2026-10-15'
 ---
 - Triết gia Marcus Aurelius từng nói: điều đáng sợ không phải là cái chết, mà là việc chưa từng bắt đầu sống.
 - Cái chết là điểm dừng cuối cùng của sinh học, nhưng hy vọng vào một tương lai tươi sáng vẫn tồn tại vì ý nghĩa của cuộc sống nằm ở quá trình trải nghiệm, chứ không phải ở cái kết.

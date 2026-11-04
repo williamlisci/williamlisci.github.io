@@ -1,6 +1,7 @@
 ---
 title: Dao
-date: '2026-08-16'
+created_at: '2026-08-16'
+updated_at: '2026-08-16'
 ---
 - Trang Tử trong "Tiêu dao du" kể câu chuyện nổi tiếng:
 - Con chim Cưu và con chim Học (nhỏ) chế nhạo chim Bằng vì chim Bằng bay xa vạn dặm. Trang Tử không phán ai đúng sai, mà nói: mỗi loài có "phận" riêng, có "tính" riêng – con chim nhỏ không cần cố thành chim Bằng, chim Bằng cũng không hạ mình làm chim nhỏ. Sống đúng tính trời phú cho mình, đó là Đạo.

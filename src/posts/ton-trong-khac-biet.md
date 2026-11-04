@@ -1,6 +1,7 @@
 ---
 title: Ton Trong Khac Biet
-date: '2026-09-28'
+created_at: '2026-09-28'
+updated_at: '2026-09-28'
 ---
 - người Trung Quốc có câu: 求同存异. Dịch: "Cầu đồng tồn dị" (Tìm kiếm sự đồng điệu nhưng tôn trọng sự khác biệt).
 - Ưu tiên điểm tương đồng để hợp tác (Cầu đồng): Nhìn vào những mục tiêu lớn, lợi ích chung hoặc giá trị chia sẻ để làm nền tảng xây dựng mối quan hệ, giải quyết xung đột và cùng nhau phát triển.

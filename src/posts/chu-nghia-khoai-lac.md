@@ -1,6 +1,7 @@
 ---
 title: Chu Nghia Khoai Lac
-date: '2026-10-24'
+created_at: '2026-10-24'
+updated_at: '2026-10-24'
 ---
 - Chủ nghĩa khoái lạc (Hedonism) là hệ thống triết lý cho rằng việc mưu cầu lạc thú (niềm vui, sự sung sướng) và tránh né khổ đau là mục đích cao nhất và là thước đo chuẩn mực cho cuộc sống.
 - Từ "hedonism" bắt nguồn từ tiếng Hy Lạp hedone (có nghĩa là "sự vui sướng"). Triết lý này xem lạc thú là giá trị nội tại tốt đẹp duy nhất, còn nỗi đau là điều xấu xa duy nhất.

@@ -1,6 +1,7 @@
 ---
 title: Su Co Hat Nhan
-date: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'
 ---
 ## Ba sự cố hạt nhân nổi tiếng
 

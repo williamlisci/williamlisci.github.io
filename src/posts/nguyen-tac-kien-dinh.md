@@ -1,6 +1,7 @@
 ---
 title: Nguyen Tac Kien Dinh
-date: '2026-09-28'
+created_at: '2026-09-28'
+updated_at: '2026-09-28'
 ---
 - "Tha cường nhậm tha cường, thanh phong phất sơn cương.
 Tha hoành nhậm tha hoành, minh nguyệt chiếu đại giang."

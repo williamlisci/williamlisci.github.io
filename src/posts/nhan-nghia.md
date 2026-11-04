@@ -1,6 +1,7 @@
 ---
 title: Nhan Nghia
-date: '2026-09-28'
+created_at: '2026-09-28'
+updated_at: '2026-09-28'
 ---
 - Câu nói "Bất thi nhân nghĩa, tắc cường nhược dị vị" (不施仁义，则强弱异位) xuất phát từ bài thiên cổ hùng văn "Quá Tần Luận" (Bài luận về cái sai của nhà Tần) do danh sĩ Cổ Nghị (Tư Mã Thiên ghi lại trong Sử Ký) thời Hán sáng tác.
 - Tạm dịch: "Nếu không thực thi nhân nghĩa, vị thế của kẻ mạnh và kẻ yếu sẽ hoán đổi cho nhau."

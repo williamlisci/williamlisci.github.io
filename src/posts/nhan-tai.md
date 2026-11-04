@@ -1,6 +1,7 @@
 ---
 title: Nhan Tai
-date: '2026-08-16'
+created_at: '2026-08-16'
+updated_at: '2026-08-16'
 ---
 - cuộc đua AI thường được mô tả như cuộc cạnh tranh về sức mạnh tính toán. Công ty nào sở hữu nhiều GPU hơn, xây 
   được nhiều trung tâm dữ liệu hơn và chi nhiều tiền hơn sẽ có lợi thế. Thế nhưng GPU có thể mua thêm, trung tâm dữ 

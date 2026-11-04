@@ -1,6 +1,7 @@
 ---
 title: Su Song
-date: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
 ---
 - "Entropy âm" hay negentropy (entropy âm/đối lập entropy) là khái niệm do nhà vật lý Erwin Schrödinger đề xuất trong cuốn sách nổi tiếng “What is Life?” (1944) nhằm giải thích cách sinh vật duy trì sự sống đi ngược lại với các định luật nhiệt động lực học thông thường. 
 - Entropy là đại lượng đặc trưng cho mức độ hỗn loạn, mất trật tự của một hệ. Ngược lại, negentropy (entropy âm) đại diện cho mức độ trật tự, tổ chức và thông tin cao. Theo Định luật II Nhiệt động lực học, mọi hệ kín đều có xu hướng dịch chuyển từ trật tự sang hỗn loạn (entropy luôn tăng). Tuy nhiên, cơ thể sinh vật lại là một hệ mở, luôn duy trì được cấu trúc có trật tự rất cao.  

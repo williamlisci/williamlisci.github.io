@@ -1,6 +1,7 @@
 ---
 title: Suy Luan Trong Khong Gian Tiem An
-date: '2026-09-07'
+created_at: '2026-09-07'
+updated_at: '2026-09-07'
 ---
 - Suy luận trong không gian tiềm ẩn (Latent Space Reasoning) là một kỹ thuật sử dụng trạng thái ẩn cuối cùng của mô hình làm biểu diễn cho trạng thái suy luận (gọi là "continuous thought"), thay vì giải mã trạng thái đó thành một token từ, nó được đưa thẳng trở lại mô hình làm embedding đầu vào cho bước tiếp theo, ngay trong không gian liên tục. các mô hình ngôn ngữ lớn thường bị giới hạn suy luận trong không gian ngôn ngữ, biểu đạt quá trình suy luận qua chuỗi chain-of-thought bằng ngôn ngữ, nhưng không gian ngôn ngữ không phải lúc nào cũng tối ưu cho việc suy luận. 
 - Yann LeCun: Với hướng tiếp cận JEPA (Joint Embedding Predictive Architecture), LeCun theo đuổi quan điểm rằng AI thế hệ mới nên xây dựng các mô hình nội tại của thế giới (world models) và thực hiện dự đoán, suy luận và lập kế hoạch trên các biểu diễn trừu tượng trong không gian tiềm ẩn, chứ không phải không gian token.

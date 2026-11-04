@@ -1,6 +1,7 @@
 ---
 title: Tu Duy Hinh Anh
-date: '2026-10-02'
+created_at: '2026-10-02'
+updated_at: '2026-10-02'
 ---
 - Tư duy hình ảnh là khả năng chuyển hóa văn bản, ký hiệu trừu tượng thành hình ảnh, mô hình trực quan trong tâm trí. 
 - Trong khoa học nhận thức, mental imagery – hình ảnh tinh thần là khả năng tạo ra một biểu diễn nội tại của một đối tượng, cảnh vật hoặc sự kiện khi kích thích cảm giác tương ứng không hiện diện trực tiếp.

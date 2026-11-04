@@ -13,7 +13,8 @@ import {
 interface Post {
   slug: string;
   title: string;
-  date: string | null;
+  created_at: string | null;
+  updated_at: string | null;
 }
 
 const posts = postsIndex as Post[];
@@ -60,7 +61,10 @@ const PostList: React.FC = () => {
   return (
     <div className="min-h-screen bg-black text-white py-12 px-6">
       <div className="max-w-3xl mx-auto">
-        <SiteIntro totalPosts={posts.length} latestDate={posts[0]?.date ?? null} />
+        <SiteIntro
+          totalPosts={posts.length}
+          latestUpdatedAt={posts[0]?.updated_at ?? posts[0]?.created_at ?? null}
+        />
 
         <div className="mb-8">
           <label htmlFor="post-search" className="sr-only">
@@ -108,9 +112,9 @@ const PostList: React.FC = () => {
                   <span className="text-xl group-hover:text-cyan-400 transition-colors">
                     {post.title}
                   </span>
-                  {post.date && (
+                  {(post.updated_at || post.created_at) && (
                     <span className="block text-sm text-gray-500 mt-1">
-                      {post.date}
+                      {post.updated_at || post.created_at}
                     </span>
                   )}
                 </Link>

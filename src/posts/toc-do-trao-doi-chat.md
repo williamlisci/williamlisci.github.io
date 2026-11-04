@@ -1,6 +1,7 @@
 ---
-title: Toc do trao doi chat
-date: '2026-08-17'
+title: Toc Do Trao Doi Chat
+created_at: '2026-08-17'
+updated_at: '2026-08-17'
 ---
 - Các loài động vật ngủ đông có tuổi thọ cao vượt trội vì quá trình lão hóa sinh học và đồng hồ biểu sinh gần như bị "đóng băng" hoặc chậm lại rõ rệt trong thời gian này. Khi hạ thân nhiệt và giảm trao đổi chất xuống mức tối thiểu, tế bào ít bị tổn thương, hạn chế gốc tự do và giảm hao mòn cơ thể.
 - Giảm trao đổi chất mạnh mẽ: Nhịp tim, nhịp thở và năng lượng tiêu hao giảm từ 90% đến 98%, giúp các cơ quan nội tạng "nghỉ ngơi" dài hạn.

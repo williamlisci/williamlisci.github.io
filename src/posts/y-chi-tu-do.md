@@ -1,6 +1,7 @@
 ---
 title: Y Chi Tu Do
-date: '2026-09-23'
+created_at: '2026-09-23'
+updated_at: '2026-09-23'
 ---
 - trên đời này không gì đáng sợ bằng ý chí tự do của con người.
 - Ý chí tự do là khả năng con người tự đưa ra quyết định và hành động theo mong muốn của bản thân. Tuy nhiên, trong đời sống xã hội, ý chí tự do bắt buộc phải bị giới hạn bởi pháp luật và các quy tắc đạo đức.

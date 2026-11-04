@@ -1,6 +1,7 @@
 ---
 title: Phuong Phap Hoc
-date: '2026-10-15'
+created_at: '2026-10-15'
+updated_at: '2026-10-15'
 ---
 - phương pháp học tốt nhất là chủ động mắc lỗi. thà mắc lỗi ở thao trường còn hơn mắc lỗi ở chiến trường.
 - Thao trường (Môi trường giả lập/thử nghiệm): Là nơi an toàn để bạn thử nghiệm, va vấp, sai sót và đứng lên. Mỗi lỗi lầm ở đây giúp bạn nhận ra điểm yếu, rút ra bài học mà không phải trả giá bằng hậu quả nặng nề. 

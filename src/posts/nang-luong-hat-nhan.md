@@ -1,6 +1,7 @@
 ---
 title: Nang Luong Hat Nhan
-date: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'
 ---
 - Năng lượng hạt nhân: Là dạng năng lượng tiềm ẩn bên trong hạt nhân nguyên tử được giải phóng dưới dạng nhiệt và bức xạ thông qua quá trình phân hạch, tổng hợp hoặc phân rã phóng xạ
  - Nhiên liệu hóa thạch giải phóng năng lượng qua phản ứng hóa học (đốt cháy — phá vỡ liên kết giữa các nguyên tử). Hạt nhân giải phóng năng lượng qua phản ứng hạt nhân (phân hạch — phá vỡ liên kết bên trong hạt nhân nguyên tử). Lý do là Liên kết hóa học (giữa các electron) có năng lượng cỡ electron-volt (eV) trong khi Liên kết hạt nhân (lực hạt nhân mạnh) có năng lượng cỡ triệu electron-volt (MeV), Chênh lệch khoảng 1 triệu lần ở cấp độ từng phản ứng.

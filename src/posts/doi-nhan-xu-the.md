@@ -1,6 +1,7 @@
 ---
 title: Doi Nhan Xu The
-date: '2026-10-15'
+created_at: '2026-10-15'
+updated_at: '2026-10-15'
 ---
 - càng nói ít, càng ít kẻ thù.
 - không lôi nỗi đau của người khác ra làm trò đùa.

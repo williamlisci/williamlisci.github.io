@@ -1,6 +1,7 @@
 ---
 title: Uc Che Tiem An
-date: '2026-08-16'
+created_at: '2026-08-16'
+updated_at: '2026-08-16'
 ---
 - Ức chế tiềm ẩn (Latent Inhibition - LI) là "bộ lọc" nhận thức tự động giúp não bộ phớt lờ những thông tin lặp đi lặp 
   lại 

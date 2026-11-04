@@ -2,12 +2,12 @@ import type React from "react";
 
 interface SiteIntroProps {
   totalPosts: number;
-  latestDate: string | null;
+  latestUpdatedAt: string | null;
 }
 
 // Tách riêng khối giới thiệu ra khỏi PostList để component list
 // chỉ tập trung vào logic search/pagination, dễ đọc & test hơn.
-const SiteIntro: React.FC<SiteIntroProps> = ({ totalPosts, latestDate }) => {
+const SiteIntro: React.FC<SiteIntroProps> = ({ totalPosts, latestUpdatedAt }) => {
   return (
     <div className="prose prose-invert max-w-none mb-12">
       <p className="text-lg text-gray-300 text-justify leading-relaxed">
@@ -29,7 +29,7 @@ const SiteIntro: React.FC<SiteIntroProps> = ({ totalPosts, latestDate }) => {
         </a>
 
         <br />- Tổng số bài đăng: {totalPosts} bài.
-        {latestDate && ` Cập nhật lần cuối: ${latestDate}.`}
+        {latestUpdatedAt && ` Cập nhật lần cuối: ${latestUpdatedAt}.`}
         <br />- Cố vấn khoa học: Gemini AI
       </p>
     </div>

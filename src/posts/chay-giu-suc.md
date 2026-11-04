@@ -1,6 +1,7 @@
 ---
 title: Chay Giu Suc
-date: '2026-10-27'
+created_at: '2026-10-27'
+updated_at: '2026-10-27'
 ---
 - trên con đường đi đến thành tựu, chạy giữ sức thì mới chạy được đường dài.
 - Kiệt sức ngay khi vừa rời khỏi vạch xuất phát là nguyên nhân lớn nhất khiến người ta bỏ cuộc giữa chừng. Năng lượng, trí lực và tài chính của con người là hữu hạn. Thay vì dốc toàn lực cho một giai đoạn ngắn để "phô trương", người khôn ngoan biết phân chia sức lực theo từng chặng. Thành tựu lớn không đến từ một cú "chạy nước rút" may mắn, mà là kết quả của sự bền bỉ tích lũy mỗi ngày. Giống như vận động viên chạy marathon, việc giữ vững một nhịp độ đều đặn, không để bản thân quá hưng phấn rồi suy kiệt, sẽ giúp bạn tiến xa hơn kẻ chạy nhanh nhưng nhanh chóng gục ngã.

@@ -1,6 +1,7 @@
 ---
 title: Tam Ly
-date: '2026-10-26'
+created_at: '2026-10-26'
+updated_at: '2026-10-26'
 ---
 - Tâm lý con người ảnh hưởng rất lớn đến chất lượng của quá trình ra quyết định, giúp hạn chế những sai lầm do áp lực và phản ứng cảm tính.
 - dưới góc nhìn tâm lý học, tâm lý vững vàng thể hiện ở khả năng điều chỉnh cảm xúc và hành vi ngay cả khi nỗi sợ thất bại vẫn tồn tại. Điểm khác biệt không nằm ở việc ai không có nỗi sợ, mà nằm ở việc ai có khả năng ngăn nỗi sợ chi phối hành động.

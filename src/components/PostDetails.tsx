@@ -12,10 +12,9 @@ import { useDocumentMeta } from "../hooks/useDocumentMeta";
 interface Post {
 	slug: string;
 	title: string;
-	date: string | null;
 }
 
-// posts-index.json đã được generate-posts-index.mjs sort theo date mới nhất
+// posts-index.json đã được generate-posts-index.mjs sort theo ngày cập nhật mới nhất
 // trước, nên "bài trước/bài tiếp theo" chỉ đơn giản là phần tử liền kề
 // trong mảng này.
 const posts = postsIndex as Post[];

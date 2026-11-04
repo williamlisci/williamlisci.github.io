@@ -1,6 +1,7 @@
 ---
 title: UFO
-date: '2026-08-16'
+created_at: '2026-08-16'
+updated_at: '2026-08-16'
 ---
 - Nghịch lý Fermi nói rằng Dải Ngân hà chứa hàng trăm tỷ ngôi sao, và hầu như mỗi ngôi sao đều có các hành tinh quay quanh chúng. Do đó, xét về mặt xác suất, hẳn phải có rất nhiều nền văn minh tiên tiến trong Dải Ngân hà, và thậm chí có khả năng người ngoài hành tinh đã từng đến thăm Trái đất trong quá khứ, nhưng chúng ta đơn giản là chưa phát hiện ra họ.
 - Các nhà khoa học tin rằng một khi nền văn minh đạt đến cấp độ II, nó hoàn toàn có khả năng rời khỏi hệ sao của mình và đến một thiên hà khác. Các nhà khoa học phân loại các nền văn minh thành bốn cấp độ: nền văn minh cấp độ I có thể sử dụng tất cả các nguồn tài nguyên trên hành tinh của họ; nền văn minh cấp độ II có thể sử dụng tất cả các nguồn tài nguyên trong hệ sao của họ; nền văn minh cấp độ III có thể sử dụng tất cả các nguồn tài nguyên trong dải Ngân hà; và nền văn minh cấp độ IV có thể sử dụng tất cả các nguồn tài nguyên trong vũ trụ. 

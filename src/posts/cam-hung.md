@@ -1,6 +1,7 @@
 ---
 title: Cam Hung
-date: '2026-08-16'
+created_at: '2026-08-16'
+updated_at: '2026-08-16'
 ---
 - Friedrich August Von Kekule (1829-1896), người Đức, một trong những nhà hóa học nổi tiếng nhất châu Âu thế kỷ XIX. Một
   ngày mùa đông năm 1865, Friedrich August Kekulé (1829-1896), nhà hóa học người Đức ngồi ngủ gật cạnh bếp lò trong sự

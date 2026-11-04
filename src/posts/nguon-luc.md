@@ -1,6 +1,7 @@
 ---
 title: Nguon Luc
-date: '2026-10-02'
+created_at: '2026-10-02'
+updated_at: '2026-10-02'
 ---
 -  "nguồn lực" của một con người (bao gồm thể lực, kiến thức, tài chính và thời gian) chính là "dung lượng pin" quyết định bạn có thể tiến bao xa trên con đường mục tiêu của mình.
 - Nguồn lực chính là bệ đỡ để hiện thực hóa mục tiêu, nhưng nguồn lực phải luôn đi đôi với năng lực quản trị. Nếu không có sự cân bằng này, mọi kế hoạch đều là ảo tưởng.

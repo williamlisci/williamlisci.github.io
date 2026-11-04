@@ -1,6 +1,7 @@
 ---
 title: Giao Thoa Ngon Ngu
-date: '2026-08-16'
+created_at: '2026-08-16'
+updated_at: '2026-08-16'
 ---
 - Giao thoa ngôn ngữ là hiện tượng hệ thống ngôn ngữ này chịu ảnh hưởng của hệ thống ngôn ngữ khác khi tiếp xúc, 
   biểu hiện ở việc vay mượn từ vựng, ảnh hưởng ngữ pháp, ảnh hưởng ngữ âm. 

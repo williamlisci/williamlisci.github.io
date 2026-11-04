@@ -1,6 +1,7 @@
 ---
 title: Cau Khuyet
-date: '2026-10-27'
+created_at: '2026-10-27'
+updated_at: '2026-10-27'
 ---
 - "Cầu Khuyết trai"  (求缺斋) chính là tên phòng sách nổi tiếng của Tăng Quốc Phiên — một đại thần triều đình nhà Thanh, người nổi tiếng với học vấn sâu rộng và lối sống vô cùng nghiêm cẩn. Ông đặt tên phòng sách này để tự nhắc nhở bản thân và con cháu rằng: Sự hoàn mỹ tuyệt đối là điều đáng sợ, chỉ có biết giữ mình, chấp nhận cái khuyết thì phúc báu mới bền lâu.
 - "Cầu Khuyết" (求缺): Nghĩa là tìm kiếm sự thiếu sót, mong muốn một chút khiếm khuyết.

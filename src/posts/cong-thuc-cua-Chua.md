@@ -1,6 +1,7 @@
 ---
-title: Cong thuc cua Chua
-date: '2026-10-19'
+title: Cong Thuc Cua Chua
+created_at: '2026-10-19'
+updated_at: '2026-10-19'
 ---
 # Công thức của Chúa: Công thức Euler
 

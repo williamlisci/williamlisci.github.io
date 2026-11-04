@@ -1,6 +1,7 @@
 ---
 title: Qubit
-date: '2026-10-31'
+created_at: '2026-10-31'
+updated_at: '2026-10-31'
 ---
 # Các công nghệ phần cứng dùng để chế tạo qubit
 

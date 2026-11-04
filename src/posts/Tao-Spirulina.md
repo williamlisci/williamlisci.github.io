@@ -1,6 +1,7 @@
 ---
 title: Tao Spirulina
-date: '2026-08-25'
+created_at: '2026-08-25'
+updated_at: '2026-08-25'
 ---
 - tảo xoắn spirulina chứa đầy đủ cả 9 loại acid amin thiết yếu (essential amino acids) mà cơ thể người không tự tổng hợp được, phải lấy từ thực phẩm: leucine, isoleucine, valine, lysine, methionine, phenylalanine, threonine, tryptophan và histidine. Đây là điều làm spirulina khác biệt so với phần lớn protein thực vật, vốn thường thiếu hụt một hoặc vài acid amin thiết yếu.
 - spirulina chứa hầu hết các vitamin B — B1 (thiamin), B2 (riboflavin), B3 (niacin), B5 (acid pantothenic), B6 (pyridoxin), B7 (biotin), B9 (folate), beta-carotene (tiền vitamin A),Vitamin E, Vitamin K

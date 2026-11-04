@@ -4,7 +4,8 @@ import { Link } from "react-router-dom";
 interface FeaturedPost {
   slug: string;
   title: string;
-  date: string | null;
+  created_at: string | null;
+  updated_at: string | null;
 }
 
 interface FeaturedPostsProps {
@@ -41,9 +42,9 @@ const FeaturedPosts: React.FC<FeaturedPostsProps> = ({ posts }) => {
               <span className="text-base group-hover:text-cyan-400 transition-colors">
                 {post.title}
               </span>
-              {post.date && (
+              {(post.updated_at || post.created_at) && (
                 <span className="mt-1 block text-sm text-gray-500">
-                  {post.date}
+                  {post.updated_at || post.created_at}
                 </span>
               )}
             </Link>

@@ -1,6 +1,7 @@
 ---
 title: Nao Phai
-date: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'
 ---
 - cảm xúc và trực giác (đặc trưng của não phải) đóng vai trò cực kỳ quan trọng trong quản trị cuộc đời và thành công, nhưng chúng phải được kiểm soát bởi lý trí.
 -  việc điều ứng hay tiếp nhận cái mới đòi hỏi não phải thay đổi cấu trúc tư duy, tiêu tốn nhiều năng lượng, khiến não bộ có xu hướng "lười biếng", thích đi theo lối mòn quen thuộc thay vì khám phá cái mới.

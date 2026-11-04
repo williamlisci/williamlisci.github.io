@@ -1,6 +1,7 @@
 ---
 title: Tam
-date: '2026-09-27'
+created_at: '2026-09-27'
+updated_at: '2026-09-27'
 ---
 - Tâm là gốc rễ của mọi thiện ác; điều phục được tâm thì mọi việc buông xả, tu hành hay đối diện với nghịch cảnh đều có thể thành tựu
 - Câu nói “Thánh nhân cầu tâm chẳng cầu Phật, ngu nhân cầu Phật chẳng cầu tâm, trí nhân điều tâm chẳng điều thân, ngu nhân điều thân chẳng điều tâm” xuất phát từ các phẩm tài liệu thiền tông, tiêu biểu là tác phẩm Luận Đốn Ngộ Nhập Đạo Yếu Môn của Thiền sư Đại Châu Huệ Hải (đời Đường). Câu này hàm ý Người có trí tuệ (thánh nhân) hiểu rằng Phật tính vốn sẵn ở bên trong tâm mình, nên họ quay về soi chiếu, tu dưỡng và làm sạch nội tâm thay vì đi van xin, tìm kiếm một vị Phật ở bên ngoài. Người trí hiểu rằng gốc rễ của phiền não, thiện ác đều từ tâm mà ra, nên họ tập trung kiểm soát, buông xả và chuyển hóa tâm thức (điều tâm). Kẻ phàm phu chỉ lo hình thức tu tập bên ngoài như ép xác, ngồi thiền lấy hình tướng (điều thân) nhưng tâm trí vẫn đầy tham sân si.

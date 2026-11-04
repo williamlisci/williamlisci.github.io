@@ -1,8 +1,8 @@
 ---
 title: Cong Nghe Hat Nhan
-date: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'
 ---
-
 **Công nghệ hạt nhân** là tập hợp các kỹ thuật và ứng dụng khoa học dựa trên các hiện tượng xảy ra ở cấp độ hạt nhân nguyên tử — chủ yếu là hiện tượng **phóng xạ** (radioactivity) và **phản ứng hạt nhân** (nuclear reactions, như phân hạch — fission).
 
 **Cơ sở khoa học:**

@@ -1,8 +1,8 @@
 ---
-title: Nha khoa hoc nu
-date: '2026-08-16'
+title: Nha Khoa Hoc Nu
+created_at: '2026-08-16'
+updated_at: '2026-08-16'
 ---
-
 - Lise Meitner, nhà vật lý gốc Do Thái, là người đầu tiên giải thích cơ chế phản ứng phân hạch tạo ra một cuộc các mạng hạt nhân và là nền tảng cho việc hình thành nhà máy điện hạt nhân hiện tại. Meitnerium ($Mt$, số hiệu 109): Được đặt theo tên của nhà vật lý hạt nhân tiên phong Lise Meitner.
 - Marie Curie (1867–1934) là nữ nhà vật lý và hóa học người Pháp gốc Ba Lan, nổi tiếng với vai trò tiên phong nghiên cứu về chất phóng xạ. Nguyên tố thứ 96 trong bảng tuần hoàn được đặt tên là Curium (Cm) để vinh danh cả hai vợ chồng Marie và Pierre Curie.
 - Maria Goeppert Mayer, một nhà vật lý và giáo dục có những đóng góp đột phá trong lĩnh vực vật lý hạt nhân. Goeppert Mayer được đồng trao giải Nobel Vật lý năm 1963 vì công trình nghiên cứu về mô hình vỏ hạt nhân.

@@ -1,6 +1,7 @@
 ---
 title: Tri Khon
-date: '2026-10-18'
+created_at: '2026-10-18'
+updated_at: '2026-10-18'
 ---
 - Theo tích xưa, Ngọc Hoàng tổ chức một cuộc thi chạy đua để chọn ra 12 con vật đứng đầu đại diện cho các năm.
 - Trâu là con vật chăm chỉ, khởi hành sớm nhất và về đích đầu tiên. Tuy nhiên, chuột vì nhỏ bé nhưng tinh ranh đã bí mật bám trên sừng trâu. Khi gần đến đích, chuột nhanh chân nhảy vọt lên trước mặt trâu để giành lấy vị trí số một.

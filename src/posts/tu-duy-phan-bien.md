@@ -1,6 +1,7 @@
 ---
 title: Tu Duy Phan Bien
-date: '2026-08-16'
+created_at: '2026-08-16'
+updated_at: '2026-08-16'
 ---
 - Mọi thứ bạn nghe chỉ là một quan điểm, không phải là sự thật. Mọi thứ chúng ta thấy chỉ là một góc nhìn, không phải là chân lý.
 - Tư duy phản biện là động lực của sự phát triển khoa học.

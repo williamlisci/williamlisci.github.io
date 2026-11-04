@@ -1,6 +1,7 @@
 ---
 title: Ban Linh
-date: '2026-10-24'
+created_at: '2026-10-24'
+updated_at: '2026-10-24'
 ---
 - bản lĩnh thực sự là sự kết hợp của sức mạnh của sư tử để răn đe kẻ thù và sự tinh ranh của cáo để nhận diện những cạm bẫy ngầm.
 - Sự kết hợp này tạo nên một bản lĩnh toàn diện nhờ hai yếu tố bù trừ hoàn hảo cho nhau:

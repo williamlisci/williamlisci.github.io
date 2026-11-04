@@ -1,6 +1,7 @@
 ---
 title: Duc Tin
-date: '2026-10-15'
+created_at: '2026-10-15'
+updated_at: '2026-10-15'
 ---
 - Tin Mừng theo Thánh Gioan (Ga 20, 24-29):
 Bối cảnh xảy ra khi tông đồ Tôma hoài nghi về việc Chúa đã sống lại. Ông đòi phải "xỏ ngón tay vào lỗ đinh". Sau khi cho Tôma thỏa lòng, Chúa Giêsu đã nói:
