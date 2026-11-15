@@ -1,5 +1,47 @@
 [
   {
+    "slug": "diem-tua",
+    "title": "Diem Tua",
+    "created_at": "2026-11-15",
+    "updated_at": "2026-11-15"
+  },
+  {
+    "slug": "lao-hoa-o-nam-gioi",
+    "title": "Lao Hoa O Nam Gioi",
+    "created_at": "2026-11-15",
+    "updated_at": "2026-11-15"
+  },
+  {
+    "slug": "toi-uu-hoa",
+    "title": "Toi Uu Hoa",
+    "created_at": "2026-11-15",
+    "updated_at": "2026-11-15"
+  },
+  {
+    "slug": "tu-duy-linh-hoat",
+    "title": "Tu Duy Linh Hoat",
+    "created_at": "2026-11-15",
+    "updated_at": "2026-11-15"
+  },
+  {
+    "slug": "vo-thuong",
+    "title": "Vo Thuong",
+    "created_at": "2026-11-15",
+    "updated_at": "2026-11-15"
+  },
+  {
+    "slug": "vuot-kho",
+    "title": "Vuot Kho",
+    "created_at": "2026-11-15",
+    "updated_at": "2026-11-15"
+  },
+  {
+    "slug": "vuot-nguong",
+    "title": "Vuot Nguong",
+    "created_at": "2026-11-15",
+    "updated_at": "2026-11-15"
+  },
+  {
     "slug": "dai-nhan",
     "title": "Dai Nhan",
     "created_at": "2026-11-09",
@@ -698,12 +740,6 @@
   {
     "slug": "AI",
     "title": "AI",
-    "created_at": "2026-08-16",
-    "updated_at": "2026-08-16"
-  },
-  {
-    "slug": "BCI",
-    "title": "BCI",
     "created_at": "2026-08-16",
     "updated_at": "2026-08-16"
   },
