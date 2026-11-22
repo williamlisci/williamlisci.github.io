@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script>
+      // Chuyển hướng các request lỗi 404 về trang chủ nhưng giữ lại đường dẫn
+      sessionStorage.redirect = location.href;
+      location.href = location.origin + "/?p=" + location.pathname.slice(1);
+    </script>
+  </head>
+  <body>
+      <h1>trang không tồn tại. đang chuyển hướng...</h1>
+  </body>
+</html>

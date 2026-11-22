@@ -1,0 +1,71 @@
+allowBuilds:
+  '@swc/core': false
+
+ignoredBuiltDependencies:
+  - '@swc/core'
+  - esbuild
+
+minimumReleaseAgeExclude:
+  - '@eslint/plugin-kit@0.7.2'
+  - eslint@10.4.1 || 10.8.1 || 10.9.1
+  - vite@8.1.3 || 8.1.4 || 8.3.0
+  - '@types/three@0.185.1 || 0.185.4'
+  - prettier@3.9.5 || 3.9.9
+  - '@react-three/drei@10.7.8'
+  - postcss@8.5.26
+  - '@types/node@26.2.0 || 26.3.0 || 26.4.0 || 26.6.2'
+  - eslint-plugin-react-refresh@0.5.4 || 0.5.7
+  - '@typescript-eslint/eslint-plugin@8.68.0'
+  - '@typescript-eslint/parser@8.68.0'
+  - '@typescript-eslint/project-service@8.68.0'
+  - '@typescript-eslint/scope-manager@8.68.0'
+  - '@typescript-eslint/tsconfig-utils@8.68.0'
+  - '@typescript-eslint/type-utils@8.68.0'
+  - '@typescript-eslint/types@8.68.0'
+  - '@typescript-eslint/typescript-estree@8.68.0'
+  - '@typescript-eslint/utils@8.68.0'
+  - '@typescript-eslint/visitor-keys@8.68.0'
+  - typescript-eslint@8.68.0
+  - '@react-three/postprocessing@3.1.1 || 3.1.2 || 3.1.3'
+  - '@biomejs/biome@2.5.11 || 2.5.13 || 2.6.3 || 2.6.5'
+  - '@biomejs/cli-darwin-arm64@2.5.11 || 2.5.13 || 2.6.3 || 2.6.5'
+  - '@biomejs/cli-darwin-x64@2.5.11 || 2.5.13 || 2.6.3 || 2.6.5'
+  - '@biomejs/cli-linux-arm64-musl@2.5.11 || 2.5.13 || 2.6.3 || 2.6.5'
+  - '@biomejs/cli-linux-arm64@2.5.11 || 2.5.13 || 2.6.3 || 2.6.5'
+  - '@biomejs/cli-linux-x64-musl@2.5.11 || 2.5.13 || 2.6.3 || 2.6.5'
+  - '@biomejs/cli-linux-x64@2.5.11 || 2.5.13 || 2.6.3 || 2.6.5'
+  - '@biomejs/cli-win32-arm64@2.5.11 || 2.5.13 || 2.6.3 || 2.6.5'
+  - '@biomejs/cli-win32-x64@2.5.11 || 2.5.13 || 2.6.3 || 2.6.5'
+  - '@vitejs/plugin-react@6.1.1'
+  - react-router-dom@7.18.3 || 7.18.4 || 7.18.5
+  - react-router@7.18.3 || 7.18.4 || 7.18.5
+  - autoprefixer@10.5.6 || 10.6.1
+  - '@react-three/fiber@9.8.0 || 9.8.2'
+  - react-dom@19.3.1
+  - react@19.3.1
+  - '@biomejs/cli-android-arm64@2.6.3 || 2.6.5'
+  - '@biomejs/cli-android-x64@2.6.3 || 2.6.5'
+  - katex@0.19.1
+  - '@oxlint/binding-android-arm-eabi@1.94.0'
+  - '@oxlint/binding-android-arm64@1.94.0'
+  - '@oxlint/binding-darwin-arm64@1.94.0'
+  - '@oxlint/binding-darwin-x64@1.94.0'
+  - '@oxlint/binding-freebsd-x64@1.94.0'
+  - '@oxlint/binding-linux-arm-gnueabihf@1.94.0'
+  - '@oxlint/binding-linux-arm-musleabihf@1.94.0'
+  - '@oxlint/binding-linux-arm64-gnu@1.94.0'
+  - '@oxlint/binding-linux-arm64-musl@1.94.0'
+  - '@oxlint/binding-linux-ppc64-gnu@1.94.0'
+  - '@oxlint/binding-linux-riscv64-gnu@1.94.0'
+  - '@oxlint/binding-linux-riscv64-musl@1.94.0'
+  - '@oxlint/binding-linux-s390x-gnu@1.94.0'
+  - '@oxlint/binding-linux-x64-gnu@1.94.0'
+  - '@oxlint/binding-linux-x64-musl@1.94.0'
+  - '@oxlint/binding-openharmony-arm64@1.94.0'
+  - '@oxlint/binding-win32-arm64-msvc@1.94.0'
+  - '@oxlint/binding-win32-ia32-msvc@1.94.0'
+  - '@oxlint/binding-win32-x64-msvc@1.94.0'
+  - oxlint@1.94.0
+
+onlyBuiltDependencies:
+  - '@tailwindcss/oxide'
